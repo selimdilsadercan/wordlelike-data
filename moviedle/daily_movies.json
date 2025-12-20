@@ -1,0 +1,524 @@
+{
+  "generated_at": "2025-12-18T23:30:35.637130",
+  "start_date": "2025-12-18",
+  "end_date": "2026-01-16",
+  "total_days": 30,
+  "settings": {
+    "popularity_percentile_min": 0.0,
+    "popularity_percentile_max": 0.05,
+    "tr_movie_count": 6,
+    "en_movie_count": 24
+  },
+  "daily_movies": [
+    {
+      "date": "2025-12-18",
+      "day": 1,
+      "movie": {
+        "id": 533535,
+        "title": "Deadpool & Wolverine",
+        "original_title": "Deadpool & Wolverine",
+        "year": 2024,
+        "poster_path": "/c3BuUXYjvGcKwZYKZsYjMDFQr1D.jpg",
+        "backdrop_path": "/ufpeVEM64uZHPpzzeiDNIAdaeOD.jpg",
+        "vote_average": 7.567,
+        "vote_count": 8017,
+        "popularity": 34.7027,
+        "original_language": "en",
+        "overview": "Wade Wilson’ın bir paralı asker olarak geçirdiği günler ve Deadpool kimliği artık geride kalmıştır. O şimdi sivil hayatta varlık göstermek için çabalar. Wade, yeni hayatına alışmaya çalışırken, büyük bir tehlike ile karşı karşıya kalınca harekete geçmek zorunda kalır. Ancak bu tehlike ile tek başına baş etmesi zordur. Bu yüzden Wade en az kendisi kadar isteksiz olan Wolverine'i yardım etmesi için ikna etmeye çalışır."
+      }
+    },
+    {
+      "date": "2025-12-19",
+      "day": 2,
+      "movie": {
+        "id": 917496,
+        "title": "Beterböcek Beterböcek",
+        "original_title": "Beetlejuice Beetlejuice",
+        "year": 2024,
+        "poster_path": "/gzU2cRkxoAX29jHLqiIvlByvZIQ.jpg",
+        "backdrop_path": "/kF8ljC7Y4p1UsmKBi2LxelZpqw.jpg",
+        "vote_average": 6.956,
+        "vote_count": 2885,
+        "popularity": 25.2229,
+        "original_language": "en",
+        "overview": "Beklenmedik bir aile trajedisinin ardından, Deetz ailesinin üç nesli Winter River'daki evlerine geri döner. Beterböcek'in hâlâ peşini bırakmadığı Lydia'nın hayatı, asi genç kızı Astrid'in tavan arasındaki gizemli kasaba maketini keşfetmesi ve Öbür Dünya'ya açılan kapının kazara açılmasıyla altüst olur. Her iki âlemde de sorunlar baş gösterirken birinin Beterböcek'in adını üç kez söylemesi ve yaramaz iblisin kendi tarzı karmaşayı ortaya çıkarmak için geri dönmesi artık an meselesidir."
+      }
+    },
+    {
+      "date": "2025-12-20",
+      "day": 3,
+      "movie": {
+        "id": 11324,
+        "title": "Zindan Adası",
+        "original_title": "Shutter Island",
+        "year": 2010,
+        "poster_path": "/epp8lnSQEWe9cYQACEhBDZTY18L.jpg",
+        "backdrop_path": "/rbZvGN1A1QyZuoKzhCw8QPmf2q0.jpg",
+        "vote_average": 8.201,
+        "vote_count": 25141,
+        "popularity": 25.1718,
+        "original_language": "en",
+        "overview": "Amerikan Marşal'ı Teddy Daniels, (DiCaprio) Shutter Island’daki cani delilerin bulunduğu akıl hastanesine geldiğinde, rutin bir soruşturma şeytani bir nitelik kazanır. Soruşturma ilerledikçe, Teddy adaya dair çok daha şaşırtıcı ve çok daha korkutucu gerçeklerle karşılaşır ve bazı yerlerin insanın peşini hiç bırakmadığını öğrenir."
+      }
+    },
+    {
+      "date": "2025-12-21",
+      "day": 4,
+      "movie": {
+        "id": 603,
+        "title": "Matrix",
+        "original_title": "The Matrix",
+        "year": 1999,
+        "poster_path": "/p96dm7sCMn4VYAStA6siNz30G1r.jpg",
+        "backdrop_path": "/tlm8UkiQsitc8rSuIAscQDCnP8d.jpg",
+        "vote_average": 8.236,
+        "vote_count": 27094,
+        "popularity": 38.4442,
+        "original_language": "en",
+        "overview": "Bir bilgisayar programcısı olan Thomas Anderson aynı zamanda Neo nickname'li çok usta bir \"hacker\" dır. Ancak siyah takım elbiseli ve gözlüklü adamların yakın takibindedir. Bu takibin nedenini ise karşılaşacağı Morpheus'dan öğrenecektir. Neo, birden kendini Morpheus'un anlattıklarına güvenmek zorunda kaldığı büyük bir komplonun içinde bulacaktır. İçinde yaşadığımızı sandığımız bu dünya tamamiyle aldatıcıdır. Tüm insanlık aslında uzaydan gelen yaratıkların köleleridir. Neo, Trinity ve Morpheus'un da yardımıyla kendilerini bu düzeni yıkmaya adayan bir grubun içine katılır."
+      }
+    },
+    {
+      "date": "2025-12-22",
+      "day": 5,
+      "movie": {
+        "id": 845781,
+        "title": "Kod Adı: Kırmızı",
+        "original_title": "Red One",
+        "year": 2024,
+        "poster_path": "/ymEu97tJ8h2sUAhaw8CU3MGTi9v.jpg",
+        "backdrop_path": "/rOmUuQEZfPXglwFs5ELLLUDKodL.jpg",
+        "vote_average": 7.026,
+        "vote_count": 2794,
+        "popularity": 34.0774,
+        "original_language": "en",
+        "overview": "Kuzey Kutbu'nun Güvenlik Şefi (Dwayne Johnson), Noel'i kurtarmak için dünyanın en kötü şöhretli ödül avcısıyla (Chris Evans) dünyayı dolaşacakları aksiyon dolu bir görevde bir araya gelmek zorunda kalır."
+      }
+    },
+    {
+      "date": "2025-12-23",
+      "day": 6,
+      "movie": {
+        "id": 474350,
+        "title": "O: Bölüm 2",
+        "original_title": "It Chapter Two",
+        "year": 2019,
+        "poster_path": "/kMsi0Op9JJASx7ph0NvQvkM6lrE.jpg",
+        "backdrop_path": "/8moTOzunF7p40oR5XhlDvJckOSW.jpg",
+        "vote_average": 6.838,
+        "vote_count": 9308,
+        "popularity": 53.4608,
+        "original_language": "en",
+        "overview": "Kaybedenler Kulübü tarafından yenilgiye uğratılmasından yirmi yedi yıl sonra, Pennywise, Derry kasabasını yeniden dehşete düşürmek üzere geri döner. Artık birer yetişkin olan Kaybedenler Kulübü üyeleri Derry'i terk etmiş ve kendi yollarını çoktan çizmişlerdir. Derry'de çocukların tekrardan ortadan kaybolmaya başlamasıyla, kulübün kasabada kalmış tek üyesi olan Mike diğerlerini kasabaya geri çağırır. Geçmişin deneyimlerinden dolayı yıpranmış olan kulüp üyelerinin Pennywise’ı bu kez sonsuza dek ortadan kaldırabilmek için kendi en derin korkularıyla yüzleşmeleri gerekecektir."
+      }
+    },
+    {
+      "date": "2025-12-24",
+      "day": 7,
+      "movie": {
+        "id": 502356,
+        "title": "Süper Mario Kardeşler Filmi",
+        "original_title": "The Super Mario Bros. Movie",
+        "year": 2023,
+        "poster_path": "/1AlZ25eQsA36dMzVmUuorTjwgAy.jpg",
+        "backdrop_path": "/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg",
+        "vote_average": 7.602,
+        "vote_count": 10122,
+        "popularity": 39.7306,
+        "original_language": "en",
+        "overview": "Brooklyn’li tesisatçılar Mario ve erkek kardeşi Luigi bir ana su borusunu tamir etmek için yeraltında çalışırken gizemli bir borudan aktarılarak sihirli, yeni bir dünyaya girerler. Ama kardeşler ayrı düşünce Mario, Luigi’yi bulmak için destansı bir maceraya çıkar. Mario, Mantar Krallığı sakini Toad’un yardımıyla ve Mantar Krallığı’nın iradesi güçlü yöneticisi Prenses Peach’ten aldığı bazı eğitimlerle gücünü bulur."
+      }
+    },
+    {
+      "date": "2025-12-25",
+      "day": 8,
+      "movie": {
+        "id": 76341,
+        "title": "Mad Max: Fury Road",
+        "original_title": "Mad Max: Fury Road",
+        "year": 2015,
+        "poster_path": "/mnKUoJFdNbQVs4f7nEGW6p7CgsA.jpg",
+        "backdrop_path": "/uT895WNwm0aIJRtGizcQhrejWUo.jpg",
+        "vote_average": 7.628,
+        "vote_count": 23573,
+        "popularity": 26.5682,
+        "original_language": "en",
+        "overview": "Çalkantılı geçmişi Mad Max’i hayatta kalmak için en iyi yolun yalnız olmak gerektiğine inandırmıştır. Yine de, Furiosa adlı liderlerinin peşinde çorak topraklardaki savaş ortamından sürekli kaçarak hayatta kalmaya çalışan bir grubun arasına sürüklenir. Yaşadıkları ortamı zalimce yöneten Immortan Joe’dan kaçmaktadırlar. Joe ise kendisinden çalınan ve yeri doldurulamayacak derecede önemli kaybının peşindedir."
+      }
+    },
+    {
+      "date": "2025-12-26",
+      "day": 9,
+      "movie": {
+        "id": 817889,
+        "title": "Aşkın Kıyameti",
+        "original_title": "Aşkın Kıyameti",
+        "year": 2022,
+        "poster_path": "/sdv1uv8UgvgeFKW6n7SxbopWtA4.jpg",
+        "backdrop_path": "/zgmbWPzRcq5vwqBmONzvkdNDtnD.jpg",
+        "vote_average": 6.478,
+        "vote_count": 23,
+        "popularity": 7.9814,
+        "original_language": "tr",
+        "overview": "Genç bir adam olan Fırat, reklam şirketinin batmasıyla borç içinde kalır. Bu sırada bir yoga etkinliğine katılan Fırat, burada şarkıcı bir kadına gönlünü kaptırır. Birlikte, kim olduklarını keşfedecekleri bir yolculuğa çıkan çift, kendilerini bilinmezliklerin içerisinde bulur."
+      }
+    },
+    {
+      "date": "2025-12-27",
+      "day": 10,
+      "movie": {
+        "id": 141216,
+        "title": "Adı Vasfiye",
+        "original_title": "Adı Vasfiye",
+        "year": 1985,
+        "poster_path": "/wB4aLywUQ0ZnGS0tivB9h338xrI.jpg",
+        "backdrop_path": "/f0WVpizXWAkkHnn28DFqtD975QZ.jpg",
+        "vote_average": 7.0,
+        "vote_count": 20,
+        "popularity": 3.8554,
+        "original_language": "tr",
+        "overview": "Ege kasabalarında el değiştirerek, erkekler arasında sürüklenerek geçen Vasfiye isimli taşralı bir kadının hikayesi farklı anlatıcılar tarafından anlatılıyor. Anlatıcı her değiştiğinde hikaye değişir. Ancak hangi hikayenin gerçek olduğu bilinmemektedir."
+      }
+    },
+    {
+      "date": "2025-12-28",
+      "day": 11,
+      "movie": {
+        "id": 680,
+        "title": "Ucuz Roman",
+        "original_title": "Pulp Fiction",
+        "year": 1994,
+        "poster_path": "/AgY33Wtg4737MhYopJSFyKWhKsO.jpg",
+        "backdrop_path": "/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+        "vote_average": 8.487,
+        "vote_count": 29389,
+        "popularity": 37.0904,
+        "original_language": "en",
+        "overview": "Jules Winnfield ve Vincent Vega, mafya babası patronları Marsellus Wallace’tan çalınan bir çantayı geri almaya giden iki profesyonel tetikçidir. Wallace aynı zamanda Vincent’a, kendisi birkaç gün sonra şehir dışındayken karısını dışarı çıkarmasını söyler. Butch Coolidge, bir sonraki maçını kaybetmesi için Wallace’tan para alan yaşlı bir boksördür. Honey Bunny ve Pumpkin, yer değişikliğine ihtiyaçları olduğuna karar veren soyguncu bir çifttir. Görünüşte birbirleriyle alakası olmayan bu insanların hayatları, hem heyecanlı hem de eğlendirici bir sinema filmi macerasında nefes kesici bir şekilde birleşecektir."
+      }
+    },
+    {
+      "date": "2025-12-29",
+      "day": 12,
+      "movie": {
+        "id": 1422227,
+        "title": "Aşk Sadece Bir An",
+        "original_title": "Aşk Sadece Bir An",
+        "year": 2025,
+        "poster_path": "/rwiMs8Lr6FAjvXEiQzTJyxLqZee.jpg",
+        "backdrop_path": "/oz4HTAYTtT0p8kdruZOAKV20nh9.jpg",
+        "vote_average": 6.6,
+        "vote_count": 10,
+        "popularity": 8.9786,
+        "original_language": "tr",
+        "overview": "Bir barda çalışan Rüzgar, bir gün arkadaşına yardım etmek için onun yerine taksiye çıkar. Bu yolculukta hayatının aşkı Hayal ile tanışır. İkilisinin arasındaki aşk, Rüzgar'ın geçmişi ve Hayal'in ailesi sebebiyle bir çıkmaza girer."
+      }
+    },
+    {
+      "date": "2025-12-30",
+      "day": 13,
+      "movie": {
+        "id": 772,
+        "title": "Evde Tek Başına 2: New York'ta Kayıp",
+        "original_title": "Home Alone 2: Lost in New York",
+        "year": 1992,
+        "poster_path": "/7YY9olih5CJEqNoTxLF3Fsjjbu4.jpg",
+        "backdrop_path": "/dGiPJO75b9GmXqxvusbKlcYrDcg.jpg",
+        "vote_average": 6.769,
+        "vote_count": 10242,
+        "popularity": 38.3041,
+        "original_language": "en",
+        "overview": "Kevin McCallister tekrardan karşımızda! Bu sefer New York şehrinde. Yeterli miktarda nakit para ve New York'u kendi oyun alanına çevirmesine sağlayacak kredi kartlarıyla birlikte. Fakat Kevin bu şekilde uzun süre tek başına kalamayacaktır. Kötü ruhlu haydutlar Harry ve Marv hala Kevin'in peşindedirler."
+      }
+    },
+    {
+      "date": "2025-12-31",
+      "day": 14,
+      "movie": {
+        "id": 929590,
+        "title": "İç Savaş",
+        "original_title": "Civil War",
+        "year": 2024,
+        "poster_path": "/6MhvqGiiylncH61BfiX4GwwKDaN.jpg",
+        "backdrop_path": "/en3GU5uGkKaYmSyetHV4csHHiH3.jpg",
+        "vote_average": 6.854,
+        "vote_count": 3974,
+        "popularity": 23.7036,
+        "original_language": "en",
+        "overview": "İç Savaş, Amerika Birleşik Devletleri'nin çöküşün eşiğinde olduğu ve yerleşik gazetecilerin hayatlarının en büyük hikayesini anlatmak için yarıştığı yakın bir gelecekte geçiyor. Federal hükûmete karşı ayaklanan eyaletler tarafından oluşturulan silahlı ittifak Batı Güçleri, başkente saldırmak üzeredir. Bu süreçte dünyanın dört bir yanında vahşeti görüntüleyen savaş fotoğrafçısı Lee, içlerinde akıl hocalığını üstlendiği Jessie adında hevesli genç bir fotoğrafçının da bulunduğu küçük bir gazeteci grubu ile birlikte başkanla son bir röportaj yapma umuduyla Beyaz Saray’a gider."
+      }
+    },
+    {
+      "date": "2026-01-01",
+      "day": 15,
+      "movie": {
+        "id": 271954,
+        "title": "Su ve Ateş",
+        "original_title": "Su ve Ateş",
+        "year": 2013,
+        "poster_path": "/6mkxYBz0HSvLhCy1M87TNMch39l.jpg",
+        "backdrop_path": "/7CRI8G7pm0HjEptiEEPiCMv3GEV.jpg",
+        "vote_average": 7.9,
+        "vote_count": 177,
+        "popularity": 6.3059,
+        "original_language": "tr",
+        "overview": "Doğunun kanunlarından uzağa kaçan bir adam olan Haşmet ve hayatın acı gerçeklerinden bihaber, saf ve duru bir kız olan Yağmur'un imkansız aşkının hikayesidir. Doğu ve Batının, Güneş ve Ayın, Su ve Ateşin masalıdır bu aşk…"
+      }
+    },
+    {
+      "date": "2026-01-02",
+      "day": 16,
+      "movie": {
+        "id": 19995,
+        "title": "Avatar",
+        "original_title": "Avatar",
+        "year": 2009,
+        "poster_path": "/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg",
+        "backdrop_path": "/7JNzw1tSZZEgsBw6lu0VfO2X2Ef.jpg",
+        "vote_average": 7.595,
+        "vote_count": 32930,
+        "popularity": 62.2412,
+        "original_language": "en",
+        "overview": "Bir hırsızlık olayında ağabeyi ölen yarı felçli Jake Sully, Pandora adındaki uzak bir gezegende görevinin başına geçmeye karar verir. Bu yerde Na’vi adında giderek tükenmekte olan bir halk yaşamaktadır. Askeri bir şirket, söz konusu yeri ve oradaki kaynakları mercek altına almak üzere Avatar adında bir program oluşturmuştur. Bu program insanları kısmen insan kısmen de Na’vi haline büründürerek misyon amaçlı Pandora’ya göndermektedir. Bu sisteme gönüllü dahil olan Botanist Dr. Grace Augustine ve Jake Sully için başka bir yaşam var olacaktır. Sully, Pandora’ya geçtiği anda felçli bedeni değişime uğrayarak işlevsel hale gelir. Bu sırada Na’vi halkından Prenses Neytiri ile karşı karşıya gelen Jake, ansızın bir farkındalık yaşar ve bir araştırma misyonu ile gönderildiği bu gezegeni, kendi dünyalısından korumaya karar verir."
+      }
+    },
+    {
+      "date": "2026-01-03",
+      "day": 17,
+      "movie": {
+        "id": 594767,
+        "title": "Shazam! Tanrıların Öfkesi",
+        "original_title": "Shazam! Fury of the Gods",
+        "year": 2023,
+        "poster_path": "/sPJ561hs7GcV2Ebi3vgE9dtiMSQ.jpg",
+        "backdrop_path": "/kQV9sV0IbastbU5FYxuYwxfMawz.jpg",
+        "vote_average": 6.447,
+        "vote_count": 3495,
+        "popularity": 22.8236,
+        "original_language": "en",
+        "overview": "Bu yapım, genç Billy Batson'un (Shazam) süper güçlerini kullanarak hem kendi içsel sorunlarıyla yüzleşmesini hem de yeni düşmanlarla mücadelesini konu alıyor. Billy ve arkadaşlarının Shazam güçlerini kullanarak hayatlarına devam etmeye çalışmaktalar. Ancak, bu sırada tanrıların dünyasından gelen yeni bir tehdit ortaya çıkar: Hespera ve onun kız kardeşleri, kendilerine ait olan büyülü güçleri geri almak için insan dünyasına gelirler. Hespera, güçlü bir düşman olarak karşımıza çıkarak, Shazam ve ekibi için büyük bir tehlike oluşturur. Billy, Shazam kimliğini koruyarak, hem arkadaşlarıyla birlikte hem de ailesiyle olan bağlarını güçlendirmeye çalışırken, aynı zamanda bu yeni düşmanı durdurmak zorundadır."
+      }
+    },
+    {
+      "date": "2026-01-04",
+      "day": 18,
+      "movie": {
+        "id": 882569,
+        "title": "Antlaşma",
+        "original_title": "Guy Ritchie's The Covenant",
+        "year": 2023,
+        "poster_path": "/90MAsvYlceo9WIppDcAr76r0qDq.jpg",
+        "backdrop_path": "/eTvN54pd83TrSEOz6wbsXEJktCV.jpg",
+        "vote_average": 7.728,
+        "vote_count": 2976,
+        "popularity": 23.8254,
+        "original_language": "en",
+        "overview": "Çavuş John Kinley'in son görev turunda, yolu yerel tercüman Ahmed ile kesişir. Bu görevde ekibine yapılan saldırıdan Ahmed sayesinde kurtulan John, hayatta kalmayı başarır. Evine döndükten sonra, Ahmed'i ve ailesini geride bırakamayacağını anlar. Tüm risklere karşı John da kendi hayatını tehlikeye atarak bölgeye geri döner."
+      }
+    },
+    {
+      "date": "2026-01-05",
+      "day": 19,
+      "movie": {
+        "id": 121,
+        "title": "Yüzüklerin Efendisi: İki Kule",
+        "original_title": "The Lord of the Rings: The Two Towers",
+        "year": 2002,
+        "poster_path": "/AaiH8Yocbg0VMfs0PyXJTJbWrp2.jpg",
+        "backdrop_path": "/kWYfW2Re0rUDE6IHhy4CRuKWeFr.jpg",
+        "vote_average": 8.411,
+        "vote_count": 23172,
+        "popularity": 31.2107,
+        "original_language": "en",
+        "overview": "Yollarını kaybetmiş Hobbitler Frodo ve Sam, esrarengiz Gollum'un kendilerini takip ettiğini farkederler ve onu yakalarlar. Bir zamanlar bir Hobbit olan ve beş yüz yıl sahip olduğu Yüzük tarafından bozulup bir yaratığa dönüştürülen Gollum, kendisini serbest bırakmaları karşılığında, Hobbitleri Mordor'un Kara Kapıları'na götürmeye söz verir. Sam, yeni yol arkadaşına güvenmezken Frodo ise bir zamanlar kendisi gibi bu yüzüğü taşıyan Gollum'a acır. Başka şansı kalmadığı için Gollum'u takip eder."
+      }
+    },
+    {
+      "date": "2026-01-06",
+      "day": 20,
+      "movie": {
+        "id": 74879,
+        "title": "Bir Zamanlar Anadolu'da",
+        "original_title": "Bir Zamanlar Anadolu'da",
+        "year": 2011,
+        "poster_path": "/zV8NUMU4DgWH3JyPqiYBP1vXZSh.jpg",
+        "backdrop_path": "/213Gdu9zjGsVeWQl6p5gJrBq8n8.jpg",
+        "vote_average": 7.5,
+        "vote_count": 517,
+        "popularity": 6.2283,
+        "original_language": "tr",
+        "overview": "Gece bitmek bilmez. Anadolu’nun bozkırında saatlerdir süren bir cinayet soruşturması herkesi yormuştur. Savcı, komiser, jandarma ve doktordan oluşan bir ekip, Kenan’la Ramazan’ın gömdüğü cesedi aramaktadır. Kenan, Yaşar’ı gömerken sarhoş olduğunu, yalnızca top gibi bir ağacı ve bir çeşmeyi hatırladığını söylemiştir. Ceset ya o tepenin ardındadır, ya bu tepenin… Engebeli, yılankavi yolların sırtında iş uzadıkça uzar. Araba farlarının titrek ışığında kuru otlar savrulur, gölgeler büyür, karanlık adım adım koyulaşır. Arap Ali, doktora yaklaşıp “Çoluk çocuk sahibi olunca anlatacak bir hikâyen olur. Fena mı?” der. “Bir zamanlar Anadolu’da, dersin, ücra bir yerde görev yaparken işte başımdan böyle böyle olaylar geçti dersin. Anlatırsın yani masal gibi.”"
+      }
+    },
+    {
+      "date": "2026-01-07",
+      "day": 21,
+      "movie": {
+        "id": 278,
+        "title": "Esaretin Bedeli",
+        "original_title": "The Shawshank Redemption",
+        "year": 1994,
+        "poster_path": "/7T2SDS5efuJiK45oyKoEzf9RKjw.jpg",
+        "backdrop_path": "/zfbjgQE1uSd9wiPTX4VzsLi0rGG.jpg",
+        "vote_average": 8.714,
+        "vote_count": 29367,
+        "popularity": 36.1861,
+        "original_language": "en",
+        "overview": "Genç ve başarılı bir banker olan Andy Dufresne, karısını ve onun sevgilisini öldürmek suçundan ömür boyu hapse mahkum edilir ve Shawshank hapishanesine gönderilir. İşkence, tecavüz, dayak dahil her türlü kötü koşulun hüküm sürdüğü hapishane koşullarında, Andy'nin hayata bağlı ve her daim iyi bir şeyler bulma çabası içindeki hali, çevresindeki herkesi çok etkileyecektir. Bir süre sonra parmaklıkların arkasında bile özgür bir yaşam olabileceğine bütün mahkumları inandırır. Bu mahkumlardan biri olan Ellis Boyd \"Red\" ve Andy, unutulmaz bir dostluk kurarak hapishaneyi bambaşka bir yer haline getirirler."
+      }
+    },
+    {
+      "date": "2026-01-08",
+      "day": 22,
+      "movie": {
+        "id": 120,
+        "title": "Yüzüklerin Efendisi: Yüzük Kardeşliği",
+        "original_title": "The Lord of the Rings: The Fellowship of the Ring",
+        "year": 2001,
+        "poster_path": "/37kdeAEyw8YlVLaAhYazBRAni9S.jpg",
+        "backdrop_path": "/x2RS3uTcsJJ9IfjNPcgDmukoEcQ.jpg",
+        "vote_average": 8.426,
+        "vote_count": 26691,
+        "popularity": 25.0342,
+        "original_language": "en",
+        "overview": "İyiyle kötü arasındaki mücadelenin epik bir anlatımı olan bu filmde, dünyanın kaderini değişterecek olan bir yüzükten kurtulmak için verilen mücadele anlatılıyor. Yıllar önce üretilen ve Orta Dünya topraklarına kandan başka hiçbir şey getirmeyen yüzüklerin sonuncusu, üretiminden yüz yıllar sonra ortaya çıkar. Amcasının kendisine emanet ettiği yüzüğün nelere kadir olduğundan habersiz olan Frodo, büyücü Gandalf'ın anlattıkları sonrasında dehşete kapılır. Bu yüzükten ve savaşlardan kurtulmanın, gücünü toplamaya çalışan Sauron'u engellemenin tek yolu yüzüğü yok etmektir. Yüzüğü yok edilebileceği tek yer olan Mordor'a götürmek için kendini feda eden savaşçılardan oluşan bir ekip oluşturulur. Çok uzun ve çetin geçecek olan yolculuk başlar. Orta Dünya'nın kaderi, bu insanların ellerindedir."
+      }
+    },
+    {
+      "date": "2026-01-09",
+      "day": 23,
+      "movie": {
+        "id": 976573,
+        "title": "Elemental: Doğanın Güçleri",
+        "original_title": "Elemental",
+        "year": 2023,
+        "poster_path": "/8cv1usgB33fqyRjzbKnTGkCiNvi.jpg",
+        "backdrop_path": "/4fLZUr1e65hKPPVw0R3PmKFKxj1.jpg",
+        "vote_average": 7.591,
+        "vote_count": 5060,
+        "popularity": 28.9625,
+        "original_language": "en",
+        "overview": "Disney ve Pixar’ın “Elemental:Doğanın Güçleri” filmi, ateş, su, toprak ve hava halklarının birlikte yaşadığı Element Şehri'nde geçen yepyeni bir orijinal animasyon. Hikâye, sert, kıvrak zekâlı ve çabuk parlayan bir genç kadın olan Alev'in, Deniz adında eğlenceli, duygusal, akışına bırakmış bir adamla olan arkadaşlığının, içinde yaşadıkları dünya hakkında Alev'in inançlarına meydan okumasını anlatıyor."
+      }
+    },
+    {
+      "date": "2026-01-10",
+      "day": 24,
+      "movie": {
+        "id": 360920,
+        "title": "Grinç",
+        "original_title": "The Grinch",
+        "year": 2018,
+        "poster_path": "/fQBYcV2h4szXwcSbhEsB4UpP6TI.jpg",
+        "backdrop_path": "/5lWIYxYEqWi8j3ZloxXntw3ImBo.jpg",
+        "vote_average": 6.873,
+        "vote_count": 4299,
+        "popularity": 30.6283,
+        "original_language": "en",
+        "overview": "Who köyünden ayrılarak dağın başında, kimsenin yaklaşmaya cesaret edemediği mağarasında yaşayan Grinch'e yalnızca sadık köpeği Max eşlik etmektedir. Günlük yaşamın sükunetinden memnun olan Grinch'in kabusu ise, yılbaşı kutlamalarına aşırı düşkün olan Who halkının yıl sonu başlayan coşkusudur. Bu yıl kutlamaların daha da coşkulu olacağının ilan edilmesi sonucu, Grinch bu coşkuyu yok etmek adına, Noel Baba kılığına girerek yılbaşını çalmaya karar verir. O sırada köyde yaşamakta olan küçük Cindy-Lou ise arkadaşlarıyla birlikte yılbaşında Noel Baba'yı yakalayıp, annesine yaptığı yardımlar için teşekkür etme planı yapmaktadır. İkilinin yılbaşı planları birbirlerini nasıl etkileyecektir?"
+      }
+    },
+    {
+      "date": "2026-01-11",
+      "day": 25,
+      "movie": {
+        "id": 13,
+        "title": "Forrest Gump",
+        "original_title": "Forrest Gump",
+        "year": 1994,
+        "poster_path": "/saHP97rTPS5eLmrLQEcANmKrsFl.jpg",
+        "backdrop_path": "/67HggiWaP9ZLv5sPYmyRV37yAJM.jpg",
+        "vote_average": 8.462,
+        "vote_count": 28953,
+        "popularity": 25.0777,
+        "original_language": "en",
+        "overview": "Forrest Gump, düşük IQ’su olmasına rağmen, Amerikan tarihinin en önemli olaylarının tam ortasında yer alan biridir. Alabama'da büyüyen Forrest, koşma yeteneği sayesinde üniversiteye girer, Vietnam Savaşı'na katılır, Beyaz Saray’a davet edilir ve karides işinden milyoner olur. Ancak tüm bu başarılar, çocukluk aşkı Jenny’ye duyduğu sevginin yanında sönük kalır."
+      }
+    },
+    {
+      "date": "2026-01-12",
+      "day": 26,
+      "movie": {
+        "id": 597,
+        "title": "Titanik",
+        "original_title": "Titanic",
+        "year": 1997,
+        "poster_path": "/hEntfzxB8yUXIxqZY929dELjLsi.jpg",
+        "backdrop_path": "/xnHVX37XZEp33hhCbYlQFq7ux1J.jpg",
+        "vote_average": 7.903,
+        "vote_count": 26541,
+        "popularity": 29.238,
+        "original_language": "en",
+        "overview": "Titanik (orijinal adı: Titanic), 1997 yapımı epik bir romantik ve felaket filmidir. Yönetmenliğini James Cameron’ın üstlendiği film, gerçek bir olaydan esinlenerek yazılmıştır. Film, 1912’deki ünlü RMS Titanic’in ilk seferinde geçer ve geminin trajik batışıyla birlikte aşk ve trajediyi işler. Başrollerinde Leonardo DiCaprio (Jack Dawson) ve Kate Winslet (Rose DeWitt Bukater) yer alır.  Titanik, çarpıcı görsel efektleri, etkileyici sinematografisi ve duygusal yoğunluğu ile öne çıkar. Film, dünya çapında büyük bir gişe başarısı elde etmiş ve 11 Oscar ödülü kazanarak sinema tarihinde önemli bir yere sahip olmuştur."
+      }
+    },
+    {
+      "date": "2026-01-13",
+      "day": 27,
+      "movie": {
+        "id": 808,
+        "title": "Şrek",
+        "original_title": "Shrek",
+        "year": 2001,
+        "poster_path": "/cVeJ2kQ9qZmpud57iSKsANyAsNp.jpg",
+        "backdrop_path": "/40Wtp7kMG6mZ4d5T1jfrd8qrvD4.jpg",
+        "vote_average": 7.754,
+        "vote_count": 18179,
+        "popularity": 28.9706,
+        "original_language": "en",
+        "overview": "Şrek, oldukça korkutucu bir görünüme sahip, devasa, yeşil bir troldür. Yalnızlığın getirisiyle, hayatının geri kalanını beraber geçirebileceği, en az kendisi kadar çirkin bir yaratık bulmanın hevesindedir. Bir kahin, kehanetini açıklar. Şrek ile güzeller güzeli bir prenses olan Fiona arasında duygusal bir ilişki cereyan edecektir. Ancak Şrek ne kadar çirkinse Fiona bir o kadar güzeldir. Oldukça garip durumlar ve vaziyetler peyda olmak üzeredir."
+      }
+    },
+    {
+      "date": "2026-01-14",
+      "day": 28,
+      "movie": {
+        "id": 263115,
+        "title": "Logan: Wolverine",
+        "original_title": "Logan",
+        "year": 2017,
+        "poster_path": "/AgjdWvhD1nFHXl51EjBEIdtuiqX.jpg",
+        "backdrop_path": "/4DZxWNSAyksN6N3JkvpJ53Yq6zU.jpg",
+        "vote_average": 7.819,
+        "vote_count": 19992,
+        "popularity": 23.7297,
+        "original_language": "en",
+        "overview": "Yakın gelecekte yaşlanmış ve yorgun olan Wolverine ve Professor X, Meksika sınırında saklanmaktadır. Fakat Logan'ın dünyadan gizlenmesi ve mirası, karanlık güçler tarafından takip edilen genç bir mutant geldiğinde sona erer. Şimdi Wolverine'de genç bir kadın klonunu Nathanial Essex'in liderliğindeki kötü bir organizasyondan korumalıdır."
+      }
+    },
+    {
+      "date": "2026-01-15",
+      "day": 29,
+      "movie": {
+        "id": 436061,
+        "title": "Düttürü Dünya",
+        "original_title": "Düttürü Dünya",
+        "year": 1988,
+        "poster_path": "/vgS7rtdYMyOCkArO6OU4kufpGFQ.jpg",
+        "backdrop_path": "/dxkufY0RajIMR9qBSd2dcpOiBRl.jpg",
+        "vote_average": 7.1,
+        "vote_count": 33,
+        "popularity": 4.4763,
+        "original_language": "tr",
+        "overview": "Mehmet ailesiyle yoksul bir semtte, bir gecekonduda oturmaktadır. Geceleri bir gazinoda klarnet çalarak ailesini geçindirmeye çalışır. Ayrıca besteler de yaparak zengin olmanın peşindedir. Oturdukları ev kayınbiraderine aittir. Kayınbiraderi evlerini bir müteahhide satınca Mehmet ve ailesi zor durumda kalır. Kayınbiraderine borçlanan Mehmet ev tutmak için gündüzleri de çalışmaya başlar."
+      }
+    },
+    {
+      "date": "2026-01-16",
+      "day": 30,
+      "movie": {
+        "id": 299534,
+        "title": "Avengers: Endgame",
+        "original_title": "Avengers: Endgame",
+        "year": 2019,
+        "poster_path": "/bR8ISy1O9XQxqiy0fQFw2BX72RQ.jpg",
+        "backdrop_path": "/9wXPKruA6bWYk2co5ix6fH59Qr8.jpg",
+        "vote_average": 8.237,
+        "vote_count": 27005,
+        "popularity": 22.6383,
+        "original_language": "en",
+        "overview": "Marvel Sinematik Evreni'nin dördüncü aşamasının zirve noktası olarak kabul edilen bu epik filmde, \"Yenilmezler: Sonsuzluk Savaşı\" (2018) olaylarının hemen ardından başlar ve Thanos'un sonsuz taşları kullanarak evrenin yarısını yok etmesinin sonuçlarına odaklanır. Yenilmezler ekibinin hayatta kalan üyelerinin, kaybettikleri arkadaşlarını geri getirmek ve evreni kurtarmak için bir plan hazırlarlar. Tony Stark (Iron Man), Steve Rogers (Captain America), Natasha Romanoff (Black Widow), Bruce Banner (Hulk), Thor ve diğer karakterler, geçmişe dönerek Sonsuz Taşları toplamak için zaman yolculuğu yaparlar. Bu süreçte, eski anılarla yüzleşirler ve birbirleriyle olan bağlarını güçlendirirler. Zaman yolculuğu teması, filmde önemli bir rol oynar ve izleyicilere önceki Marvel filmlerine göndermeler yapılır. Filmin doruk noktası, Yenilmezler'in Thanos ile büyük bir savaşta karşılaşmasıdır. Tüm kahramanlar, kayıplarını telafi etmek ve dünyayı kurtarmak için bir araya gelirler."
+      }
+    }
+  ]
+}

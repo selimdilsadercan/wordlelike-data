@@ -4,6 +4,8 @@ import re
 from urllib.parse import unquote
 import sys
 import os
+import json
+from zeyrek import MorphAnalyzer
 
 def clean_text(text):
     """Metni temizle - fazla boşlukları kaldır ve noktalama kurallarını uygula"""
@@ -128,6 +130,78 @@ def extract_markdown_content(soup):
     
     return '\n'.join(filtered_lines).strip()
 
+def extract_morphology_metadata(text, analyzer):
+    """Metindeki tüm kelimeleri analiz edip kök bazında grupla
+    
+    Returns:
+        list: [{root: "fransız", lemmas: ["fransızlar", "fransızlara", ...]}, ...]
+    """
+    # Metindeki tüm benzersiz kelimeleri bul (Türkçe karakterler dahil)
+    words = set(re.findall(r'\b\w+\b', text))
+    
+    # Her kelime için kökünü bul
+    word_to_root = {}
+    
+    for word in words:
+        # Küçük harfe çevir (karşılaştırma için)
+        word_lower = word.lower()
+        root = None
+        
+        try:
+            analyses = analyzer.analyze(word_lower)
+            if analyses and len(analyses) > 0:
+                # Tüm parse'ları kontrol et, kökü farklı ve geçerli olanı bul
+                for parse_list in analyses:
+                    if len(parse_list) > 0:
+                        lemma = parse_list[0].lemma
+                        # Lemma'yı küçük harfe çevir (karşılaştırma için)
+                        lemma_lower = lemma.lower()
+                        
+                        # Geçersiz kökleri atla (unk, unknown gibi)
+                        if lemma_lower in ['unk', 'unknown', '']:
+                            continue
+                        
+                        # Kökü farklı olan ilk geçerli parse'u bul
+                        if lemma_lower != word_lower:
+                            root = lemma_lower
+                            break
+                
+                # Eğer hiç kökü farklı olan bulunamadıysa, en kısa geçerli kökü al
+                if root is None:
+                    for parse_list in analyses:
+                        if len(parse_list) > 0:
+                            lemma = parse_list[0].lemma.lower()
+                            # Geçersiz kökleri atla
+                            if lemma in ['unk', 'unknown', '']:
+                                continue
+                            if root is None or len(lemma) < len(root):
+                                root = lemma
+        except Exception:
+            # Analiz hatası durumunda kelimeyi atla
+            continue
+        
+        # Sadece kökü farklı ve geçerli olan kelimeleri ekle
+        if root and root != word_lower and root not in ['unk', 'unknown', '']:
+            word_to_root[word_lower] = root
+    
+    # Kök bazında grupla: {root: [word1, word2, ...]}
+    root_to_words = {}
+    for word, root in word_to_root.items():
+        if root not in root_to_words:
+            root_to_words[root] = []
+        root_to_words[root].append(word)
+    
+    # Her kök için kelimeleri sırala ve metadata formatına çevir
+    lemmas_metadata = []
+    for root in sorted(root_to_words.keys()):
+        words_list = sorted(root_to_words[root])
+        lemmas_metadata.append({
+            "root": root,
+            "lemmas": words_list
+        })
+    
+    return lemmas_metadata
+
 def scrape_wikipedia(url):
     """Wikipedia sayfasını çek ve Markdown formatında içerik çıkar"""
     print(f"Wikipedia sayfası çekiliyor: {url}")
@@ -190,11 +264,26 @@ def main():
     content = scrape_wikipedia(url)
     
     if content:
-        # Markdown dosyası olarak kaydet
+        # Zeyrek ile morfoloji metadata'sını çıkar
+        print("\nMorfoloji metadata'sı çıkarılıyor...")
+        analyzer = MorphAnalyzer()
+        lemmas_metadata = extract_morphology_metadata(content, analyzer)
+        
+        # Metadata'yı JSON formatında hazırla
+        metadata_json = json.dumps(lemmas_metadata, ensure_ascii=False, indent=2)
+        
+        # Markdown dosyasına içerik + metadata ekle
         md_filename = f"{safe_title}.md"
         with open(md_filename, 'w', encoding='utf-8') as f:
             f.write(content)
+            f.write('\n\n---\n\n')
+            f.write('```json\n')
+            f.write('lemmas = ')
+            f.write(metadata_json)
+            f.write('\n```\n')
+        
         print(f"\nMarkdown dosyası kaydedildi: {md_filename}")
+        print(f"Morfoloji metadata'sı eklendi: {len(lemmas_metadata)} farklı kök")
         
         print(f"\nToplam karakter sayısı: {len(content)}")
         print(f"Toplam kelime sayısı: {len(content.split())}")

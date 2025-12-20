@@ -3,7 +3,7 @@ import numpy as np
 import json
 import sys
 
-WORDLIST = "./core/words_contexto_filtered.txt"     # temiz liste
+WORDLIST = "../core/words_contexto_filtered.txt"     # temiz liste
 
 def load_words(path):
     with open(path, "r", encoding="utf-8") as f:
