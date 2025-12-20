@@ -10,7 +10,7 @@ import sys
 IN_FILE = "./wordle/words_wordle_5letters.txt"
 OUT_FILE = "./wordle/words_wordle_5letters_filtered.txt"
 DEBUG_OUTPUT = "./wordle/words_wordle_5letters_freq_debug.txt"  # Tüm kelimeler ve frequency değerleri
-MIN_FREQUENCY = 1.58e-06  # Minimum yaygınlık eşiği (varsayılan: 0.0000001)
+MIN_FREQUENCY = 1.17e-05  # Minimum yaygınlık eşiği (varsayılan: 0.0000001)
 
 def get_word_frequency(word, lang='tr'):
     """

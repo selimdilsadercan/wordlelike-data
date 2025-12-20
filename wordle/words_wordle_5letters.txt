@@ -268,7 +268,6 @@ ayyuk
 ayıcı
 azade
 azami
-azgın
 azize
 azlık
 azmak
@@ -3635,7 +3634,6 @@ sekel
 sekiz
 sekiş
 sekme
-seksi
 sekte
 selam
 selef
@@ -4104,7 +4102,6 @@ terki
 terli
 terme
 terzi
-terör
 tesir
 tesis
 tesit
