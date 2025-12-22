@@ -1,22 +1,15 @@
 from sentence_transformers import SentenceTransformer
 import numpy as np
 import json
-import sys
 
-WORDLIST = "../core/words_contexto_filtered.txt"     # temiz liste
+WORDLIST = "./contexto/words_contexto_filtered.txt"     # temiz liste
 
 def load_words(path):
     with open(path, "r", encoding="utf-8") as f:
         return [w.strip() for w in f if w.strip()]
 
 def main():
-    # Komut satırından parametre al
-    if len(sys.argv) < 2:
-        print("Kullanım: python rank_word.py <kelime>")
-        print("Örnek: python rank_word.py uyku")
-        sys.exit(1)
-    
-    target_word = sys.argv[1]
+    target_word = input("Kelime seçin")
     output_file = "word.json"
     
     print(f"Hedef kelime: {target_word}")

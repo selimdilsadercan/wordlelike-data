@@ -3,8 +3,8 @@ Wordle için 5 harfli kelimeleri filtreler.
 words_contexto.txt dosyasından sadece 5 harfli kelimeleri çıkarır.
 """
 
-IN_FILE = "words_contexto.txt"
-OUT_FILE = "words_wordle_5letters.txt"
+IN_FILE = "./contexto/words_contexto.txt"
+OUT_FILE = "./wordle/words_wordle_5letters.txt"
 
 def main():
     print("5 harfli kelimeler filtreleniyor...")

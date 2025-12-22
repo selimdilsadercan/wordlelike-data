@@ -1,8 +1,8 @@
 import random
 
-IN_FILE = "words_original.txt"              # ham TDK sözlüğün
-OUT_FILE = "words_contexto.txt"    # çıkacak temiz liste
-BLACKLIST_FILE = "karaliste.txt"   # küfür/istenmeyen kelimeler
+IN_FILE = "./core/words_original.txt"              # ham TDK sözlüğün
+OUT_FILE = "./contexto/words_contexto.txt"    # çıkacak temiz liste
+BLACKLIST_FILE = "./core/karaliste.txt"   # küfür/istenmeyen kelimeler
 blacklist_fix_words = ["ana", "oğlan"]  # Karalistede olsa bile silinmeyecek kelimeler
 
 TR_CHARS = set("abcçdefgğhıijklmnoöprsştuüvyz")
