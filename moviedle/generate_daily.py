@@ -151,6 +151,7 @@ def generate_daily_movies():
                 "popularity": movie.get("popularity"),
                 "original_language": movie.get("original_language"),
                 "overview": movie.get("overview"),
+                "genre_ids": movie.get("genre_ids", []),
                 "cast": movie.get("cast", []),
             }
         }

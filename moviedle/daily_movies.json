@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-20T22:36:40.441009",
+  "generated_at": "2025-12-23T16:29:38.498400",
   "start_date": "2025-12-18",
   "end_date": "2026-01-16",
   "total_days": 30,
@@ -14,86 +14,90 @@
       "date": "2025-12-18",
       "day": 1,
       "movie": {
-        "id": 49521,
-        "title": "Çelik Adam",
-        "original_title": "Man of Steel",
-        "year": 2013,
-        "poster_path": "/bhk5K2DRlc5zLtu0iwHqcJcm0ci.jpg",
-        "backdrop_path": "/69EFgWWPFWbRNHmQgYdSnyJ94Ge.jpg",
-        "vote_average": 6.64,
-        "vote_count": 15813,
-        "popularity": 23.4435,
+        "id": 945961,
+        "title": "Alien: Romulus",
+        "original_title": "Alien: Romulus",
+        "year": 2024,
+        "poster_path": "/2uSWRTtCG336nuBiG8jOTEUKSy8.jpg",
+        "backdrop_path": "/9SSEUrSqhljBMzRe4aBTh17rUaC.jpg",
+        "vote_average": 7.2,
+        "vote_count": 4144,
+        "popularity": 24.4854,
         "original_language": "en",
-        "overview": "Gerçek güç, sadece düşmanları yenmekte değil; aynı zamanda kim olduğumuzu kabullenmekte ve bu kimliği dünyaya sunmakta yatar. Ve Superman'in hikâyesi böyle başlar.  Kal-El adında Krypton gezegeninden gelen bir çocuğun dünyada Clark Kent olarak büyümesini ve kendi kimliğini bulma yolculuğunu takip ediyor. Krypton'un yok olmasının ardından, küçük Clark, Kansas'ta Martha ve Jonathan Kent tarafından evlat edinilir. Henüz yetişme çağındayken, süper güçleri olduğunu keşfeder, ancak bu güçlerin sorumluluğunu anlamak onun için zorlu bir süreçtir. Clark, Zod adındaki bir düşmanla karşılaşır; Zod, Krypton'un intikamını almak ve dünyayı ele geçirmek istemektedir. Clark, Superman kimliğiyle ortaya çıkarak hem kendi geçmişiyle yüzleşir hem de dünyayı korumak için savaşır.",
+        "overview": "Uzay sömürgecileri Rain, Andy, Tyler, Kay, Bjorn ve Navarro, görünüşte tamamen terk edilmiş gibi gözüken bir uzay istasyonunda bir şeyler bulma umuduyla arama yapar. Ancak onların gerçekte neler olup bittiğine dair hiçbir fikri yoktur. Çok geçmeden grup, dünyanın en korkutucu yaşam formu ile karşılaşacaktır.",
+        "genre_ids": [
+          27,
+          878
+        ],
         "cast": [
           {
-            "id": 73968,
-            "name": "Henry Cavill",
-            "character": "Clark Kent / Superman / Kal-El",
-            "profile_path": "/kN3A5oLgtKYAxa9lAkpsIGYKYVo.jpg",
+            "id": 1683343,
+            "name": "Cailee Spaeny",
+            "character": "Rain",
+            "profile_path": "/qFqXdfZMtsWKyErnIC6dLEvvDKk.jpg",
             "order": 0
           },
           {
-            "id": 9273,
-            "name": "Amy Adams",
-            "character": "Lois Lane",
-            "profile_path": "/ify7UiQkVMQ0uCUX0F0AuzLK1vS.jpg",
+            "id": 2761308,
+            "name": "David Jonsson",
+            "character": "Andy",
+            "profile_path": "/2ZZNGZw57KKMrVIr27g7W16G0jV.jpg",
             "order": 1
           },
           {
-            "id": 934,
-            "name": "Russell Crowe",
-            "character": "Jor-El",
-            "profile_path": "/uxiXuVH4vNWrKlJMVVPG1sxAJFe.jpg",
+            "id": 2164506,
+            "name": "Archie Renaux",
+            "character": "Tyler",
+            "profile_path": "/uTd18t2VJovN2jSJyhuG8Yy3PV6.jpg",
             "order": 2
           },
           {
-            "id": 335,
-            "name": "Michael Shannon",
-            "character": "General Zod",
-            "profile_path": "/6mMczfjM8CiS1WuBOgo5Xom1TcR.jpg",
+            "id": 1428070,
+            "name": "Isabela Merced",
+            "character": "Kay",
+            "profile_path": "/7O5GWIH8IHwU4kGZIhC3JkGDiZr.jpg",
             "order": 3
           },
           {
-            "id": 1269,
-            "name": "Kevin Costner",
-            "character": "Jonathan Kent",
-            "profile_path": "/bykmxJHLfbFM3NT05RZXhx8YTzF.jpg",
+            "id": 2304140,
+            "name": "Spike Fearn",
+            "character": "Bjorn",
+            "profile_path": "/o1WcXkDdlN5wdL5WIuGXNpNouZ9.jpg",
             "order": 4
           },
           {
-            "id": 2975,
-            "name": "Laurence Fishburne",
-            "character": "Perry White",
-            "profile_path": "/2GbXERENPpl5MmlqOLlPVaVtifD.jpg",
+            "id": 3948018,
+            "name": "Aileen Wu",
+            "character": "Navarro",
+            "profile_path": "/gjW0BFkxowjzOVFyVMfgpCTkyl0.jpg",
             "order": 5
           },
           {
-            "id": 2882,
-            "name": "Diane Lane",
-            "character": "Martha Kent",
-            "profile_path": "/6OfP3vFMuCL51zamFKgb8aS74hs.jpg",
+            "id": 1737976,
+            "name": "Rosie Ede",
+            "character": "WY Officer",
+            "profile_path": "/h6HTwvixLAq9HMGVyoAlWwahuA0.jpg",
             "order": 6
           },
           {
-            "id": 8786,
-            "name": "Ayelet Zurer",
-            "character": "Lara Lor-Van",
-            "profile_path": "/ea3MLLgsIdDhDLkjUCmkR0ZxjDC.jpg",
+            "id": 4848544,
+            "name": "Soma Simon",
+            "character": "10-Year-Old Punk #1",
+            "profile_path": null,
             "order": 7
           },
           {
-            "id": 22227,
-            "name": "Christopher Meloni",
-            "character": "Colonel Nathan Hardy",
-            "profile_path": "/nHlFFbRTh85vkohBBtRQjYnWEtb.jpg",
+            "id": 4848546,
+            "name": "Bence Okeke",
+            "character": "10-Year-Old Punk #2",
+            "profile_path": null,
             "order": 8
           },
           {
-            "id": 31028,
-            "name": "Richard Schiff",
-            "character": "Dr. Emil Hamilton",
-            "profile_path": "/oFDka3Y5H3DBiZRqbdPabtX8ncP.jpg",
+            "id": 4848547,
+            "name": "Viktor Orizu",
+            "character": "10-Year-Old Punk #3",
+            "profile_path": null,
             "order": 9
           }
         ]
@@ -103,86 +107,91 @@
       "date": "2025-12-19",
       "day": 2,
       "movie": {
-        "id": 634649,
-        "title": "Örümcek-Adam: Eve Dönüş Yok",
-        "original_title": "Spider-Man: No Way Home",
-        "year": 2021,
-        "poster_path": "/owp86mH42Un19egdeeZPImufBxN.jpg",
-        "backdrop_path": "/tyQo080tijexyUHBvWPwQt26bZa.jpg",
-        "vote_average": 7.937,
-        "vote_count": 21351,
-        "popularity": 41.115,
+        "id": 122,
+        "title": "Yüzüklerin Efendisi: Kralın Dönüşü",
+        "original_title": "The Lord of the Rings: The Return of the King",
+        "year": 2003,
+        "poster_path": "/qwigzi0gOcXZRxbm488wT31t2UZ.jpg",
+        "backdrop_path": "/2u7zbn8EudG6kLlBzUYqP8RyFU4.jpg",
+        "vote_average": 8.491,
+        "vote_count": 25744,
+        "popularity": 27.012,
         "original_language": "en",
-        "overview": "Örümcek Adam'ın sinema tarihinde ilk kez, dost canlısı mahalle kahramanımız maskesizdir ve artık normal hayatıyla süper kahraman olmanın yüksek risklerini birbirinden ayıramıyordur. Doctor Strange'den yardım istediğinde, riskler daha da tehlikeli hale gelir ve onu Örümcek Adam olmanın gerçekte ne anlama geldiğini keşfetmeye zorlar.",
+        "overview": "Karanlığın bütün güçleri son savaş için bir araya gelirken Gandalf, Gondor'un yaralı ordusunu toparlamak için hazırlıklara başlar. Thoden, tarihin bu en büyük savaşı için tüm savaşçılarını seferber eder. İçlerinde saklanan Eowyn ve Merry ile birlikte insanlar, tüm cesaretlerine rağmen Gondor'u kuşatan düşmanlar karşısında güçsüzdür. Yinede Yüzük Taşıyıcısı'nın yolculuğunu tamamlamasini için hayatlarının en zor savaşında birbirlerine kenetlenirler.",
+        "genre_ids": [
+          12,
+          14,
+          28
+        ],
         "cast": [
           {
-            "id": 1136406,
-            "name": "Tom Holland",
-            "character": "Peter Parker / Spider-Man",
-            "profile_path": "/4jG9XoIjrkIrkYXB9IjegsomL46.jpg",
+            "id": 109,
+            "name": "Elijah Wood",
+            "character": "Frodo",
+            "profile_path": "/7UKRbJBNG7mxBl2QQc5XsAh6F8B.jpg",
             "order": 0
           },
           {
-            "id": 505710,
-            "name": "Zendaya",
-            "character": "MJ",
-            "profile_path": "/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg",
+            "id": 1327,
+            "name": "Ian McKellen",
+            "character": "Gandalf",
+            "profile_path": "/coWjgMEYJjk2OrNddlXCBm8EIr3.jpg",
             "order": 1
           },
           {
-            "id": 71580,
-            "name": "Benedict Cumberbatch",
-            "character": "Doctor Strange",
-            "profile_path": "/wz3MRiMmoz6b5X3oSzMRC9nLxY1.jpg",
+            "id": 110,
+            "name": "Viggo Mortensen",
+            "character": "Aragorn",
+            "profile_path": "/vH5gVSpHAMhDaFWfh0Q7BG61O1y.jpg",
             "order": 2
           },
           {
-            "id": 1649152,
-            "name": "Jacob Batalon",
-            "character": "Ned Leeds",
-            "profile_path": "/53YhaL4xw4Sb1ssoHkeSSBaO29c.jpg",
+            "id": 1328,
+            "name": "Sean Astin",
+            "character": "Sam",
+            "profile_path": "/ywH1VvdwqlcnuwUVr0pV0HUZJQA.jpg",
             "order": 3
           },
           {
-            "id": 15277,
-            "name": "Jon Favreau",
-            "character": "Happy Hogan",
-            "profile_path": "/tnx7iMVydPQXGOoLsxXl84PXtbA.jpg",
+            "id": 1333,
+            "name": "Andy Serkis",
+            "character": "Gollum / Smeagol",
+            "profile_path": "/eNGqhebQ4cDssjVeNFrKtUvweV5.jpg",
             "order": 4
           },
           {
-            "id": 134,
-            "name": "Jamie Foxx",
-            "character": "Max Dillon / Electro",
-            "profile_path": "/25zzvFA6yx2Q9BYnugsbd4JWDfu.jpg",
+            "id": 1330,
+            "name": "Dominic Monaghan",
+            "character": "Merry",
+            "profile_path": "/h3VEhi6cMaEdmmvoH3keWTv4vEb.jpg",
             "order": 5
           },
           {
-            "id": 5293,
-            "name": "Willem Dafoe",
-            "character": "Norman Osborn / Green Goblin",
-            "profile_path": "/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg",
+            "id": 1329,
+            "name": "Billy Boyd",
+            "character": "Pippin",
+            "profile_path": "/uiWlsIOakNnUgda21PJF9wswzEJ.jpg",
             "order": 6
           },
           {
-            "id": 658,
-            "name": "Alfred Molina",
-            "character": "Dr. Otto Octavius / Doc Ock",
-            "profile_path": "/nJo91Czesn6z0d0pkfbDoVZY3sg.jpg",
+            "id": 1381,
+            "name": "John Noble",
+            "character": "Denethor",
+            "profile_path": "/t9dB8uU27sQDaEEFMiQvp5sbrXU.jpg",
             "order": 7
           },
           {
-            "id": 30082,
-            "name": "Benedict Wong",
-            "character": "Wong",
-            "profile_path": "/yYfLyrC2CE6vBWSJfkpuVKL2POM.jpg",
+            "id": 1371,
+            "name": "David Wenham",
+            "character": "Faramir",
+            "profile_path": "/F7CWSqUE75HtrcdqIQ7UMZ9aTX.jpg",
             "order": 8
           },
           {
-            "id": 1291350,
-            "name": "Tony Revolori",
-            "character": "Flash Thompson",
-            "profile_path": "/tSF6XmXDikrKZbFUeoDnafXxKjT.jpg",
+            "id": 502,
+            "name": "Miranda Otto",
+            "character": "Éowyn",
+            "profile_path": "/lVkzCNNGwesZjOmwrDjro6ZPar.jpg",
             "order": 9
           }
         ]
@@ -191,6 +200,1206 @@
     {
       "date": "2025-12-20",
       "day": 3,
+      "movie": {
+        "id": 940551,
+        "title": "Ördeklerin Göçü",
+        "original_title": "Migration",
+        "year": 2023,
+        "poster_path": "/9QTwAbUzieLJevTI4aVx4oIpy9Q.jpg",
+        "backdrop_path": "/gklkxY0veMajdCiGe6ggsh07VG2.jpg",
+        "vote_average": 7.372,
+        "vote_count": 2143,
+        "popularity": 22.9893,
+        "original_language": "en",
+        "overview": "Yeşilbaş ailesinin babası Mack, ailesini güvende tutmak için New England Göleti üzerinde sonsuza dek kanat çırpmaktan memnundur. Anne Page, bir şeyleri değiştirmek ve özellikle genç oğulları Dax ile yavru kızları Gwen’e tüm dünyayı göstermek ister. Göçmen bir ördek ailesinin uzak diyarların heyecanlı hikâyeleriyle göletlerine inmesinden sonra Pam, Mack’i New York üzerinden tropikal Jamaika’ya gidecekleri bir aile yolculuğuna çıkmaya ikna eder.",
+        "genre_ids": [
+          10751,
+          35,
+          12,
+          16
+        ],
+        "cast": [
+          {
+            "id": 466505,
+            "name": "Kumail Nanjiani",
+            "character": "Mack Mallard (voice)",
+            "profile_path": "/9EyrK1Cv7ey1h1GgmsVAOn45w6G.jpg",
+            "order": 0
+          },
+          {
+            "id": 9281,
+            "name": "Elizabeth Banks",
+            "character": "Pam Mallard (voice)",
+            "profile_path": "/zrkI1dYucpTM8Qydtrtro9MgQPb.jpg",
+            "order": 1
+          },
+          {
+            "id": 1736671,
+            "name": "Caspar Jennings",
+            "character": "Dax Mallard (voice)",
+            "profile_path": null,
+            "order": 2
+          },
+          {
+            "id": 4031156,
+            "name": "Tresi Gazal",
+            "character": "Gwen Mallard (voice)",
+            "profile_path": null,
+            "order": 3
+          },
+          {
+            "id": 1625558,
+            "name": "Awkwafina",
+            "character": "Chump (voice)",
+            "profile_path": "/l5AKkg3H1QhMuXmTTmq1EyjyiRb.jpg",
+            "order": 4
+          },
+          {
+            "id": 10556,
+            "name": "Carol Kane",
+            "character": "Erin (voice)",
+            "profile_path": "/3EOZ7B148lRwJcl3CmQhfpgubYQ.jpg",
+            "order": 5
+          },
+          {
+            "id": 298410,
+            "name": "Keegan-Michael Key",
+            "character": "Delroy (voice)",
+            "profile_path": "/vAR5gVXRG2Cl6WskXT99wgkAoH8.jpg",
+            "order": 6
+          },
+          {
+            "id": 518,
+            "name": "Danny DeVito",
+            "character": "Uncle Dan (voice)",
+            "profile_path": "/6kO4IN7ndoIGw2JhyhAQN3SFmdx.jpg",
+            "order": 7
+          },
+          {
+            "id": 139075,
+            "name": "David Mitchell",
+            "character": "GooGoo (voice)",
+            "profile_path": "/mHN2NWjBsXseWqq7Zg8K31NS91n.jpg",
+            "order": 8
+          },
+          {
+            "id": 1428070,
+            "name": "Isabela Merced",
+            "character": "Kim (voice)",
+            "profile_path": "/7O5GWIH8IHwU4kGZIhC3JkGDiZr.jpg",
+            "order": 9
+          }
+        ]
+      }
+    },
+    {
+      "date": "2025-12-21",
+      "day": 4,
+      "movie": {
+        "id": 263115,
+        "title": "Logan: Wolverine",
+        "original_title": "Logan",
+        "year": 2017,
+        "poster_path": "/AgjdWvhD1nFHXl51EjBEIdtuiqX.jpg",
+        "backdrop_path": "/4DZxWNSAyksN6N3JkvpJ53Yq6zU.jpg",
+        "vote_average": 7.819,
+        "vote_count": 19992,
+        "popularity": 23.7297,
+        "original_language": "en",
+        "overview": "Yakın gelecekte yaşlanmış ve yorgun olan Wolverine ve Professor X, Meksika sınırında saklanmaktadır. Fakat Logan'ın dünyadan gizlenmesi ve mirası, karanlık güçler tarafından takip edilen genç bir mutant geldiğinde sona erer. Şimdi Wolverine'de genç bir kadın klonunu Nathanial Essex'in liderliğindeki kötü bir organizasyondan korumalıdır.",
+        "genre_ids": [
+          28,
+          18,
+          878
+        ],
+        "cast": [
+          {
+            "id": 6968,
+            "name": "Hugh Jackman",
+            "character": "Logan / X-24",
+            "profile_path": "/oX6CpXmnXCHLyqsa4NEed1DZAKx.jpg",
+            "order": 0
+          },
+          {
+            "id": 1464650,
+            "name": "Dafne Keen",
+            "character": "Laura",
+            "profile_path": "/g325OIjIHrFr0te8ewPfhKQ2SKj.jpg",
+            "order": 1
+          },
+          {
+            "id": 2387,
+            "name": "Patrick Stewart",
+            "character": "Charles",
+            "profile_path": "/ufqtnLh3JJjPbEgxEag3MM5nZyv.jpg",
+            "order": 2
+          },
+          {
+            "id": 65421,
+            "name": "Elizabeth Rodriguez",
+            "character": "Gabriela",
+            "profile_path": "/9f851DP7NHAOKvvlZdXxYigDYbl.jpg",
+            "order": 3
+          },
+          {
+            "id": 467645,
+            "name": "Boyd Holbrook",
+            "character": "Pierce",
+            "profile_path": "/zKYA9XfK5jtCpBgTr62jm4xVS79.jpg",
+            "order": 4
+          },
+          {
+            "id": 39189,
+            "name": "Stephen Merchant",
+            "character": "Caliban",
+            "profile_path": "/6WM2rK6390Nwk398syJbGcPvRct.jpg",
+            "order": 5
+          },
+          {
+            "id": 20766,
+            "name": "Richard E. Grant",
+            "character": "Dr. Rice",
+            "profile_path": "/6UXv8E4WWvRCKMQx1FQ0FJVyu0a.jpg",
+            "order": 6
+          },
+          {
+            "id": 1492293,
+            "name": "Stephen Dunlevy",
+            "character": "Macon",
+            "profile_path": "/e0HDyS2xosZ7ByWFBfRoaw07tE5.jpg",
+            "order": 7
+          },
+          {
+            "id": 23628,
+            "name": "Eriq La Salle",
+            "character": "Will Munson",
+            "profile_path": "/3h8c10QW6k7Ck0IWko76SUMiD7F.jpg",
+            "order": 8
+          },
+          {
+            "id": 21215,
+            "name": "Elise Neal",
+            "character": "Kathryn Munson",
+            "profile_path": "/3to5jbcufE5mArk0ufKER6gptzH.jpg",
+            "order": 9
+          }
+        ]
+      }
+    },
+    {
+      "date": "2025-12-22",
+      "day": 5,
+      "movie": {
+        "id": 346698,
+        "title": "Barbie",
+        "original_title": "Barbie",
+        "year": 2023,
+        "poster_path": "/o1BB6Cimho6R72QzJDwcwnCkp2a.jpg",
+        "backdrop_path": "/ctMserH8g2SeOAnCw5gFjdQF8mo.jpg",
+        "vote_average": 6.941,
+        "vote_count": 10537,
+        "popularity": 37.8152,
+        "original_language": "en",
+        "overview": "Barbie, yaşadığı dünyanın koşullarına uymayan bir kadındır. Yaşadığı dünyanın \"mükemmel kadın\" imajına uzak olduğunu farkeden Barbie, yaşadığı fantastik dünyadan dışlanır ve kimsenin iletişim kurmak istemediği biri halini alır. Uyum sağlayabileceği bir dünya bulma umuduyla bizim yaşadığımız gerçek dünyaya bir yolculuğa çıkar. Bu yeni dünyada, onu kendi evinde dışlanmış kılan farklılıkları, onu özel kılan avantajlara dönüşür.",
+        "genre_ids": [
+          35,
+          12
+        ],
+        "cast": [
+          {
+            "id": 234352,
+            "name": "Margot Robbie",
+            "character": "Barbie",
+            "profile_path": "/euDPyqLnuwaWMHajcU3oZ9uZezR.jpg",
+            "order": 0
+          },
+          {
+            "id": 30614,
+            "name": "Ryan Gosling",
+            "character": "Ken",
+            "profile_path": "/asoKC7CLCqpZKZDL6iovNurQUdf.jpg",
+            "order": 1
+          },
+          {
+            "id": 59174,
+            "name": "America Ferrera",
+            "character": "Gloria",
+            "profile_path": "/7F84Lh2lKpvkM3EiOvqqvlOmw93.jpg",
+            "order": 2
+          },
+          {
+            "id": 1767250,
+            "name": "Ariana Greenblatt",
+            "character": "Sasha",
+            "profile_path": "/lwIqQLPotJHr44lfNsEOnE6IYsf.jpg",
+            "order": 3
+          },
+          {
+            "id": 1455336,
+            "name": "Issa Rae",
+            "character": "Barbie",
+            "profile_path": "/uFjimuDgBv8kckApr19t8DykxPH.jpg",
+            "order": 4
+          },
+          {
+            "id": 1240487,
+            "name": "Kate McKinnon",
+            "character": "Barbie",
+            "profile_path": "/2cNetzianFcxPQbyOQnkAIkKUZE.jpg",
+            "order": 5
+          },
+          {
+            "id": 1253199,
+            "name": "Alexandra Shipp",
+            "character": "Barbie",
+            "profile_path": "/98AfO5NSqWnlhIxjSg08gGYdxUG.jpg",
+            "order": 6
+          },
+          {
+            "id": 2201315,
+            "name": "Emma Mackey",
+            "character": "Barbie",
+            "profile_path": "/y8nDoKXpyNViFL8Eam4Ey1PkgQ6.jpg",
+            "order": 7
+          },
+          {
+            "id": 1611609,
+            "name": "Hari Nef",
+            "character": "Barbie",
+            "profile_path": "/nNeLyxpeagY1fvbkciwp4zaat79.jpg",
+            "order": 8
+          },
+          {
+            "id": 1474028,
+            "name": "Sharon Rooney",
+            "character": "Barbie",
+            "profile_path": "/aMsYxadSBZ2dIlULmpHZCJyL9VF.jpg",
+            "order": 9
+          }
+        ]
+      }
+    },
+    {
+      "date": "2025-12-23",
+      "day": 6,
+      "movie": {
+        "id": 546554,
+        "title": "Bıçaklar Çekildi",
+        "original_title": "Knives Out",
+        "year": 2019,
+        "poster_path": "/tZ6ABcJr1GeGff7fyEsReWXnXN.jpg",
+        "backdrop_path": "/4HWAQu28e2yaWrtupFPGFkdNU7V.jpg",
+        "vote_average": 7.845,
+        "vote_count": 13341,
+        "popularity": 45.8892,
+        "original_language": "en",
+        "overview": "Tanınmış polisiye yazarı Harlan Thrombey 85. doğum günü partisinden hemen sonra malikanesinde ölü bulunduğunda meraklı ve neşeli bir dedektif olan Benoit Blanc, cinayeti çözmesi için gizemli biri tarafından işe alınır. Blanc, Harlan'ın ilişkileri kopuk ailesinden sadık personeline kadar Harlan'ın zamansız ölümünün ardındaki gerçeği ortaya çıkarmak için anlamsız kandırmacalar ve yalanlardan oluşan bir yılan hikâyesini çözmeye çalışacaktır.",
+        "genre_ids": [
+          35,
+          80,
+          9648
+        ],
+        "cast": [
+          {
+            "id": 8784,
+            "name": "Daniel Craig",
+            "character": "Benoit Blanc",
+            "profile_path": "/iFerDZUmC5Fu26i4qI8xnUVEHc7.jpg",
+            "order": 0
+          },
+          {
+            "id": 16828,
+            "name": "Chris Evans",
+            "character": "Ransom Drysdale",
+            "profile_path": "/3bOGNsHlrswhyW79uvIHH1V43JI.jpg",
+            "order": 1
+          },
+          {
+            "id": 224513,
+            "name": "Ana de Armas",
+            "character": "Marta Cabrera",
+            "profile_path": "/5Qne374OM0ewMM7uSN9eq9jNrWq.jpg",
+            "order": 2
+          },
+          {
+            "id": 8944,
+            "name": "Jamie Lee Curtis",
+            "character": "Linda Drysdale",
+            "profile_path": "/eWKubKAAssRzmFwCZKh1mdYqGCH.jpg",
+            "order": 3
+          },
+          {
+            "id": 335,
+            "name": "Michael Shannon",
+            "character": "Walt Thrombey",
+            "profile_path": "/6mMczfjM8CiS1WuBOgo5Xom1TcR.jpg",
+            "order": 4
+          },
+          {
+            "id": 25129,
+            "name": "Don Johnson",
+            "character": "Richard Drysdale",
+            "profile_path": "/6s6oav541p7xspCG6PvXut7knkP.jpg",
+            "order": 5
+          },
+          {
+            "id": 3051,
+            "name": "Toni Collette",
+            "character": "Joni Thrombey",
+            "profile_path": "/lzXRh16qe4HHeBN6tMyw0DHvaMn.jpg",
+            "order": 6
+          },
+          {
+            "id": 1200864,
+            "name": "LaKeith Stanfield",
+            "character": "Lieutenant Elliott",
+            "profile_path": "/x3k0HCpMNqEtVf2VKQrSCol1ia2.jpg",
+            "order": 7
+          },
+          {
+            "id": 290,
+            "name": "Christopher Plummer",
+            "character": "Harlan Thrombey",
+            "profile_path": "/iZh3s9Vy9vYD4DYnAda6C1kdeco.jpg",
+            "order": 8
+          },
+          {
+            "id": 1636738,
+            "name": "Katherine Langford",
+            "character": "Meg Thrombey",
+            "profile_path": "/fuF3tveGFXfuGUmFiC8v9r7I2jd.jpg",
+            "order": 9
+          }
+        ]
+      }
+    },
+    {
+      "date": "2025-12-24",
+      "day": 7,
+      "movie": {
+        "id": 74879,
+        "title": "Bir Zamanlar Anadolu'da",
+        "original_title": "Bir Zamanlar Anadolu'da",
+        "year": 2011,
+        "poster_path": "/zV8NUMU4DgWH3JyPqiYBP1vXZSh.jpg",
+        "backdrop_path": "/213Gdu9zjGsVeWQl6p5gJrBq8n8.jpg",
+        "vote_average": 7.5,
+        "vote_count": 517,
+        "popularity": 6.2283,
+        "original_language": "tr",
+        "overview": "Gece bitmek bilmez. Anadolu’nun bozkırında saatlerdir süren bir cinayet soruşturması herkesi yormuştur. Savcı, komiser, jandarma ve doktordan oluşan bir ekip, Kenan’la Ramazan’ın gömdüğü cesedi aramaktadır. Kenan, Yaşar’ı gömerken sarhoş olduğunu, yalnızca top gibi bir ağacı ve bir çeşmeyi hatırladığını söylemiştir. Ceset ya o tepenin ardındadır, ya bu tepenin… Engebeli, yılankavi yolların sırtında iş uzadıkça uzar. Araba farlarının titrek ışığında kuru otlar savrulur, gölgeler büyür, karanlık adım adım koyulaşır. Arap Ali, doktora yaklaşıp “Çoluk çocuk sahibi olunca anlatacak bir hikâyen olur. Fena mı?” der. “Bir zamanlar Anadolu’da, dersin, ücra bir yerde görev yaparken işte başımdan böyle böyle olaylar geçti dersin. Anlatırsın yani masal gibi.”",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "cast": [
+          {
+            "id": 459443,
+            "name": "Muhammet Uzuner",
+            "character": "Doktor Cemal",
+            "profile_path": "/tC4bTcVsxUPZOVcESNuuQ7pkK7Q.jpg",
+            "order": 0
+          },
+          {
+            "id": 99314,
+            "name": "Yılmaz Erdoğan",
+            "character": "Komiser Naci",
+            "profile_path": "/nl7WulHPoP6bw4phMwp0VuuJgyL.jpg",
+            "order": 1
+          },
+          {
+            "id": 46065,
+            "name": "Taner Birsel",
+            "character": "Savcı Nusret",
+            "profile_path": "/zq4uEMEezi9Nwev5KdVyO5juQ9e.jpg",
+            "order": 2
+          },
+          {
+            "id": 230759,
+            "name": "Ahmet Mümtaz Taylan",
+            "character": "Şoför Arap Ali",
+            "profile_path": "/7BcirImyPmuD8PxMVKPx6xefunW.jpg",
+            "order": 3
+          },
+          {
+            "id": 564271,
+            "name": "Fırat Tanış",
+            "character": "Kenan",
+            "profile_path": "/sUdRJPbSodfUzS8vxGVBnGVCMsP.jpg",
+            "order": 4
+          },
+          {
+            "id": 87224,
+            "name": "Ercan Kesal",
+            "character": "Muhtar",
+            "profile_path": "/krKWIjwR9oDRP3YWET81hsx4SwX.jpg",
+            "order": 5
+          },
+          {
+            "id": 1001772,
+            "name": "Erol Erarslan",
+            "character": "Murder Victim Yaşar",
+            "profile_path": "/g8hmtt08zgHqUqnKGzhMuYk686y.jpg",
+            "order": 6
+          },
+          {
+            "id": 3498408,
+            "name": "Burhan Yıldız",
+            "character": "Suspect Ramazan",
+            "profile_path": "/51fOoffgJC3hZW5gJSlgSjdztJ2.jpg",
+            "order": 7
+          },
+          {
+            "id": 1001777,
+            "name": "Murat Kılıç",
+            "character": "Police Officer İzzet",
+            "profile_path": "/3XCEZgIYMcIItG12nmriVXqqLNC.jpg",
+            "order": 8
+          },
+          {
+            "id": 1001778,
+            "name": "Şafak Karali",
+            "character": "Courthouse Clerk Abidin",
+            "profile_path": "/nwgwzvllJabkkD8oMQ7Z2oFRhqv.jpg",
+            "order": 9
+          }
+        ]
+      }
+    },
+    {
+      "date": "2025-12-25",
+      "day": 8,
+      "movie": {
+        "id": 585,
+        "title": "Sevimli Canavarlar",
+        "original_title": "Monsters, Inc.",
+        "year": 2001,
+        "poster_path": "/y4YRiGgYxttCVUvs9vhxfGezHx4.jpg",
+        "backdrop_path": "/sDTnMOJ3H5wI38OxObmCtK7wfd5.jpg",
+        "vote_average": 7.847,
+        "vote_count": 19287,
+        "popularity": 27.3305,
+        "original_language": "en",
+        "overview": "Canavarlar Dünyası isimli kendilerine ait bir dünyada yaşayan ve yaşayabilmek için insanlara ihtiyaç duyan ilginç ve sevimli canavarların dünyasının insanlarla karıştığı an ortaya çıkan trajikomik hikayeyi anlatır. Bu dünyada canavarlar yaşayabilmek için insanlara muhtaçtır çünkü insanları korkuttukları an duydukları çığlık onlar için enerji kaynağı gibidir. Bu ilginç dünyaya yanlışıkla küçük bir kız çocuğunun yolu düşünce işler çığrından çıkar. Çünkü insanlar bu tuhaf yaratıklara ters etki yapmaktadır ve dehşete kapılan canavarlar salgın bir hastalığın yayılacağını düşünüyorlardır. Bu küçük kız zannettikleri gibi onların yaşamını tehdit ediyor mudur?",
+        "genre_ids": [
+          16,
+          35,
+          10751
+        ],
+        "cast": [
+          {
+            "id": 1230,
+            "name": "John Goodman",
+            "character": "Sullivan (voice)",
+            "profile_path": "/yyYqoyKHO7hE1zpgEV2XlqYWcNV.jpg",
+            "order": 0
+          },
+          {
+            "id": 7904,
+            "name": "Billy Crystal",
+            "character": "Mike (voice)",
+            "profile_path": "/3Uuxfg1UorAdJRPgWWhdt3iZgKJ.jpg",
+            "order": 1
+          },
+          {
+            "id": 7905,
+            "name": "Mary Gibbs",
+            "character": "Boo (voice)",
+            "profile_path": "/nqYOXIaf8ztfacrludRtS1Bytzz.jpg",
+            "order": 2
+          },
+          {
+            "id": 884,
+            "name": "Steve Buscemi",
+            "character": "Randall (voice)",
+            "profile_path": "/kFzw4U5pExnLKZWhR48VSzL8Fre.jpg",
+            "order": 3
+          },
+          {
+            "id": 5563,
+            "name": "James Coburn",
+            "character": "Waternoose (voice)",
+            "profile_path": "/9GApjInyrVvjnTAr652C1aViPqZ.jpg",
+            "order": 4
+          },
+          {
+            "id": 7906,
+            "name": "Jennifer Tilly",
+            "character": "Celia (voice)",
+            "profile_path": "/jrWj0LKOLGyn8BjxCPfwxX3BXC4.jpg",
+            "order": 5
+          },
+          {
+            "id": 10,
+            "name": "Bob Peterson",
+            "character": "Roz (voice)",
+            "profile_path": "/dJe3nTCIToebjj1WHFHP7LmZKyk.jpg",
+            "order": 6
+          },
+          {
+            "id": 7907,
+            "name": "John Ratzenberger",
+            "character": "Yeti (voice)",
+            "profile_path": "/oRtDEOuIO1yDhTz5dORBdxXuLMO.jpg",
+            "order": 7
+          },
+          {
+            "id": 7908,
+            "name": "Frank Oz",
+            "character": "Jeff Fungus (voice)",
+            "profile_path": "/mb2JbT8s6LIgaxj6QTph0NW1pmI.jpg",
+            "order": 8
+          },
+          {
+            "id": 7884,
+            "name": "Daniel Gerson",
+            "character": "Needleman / Smitty (voice)",
+            "profile_path": "/amOuK3ytWV7KXeWrpl9joCglRlF.jpg",
+            "order": 9
+          }
+        ]
+      }
+    },
+    {
+      "date": "2025-12-26",
+      "day": 9,
+      "movie": {
+        "id": 19995,
+        "title": "Avatar",
+        "original_title": "Avatar",
+        "year": 2009,
+        "poster_path": "/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg",
+        "backdrop_path": "/7JNzw1tSZZEgsBw6lu0VfO2X2Ef.jpg",
+        "vote_average": 7.595,
+        "vote_count": 32930,
+        "popularity": 62.2412,
+        "original_language": "en",
+        "overview": "Bir hırsızlık olayında ağabeyi ölen yarı felçli Jake Sully, Pandora adındaki uzak bir gezegende görevinin başına geçmeye karar verir. Bu yerde Na’vi adında giderek tükenmekte olan bir halk yaşamaktadır. Askeri bir şirket, söz konusu yeri ve oradaki kaynakları mercek altına almak üzere Avatar adında bir program oluşturmuştur. Bu program insanları kısmen insan kısmen de Na’vi haline büründürerek misyon amaçlı Pandora’ya göndermektedir. Bu sisteme gönüllü dahil olan Botanist Dr. Grace Augustine ve Jake Sully için başka bir yaşam var olacaktır. Sully, Pandora’ya geçtiği anda felçli bedeni değişime uğrayarak işlevsel hale gelir. Bu sırada Na’vi halkından Prenses Neytiri ile karşı karşıya gelen Jake, ansızın bir farkındalık yaşar ve bir araştırma misyonu ile gönderildiği bu gezegeni, kendi dünyalısından korumaya karar verir.",
+        "genre_ids": [
+          28,
+          12,
+          14,
+          878
+        ],
+        "cast": [
+          {
+            "id": 65731,
+            "name": "Sam Worthington",
+            "character": "Jake Sully",
+            "profile_path": "/mflBcox36s9ZPbsZPVOuhf6axaJ.jpg",
+            "order": 0
+          },
+          {
+            "id": 8691,
+            "name": "Zoe Saldaña",
+            "character": "Neytiri",
+            "profile_path": "/fCJuIn1PMUQtYdRRSnnoZeMJVWs.jpg",
+            "order": 1
+          },
+          {
+            "id": 10205,
+            "name": "Sigourney Weaver",
+            "character": "Dr. Grace Augustine",
+            "profile_path": "/wTSnfktNBLd6kwQxgvkqYw6vEon.jpg",
+            "order": 2
+          },
+          {
+            "id": 32747,
+            "name": "Stephen Lang",
+            "character": "Colonel Miles Quaritch",
+            "profile_path": "/hdRiM73H2mpJws559TWHCAia7qJ.jpg",
+            "order": 3
+          },
+          {
+            "id": 17647,
+            "name": "Michelle Rodriguez",
+            "character": "Trudy Chacon",
+            "profile_path": "/wVcbrae4eRqGMFZz8Eh52Dl1biP.jpg",
+            "order": 4
+          },
+          {
+            "id": 1771,
+            "name": "Giovanni Ribisi",
+            "character": "Parker Selfridge",
+            "profile_path": "/8EAiS9D3YtGOrwNM0OrwmDpWK7s.jpg",
+            "order": 5
+          },
+          {
+            "id": 59231,
+            "name": "Joel David Moore",
+            "character": "Norm Spellman",
+            "profile_path": "/mMVhVglj6BZFuvqAXnEibce08k7.jpg",
+            "order": 6
+          },
+          {
+            "id": 30485,
+            "name": "CCH Pounder",
+            "character": "Mo'at",
+            "profile_path": "/mr6BLDN75T8DJl9dNK3hN4YwqJa.jpg",
+            "order": 7
+          },
+          {
+            "id": 15853,
+            "name": "Wes Studi",
+            "character": "Eytukan",
+            "profile_path": "/dAO2bY2NCceYLZiJaBjBdY19Hox.jpg",
+            "order": 8
+          },
+          {
+            "id": 10964,
+            "name": "Laz Alonso",
+            "character": "Tsu'Tey",
+            "profile_path": "/nmgOd3X2Xn3jIp9OLCRJzLExRWN.jpg",
+            "order": 9
+          }
+        ]
+      }
+    },
+    {
+      "date": "2025-12-27",
+      "day": 10,
+      "movie": {
+        "id": 271954,
+        "title": "Su ve Ateş",
+        "original_title": "Su ve Ateş",
+        "year": 2013,
+        "poster_path": "/6mkxYBz0HSvLhCy1M87TNMch39l.jpg",
+        "backdrop_path": "/7CRI8G7pm0HjEptiEEPiCMv3GEV.jpg",
+        "vote_average": 7.9,
+        "vote_count": 177,
+        "popularity": 6.3059,
+        "original_language": "tr",
+        "overview": "Doğunun kanunlarından uzağa kaçan bir adam olan Haşmet ve hayatın acı gerçeklerinden bihaber, saf ve duru bir kız olan Yağmur'un imkansız aşkının hikayesidir. Doğu ve Batının, Güneş ve Ayın, Su ve Ateşin masalıdır bu aşk…",
+        "genre_ids": [
+          18,
+          10749
+        ],
+        "cast": [
+          {
+            "id": 1250945,
+            "name": "Özcan Deniz",
+            "character": "Hasmet",
+            "profile_path": "/9D2yddtuU6qqFKa8vzMRg1CPacA.jpg",
+            "order": 0
+          },
+          {
+            "id": 1324296,
+            "name": "Yasemin Kay Allen",
+            "character": "Yagmur",
+            "profile_path": "/zpR2VQ7yZfQXk0EcMjiPdpTEwM9.jpg",
+            "order": 1
+          },
+          {
+            "id": 1324297,
+            "name": "Kaan Çakır",
+            "character": "Hamza",
+            "profile_path": "/yfaEoYuyW3CHIsbaphgEQ1cujzM.jpg",
+            "order": 2
+          },
+          {
+            "id": 1259583,
+            "name": "Pelin Akil",
+            "character": "Nupelda",
+            "profile_path": "/q5VIVb1cVso95nQ3bOyf0Qhl7pZ.jpg",
+            "order": 3
+          },
+          {
+            "id": 230761,
+            "name": "Yusuf Akgün",
+            "character": "Turhan",
+            "profile_path": "/qHhYjbiTZUMLvpjUo7ust18jfTj.jpg",
+            "order": 4
+          },
+          {
+            "id": 1380696,
+            "name": "Cem Uçan",
+            "character": "Sitki",
+            "profile_path": "/7dF5tEUnwflHOfeH29P6oZMFf0Y.jpg",
+            "order": 5
+          },
+          {
+            "id": 2022599,
+            "name": "Barış Yalçın",
+            "character": "Sinan",
+            "profile_path": "/q8ZQAlsWyYfZAJ1uK7rE60bu7jt.jpg",
+            "order": 6
+          },
+          {
+            "id": 1570795,
+            "name": "Burcu Kıratlı",
+            "character": "Helin",
+            "profile_path": "/uggMXAPRcsXLLc9moEtBSl2nXZt.jpg",
+            "order": 7
+          },
+          {
+            "id": 2026065,
+            "name": "Şefika Ümit Tolun",
+            "character": "Fadile Ana",
+            "profile_path": "/4yTV3JkyulY51ah72TDNvVMUemQ.jpg",
+            "order": 8
+          },
+          {
+            "id": 3614013,
+            "name": "Burçin Birben",
+            "character": "Alpago",
+            "profile_path": null,
+            "order": 9
+          }
+        ]
+      }
+    },
+    {
+      "date": "2025-12-28",
+      "day": 11,
+      "movie": {
+        "id": 1198904,
+        "title": "Atatürk II 1881 – 1919",
+        "original_title": "Atatürk II 1881 – 1919",
+        "year": 2024,
+        "poster_path": "/t46svTyY0hfnHxqbSMZPEiPNDu7.jpg",
+        "backdrop_path": "/t5jXjGPzKke3AD8P98QUqPuFJpm.jpg",
+        "vote_average": 8.1,
+        "vote_count": 18,
+        "popularity": 4.3526,
+        "original_language": "tr",
+        "overview": "1915 yılında, Gelibolu cephesinde büyük bir sınav veren Mustafa Kemal’in önündeki savaşlar yeni başlamıştır. Ardından doğu cephesinde Ruslar’a ve Suriye cephesinde de İngilizler’e karşı büyük bir mücadele verecek; sonunda 1. Dünya Savaşı’nda savaş kaybetmeyen tek Osmanlı Subayı olarak tarihe geçecektir. Fakat tüm bu başarıların üstüne İstanbul’a döndüğünde kötü bir sürprizle karşılaşacaktır…",
+        "genre_ids": [
+          36,
+          18,
+          10752
+        ],
+        "cast": [
+          {
+            "id": 1163030,
+            "name": "Aras Bulut İynemli",
+            "character": "Mustafa Kemal Atatürk",
+            "profile_path": "/bAWgmcF26tPZv4gcwc9jmaNB9py.jpg",
+            "order": 0
+          },
+          {
+            "id": 113871,
+            "name": "Songül Öden",
+            "character": "Zübeyde Hanım",
+            "profile_path": "/acl05Z7I5v8PmWgVnzDzmx3irvv.jpg",
+            "order": 1
+          },
+          {
+            "id": 1251887,
+            "name": "Sarp Akkaya",
+            "character": "Enver Paşa",
+            "profile_path": "/hCsdUZWtoGXdgRJD40klqDWrY7U.jpg",
+            "order": 2
+          },
+          {
+            "id": 1527369,
+            "name": "Esra Bilgiç",
+            "character": "Madam Corinne",
+            "profile_path": "/nZxaicUYuwGck0KYlwhfmltQ7ny.jpg",
+            "order": 3
+          },
+          {
+            "id": 2090145,
+            "name": "Alican Barlas",
+            "character": "Kazım Karabekir",
+            "profile_path": "/kXQsa8COHrl3I0ZVOvYIDClsGlR.jpg",
+            "order": 4
+          },
+          {
+            "id": 1598234,
+            "name": "Berk Cankat",
+            "character": "Ali Fuat Cebesoy",
+            "profile_path": "/zQK9hX9v7BB2bvEXYWRdT1rnHZL.jpg",
+            "order": 5
+          },
+          {
+            "id": 2199427,
+            "name": "Lidija Kordić",
+            "character": "Miti",
+            "profile_path": "/2ARQfAQwJWmxSRLhZjQvBNPJJnl.jpg",
+            "order": 6
+          }
+        ]
+      }
+    },
+    {
+      "date": "2025-12-29",
+      "day": 12,
+      "movie": {
+        "id": 106646,
+        "title": "Para Avcısı",
+        "original_title": "The Wolf of Wall Street",
+        "year": 2013,
+        "poster_path": "/ywn2c1sSfdNdJB5O9Hoy3ETfTY2.jpg",
+        "backdrop_path": "/7Nwnmyzrtd0FkcRyPqmdzTPppQa.jpg",
+        "vote_average": 8.027,
+        "vote_count": 25257,
+        "popularity": 34.7309,
+        "original_language": "en",
+        "overview": "Jordan Belfort 24 yaşında genç ve hırslı bir adamdır. Para kazanma arzusuyla Wall Street borsasında önce komisyoncu ve ardından Stratton Oakmont adında bir yatırımcı firmasında zengin olmak için her şeyi yapmaya hazır bir CEO olur. 90’ların en hızlı günleridir ve New York işlem salonunda her şey olabilmektedir. Önemsiz tahvillerle birçok yatırımcıyı aldatarak Belfort kısa zamanda bir para makinasına ve aynı zamanda bir harcama makinasına dönüşür. Bir günde hesapları milyon dolarlarla doldururken o gece hepsini aynı hızda harcayabilir. Profesyonel hayatının yanı sıra uyuşturucu, fahişeler, son derece pahalı lüks fantezilerle dolu kirli bir oyunun içindedir. Bu karakterin hayatındaki her şey abartılı bir şekilde devam ederken çöküş ise çok uzakta değildir.",
+        "genre_ids": [
+          80,
+          18,
+          35
+        ],
+        "cast": [
+          {
+            "id": 6193,
+            "name": "Leonardo DiCaprio",
+            "character": "Jordan Belfort",
+            "profile_path": "/wo2hJpn04vbtmh0B9utCFdsQhxM.jpg",
+            "order": 0
+          },
+          {
+            "id": 21007,
+            "name": "Jonah Hill",
+            "character": "Donnie Azoff",
+            "profile_path": "/5aE4GgJADHzN1QsS6zkzElZSEYq.jpg",
+            "order": 1
+          },
+          {
+            "id": 234352,
+            "name": "Margot Robbie",
+            "character": "Naomi Lapaglia",
+            "profile_path": "/euDPyqLnuwaWMHajcU3oZ9uZezR.jpg",
+            "order": 2
+          },
+          {
+            "id": 10297,
+            "name": "Matthew McConaughey",
+            "character": "Mark Hanna",
+            "profile_path": "/lCySuYjhXix3FzQdS4oceDDrXKI.jpg",
+            "order": 3
+          },
+          {
+            "id": 3497,
+            "name": "Kyle Chandler",
+            "character": "Agent Patrick Denham",
+            "profile_path": "/66n7XNj1dyYkzCBWR3Lq8Vz4PJ1.jpg",
+            "order": 4
+          },
+          {
+            "id": 3026,
+            "name": "Rob Reiner",
+            "character": "Max Belfort",
+            "profile_path": "/rcmPU3YlhHQVzZlV197qhmRsgEL.jpg",
+            "order": 5
+          },
+          {
+            "id": 19498,
+            "name": "Jon Bernthal",
+            "character": "Brad",
+            "profile_path": "/o0t6EVkJOrFAjESDilZUlf46IbQ.jpg",
+            "order": 6
+          },
+          {
+            "id": 15277,
+            "name": "Jon Favreau",
+            "character": "Manny Riskin",
+            "profile_path": "/tnx7iMVydPQXGOoLsxXl84PXtbA.jpg",
+            "order": 7
+          },
+          {
+            "id": 56024,
+            "name": "Jean Dujardin",
+            "character": "Jean Jacques Saurel",
+            "profile_path": "/iPtSWWoO8vajj6fIUQLQeuGOCsk.jpg",
+            "order": 8
+          },
+          {
+            "id": 34901,
+            "name": "Joanna Lumley",
+            "character": "Aunt Emma",
+            "profile_path": "/omQvLqkQf9yemMroaj6MJbf37sf.jpg",
+            "order": 9
+          }
+        ]
+      }
+    },
+    {
+      "date": "2025-12-30",
+      "day": 13,
+      "movie": {
+        "id": 453482,
+        "title": "Güle Güle",
+        "original_title": "Güle Güle",
+        "year": 2000,
+        "poster_path": "/4WtFNQ5agCyHdEoycUXkgJPa9Iw.jpg",
+        "backdrop_path": null,
+        "vote_average": 6.9,
+        "vote_count": 11,
+        "popularity": 4.5017,
+        "original_language": "tr",
+        "overview": "Araba tamircisi Şemsi (Şükran Güngör), karısından yıllar önce ayrılmış, tek çocuğundan uzakta ve yalnız yaşamaktadır. Celal (Eşref Kolçak), Zarife (Yıldız Kenter) ile evli, disiplinli bir emekli albaydır. İsmet (Zeki Alasya), hayatını adada geçirmiş, içedönük bir sinemasever, Galip (Metin Akpınar) ise sadece bir gün gördüğü Kübalı Rosa ile kendi halinde, garip bir \"aşk\" yaşayan ve yıllardır mektuplaştığı bu kadına hiç ihanet etmemiş olan sadık bir platonik aşıktır. Parasızlıktan Küba'ya gidememiş, Rosa'yı da getirtememiş olan Galip, bir gün hastalanarak kanser olduğunu öğrenir. Arkadaşları, onu ölmeden bir kez olsun mutlu edebilmek için ellerinden geleni yaparlar, hatta evlerini satılığa çıkarırlar. Ancak yine de para yetmeyince yapılacak tek şey kalmıştır: Galip'i Küba'ya göndermek için gereken parayı elde etmek; beş sevimli yaşlı banka soymaya karar verirler!",
+        "genre_ids": [
+          35,
+          18,
+          10749
+        ],
+        "cast": [
+          {
+            "id": 149313,
+            "name": "Metin Akpınar",
+            "character": "Galip",
+            "profile_path": "/3ar4oHH94snmYHiyLjqshIgSYQZ.jpg",
+            "order": 0
+          },
+          {
+            "id": 109138,
+            "name": "Zeki Alasya",
+            "character": "İsmet",
+            "profile_path": "/ku6KWR7RgRZW3LznnBmDgKyfXI.jpg",
+            "order": 1
+          },
+          {
+            "id": 1788650,
+            "name": "Şükran Güngör",
+            "character": "Şemsi",
+            "profile_path": "/b4AbEfYquoH64qT24oxVEPjIoBO.jpg",
+            "order": 2
+          },
+          {
+            "id": 121425,
+            "name": "Yıldız Kenter",
+            "character": "Zarife",
+            "profile_path": "/nEHlIfEf3M1obS5IMxvIFbXGYlB.jpg",
+            "order": 3
+          },
+          {
+            "id": 1238864,
+            "name": "Eşref Kolçak",
+            "character": "Celal",
+            "profile_path": "/im3gMpKAHbiHgDeoF4dV4KDbnl0.jpg",
+            "order": 4
+          },
+          {
+            "id": 117640,
+            "name": "Haluk Bilginer",
+            "character": "Zinnur",
+            "profile_path": "/krCEBAIGmEUUcA4GpLt3RiTHKLC.jpg",
+            "order": 5
+          },
+          {
+            "id": 1202147,
+            "name": "Güler Ökten",
+            "character": "Madam",
+            "profile_path": "/tYTOMGPBzUUY5rFRaBfpefJvdG2.jpg",
+            "order": 6
+          },
+          {
+            "id": 563367,
+            "name": "Ayşegül Aldinç",
+            "character": "Selma",
+            "profile_path": "/rsSGUw1rozcQMwoqJI3KNfyNRUW.jpg",
+            "order": 7
+          },
+          {
+            "id": 145520,
+            "name": "Nilüfer Açıkalın",
+            "character": "Arzu",
+            "profile_path": "/jcVX6kSmqQikf3SDMMNEL2mI5Ma.jpg",
+            "order": 8
+          },
+          {
+            "id": 90317,
+            "name": "Serra Yılmaz",
+            "character": "Ayşe",
+            "profile_path": "/v7dI37lIuoEaQ0YlbImsoKzviZN.jpg",
+            "order": 9
+          }
+        ]
+      }
+    },
+    {
+      "date": "2025-12-31",
+      "day": 14,
+      "movie": {
+        "id": 122917,
+        "title": "Hobbit: Beş Ordunun Savaşı",
+        "original_title": "The Hobbit: The Battle of the Five Armies",
+        "year": 2014,
+        "poster_path": "/ncIV890nmkYCGImfp0oQflBvU5d.jpg",
+        "backdrop_path": "/3UbaCMmqOd7mca4Y5DOzY2ZVTyX.jpg",
+        "vote_average": 7.33,
+        "vote_count": 14942,
+        "popularity": 24.0077,
+        "original_language": "en",
+        "overview": "Bilbo Baggins, korkunç ejderha Smaug'dan Cüce Krallığı'nı geri almak için çıkılan yolculuğa katılıyor. Aniden çıkagelen Gandalf tarafından bir grup Cüce'ye katılması istenir. Her çeşit yaratıkların bulunduğu yaban ellerde bu cüce grubu ile kendini bir maceranın ortasında bulur. Erebor'a vardıktan ve Smaug ile karşılaştıktan sonra Beş Ordu güçlerini birleştirerek, Orta Dünya'nın kaderini belirleyecek bir savaşa başlar.",
+        "genre_ids": [
+          28,
+          12,
+          14
+        ],
+        "cast": [
+          {
+            "id": 1327,
+            "name": "Ian McKellen",
+            "character": "Gandalf the Grey",
+            "profile_path": "/coWjgMEYJjk2OrNddlXCBm8EIr3.jpg",
+            "order": 0
+          },
+          {
+            "id": 7060,
+            "name": "Martin Freeman",
+            "character": "Bilbo Baggins",
+            "profile_path": "/nrO54AzrxiNgCjBUOSz6ebyxDZY.jpg",
+            "order": 1
+          },
+          {
+            "id": 30315,
+            "name": "Richard Armitage",
+            "character": "Thorin Oakenshield",
+            "profile_path": "/oNoKjTOUNUiJ01UNQSCQDkt5EHi.jpg",
+            "order": 2
+          },
+          {
+            "id": 114,
+            "name": "Orlando Bloom",
+            "character": "Legolas",
+            "profile_path": "/pulwUR0lZ8IWwXUCRXCnyWfYvNL.jpg",
+            "order": 3
+          },
+          {
+            "id": 19034,
+            "name": "Evangeline Lilly",
+            "character": "Tauriel",
+            "profile_path": "/pJHX2jd7ytre3NQbF9nlyWUqxH3.jpg",
+            "order": 4
+          },
+          {
+            "id": 114019,
+            "name": "Luke Evans",
+            "character": "Bard",
+            "profile_path": "/qUkYJcrDc4M0LHNYASs30luFvw0.jpg",
+            "order": 5
+          },
+          {
+            "id": 72095,
+            "name": "Lee Pace",
+            "character": "King Thranduil",
+            "profile_path": "/9fhFAGZxnQZlqDdf3cyzkGi3Bag.jpg",
+            "order": 6
+          },
+          {
+            "id": 71580,
+            "name": "Benedict Cumberbatch",
+            "character": "Smaug / Sauron (voice)",
+            "profile_path": "/wz3MRiMmoz6b5X3oSzMRC9nLxY1.jpg",
+            "order": 7
+          },
+          {
+            "id": 25136,
+            "name": "Ken Stott",
+            "character": "Balin",
+            "profile_path": "/yzF2h7xhwtCkQ6T556pHSE7F1k4.jpg",
+            "order": 8
+          },
+          {
+            "id": 207558,
+            "name": "Aidan Turner",
+            "character": "Kili",
+            "profile_path": "/owWJR9RCq7FcOw9R9yX70TKNsvQ.jpg",
+            "order": 9
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-01-01",
+      "day": 15,
+      "movie": {
+        "id": 24428,
+        "title": "Yenilmezler",
+        "original_title": "The Avengers",
+        "year": 2012,
+        "poster_path": "/1sCJVLAqKGgKIZpKGXURjpKBwgu.jpg",
+        "backdrop_path": "/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
+        "vote_average": 7.877,
+        "vote_count": 34477,
+        "popularity": 50.433,
+        "original_language": "en",
+        "overview": "\"Yenilmezler\", 2012 yılında vizyona giren ve Marvel Sinematik Evreni'nin önemli bir parçasını oluşturan aksiyon dolu bir süper kahraman filmidir. Nick Fury, S.H.I.E.L.D. (Stratejik Yurt İçi, Müdahale, Lojistik ve Savunma) ajansının yöneticisi olarak, dünya üzerinde büyük bir tehlike olduğunu fark eder: Loki, Asgard'ın prensi ve kötü niyetli bir varlık, dünyayı ele geçirmek için bir plan yapmaktadır. Loki, uzaydan gelen Chitauri ordusunu kullanarak insanlığı tehdit etmektedir. Fury, bu durumu engellemek için \"Yenilmezler\" adlı bir ekip kurmaya karar verir. Bu ekipte, Iron Man (Tony Stark), Captain America (Steve Rogers), Thor, Hulk (Bruce Banner), Black Widow (Natasha Romanoff) ve Hawkeye (Clint Barton) yer alır. Her biri farklı yeteneklere ve geçmişe sahip olan bu kahramanlar, başlangıçta birbirleriyle çatışmalar yaşasalar da, zamanla bir takım olmayı öğrenirler.",
+        "genre_ids": [
+          878,
+          28,
+          12
+        ],
+        "cast": [
+          {
+            "id": 3223,
+            "name": "Robert Downey Jr.",
+            "character": "Tony Stark / Iron Man",
+            "profile_path": "/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg",
+            "order": 0
+          },
+          {
+            "id": 16828,
+            "name": "Chris Evans",
+            "character": "Steve Rogers / Captain America",
+            "profile_path": "/3bOGNsHlrswhyW79uvIHH1V43JI.jpg",
+            "order": 1
+          },
+          {
+            "id": 103,
+            "name": "Mark Ruffalo",
+            "character": "Bruce Banner / The Hulk",
+            "profile_path": "/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg",
+            "order": 2
+          },
+          {
+            "id": 74568,
+            "name": "Chris Hemsworth",
+            "character": "Thor",
+            "profile_path": "/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg",
+            "order": 3
+          },
+          {
+            "id": 1245,
+            "name": "Scarlett Johansson",
+            "character": "Natasha Romanoff / Black Widow",
+            "profile_path": "/mjReG6rR7NPMEIWb1T4YWtV11ty.jpg",
+            "order": 4
+          },
+          {
+            "id": 17604,
+            "name": "Jeremy Renner",
+            "character": "Clint Barton / Hawkeye",
+            "profile_path": "/yB84D1neTYXfWBaV0QOE9RF2VCu.jpg",
+            "order": 5
+          },
+          {
+            "id": 91606,
+            "name": "Tom Hiddleston",
+            "character": "Loki",
+            "profile_path": "/mclHxMm8aPlCPKptP67257F5GPo.jpg",
+            "order": 6
+          },
+          {
+            "id": 9048,
+            "name": "Clark Gregg",
+            "character": "Agent Phil Coulson",
+            "profile_path": "/mq686D91XoZpqkzELn0888NOiZW.jpg",
+            "order": 7
+          },
+          {
+            "id": 71189,
+            "name": "Cobie Smulders",
+            "character": "Agent Maria Hill",
+            "profile_path": "/1b0mYokcGsfFRge4bjXlS5ihtek.jpg",
+            "order": 8
+          },
+          {
+            "id": 1640,
+            "name": "Stellan Skarsgård",
+            "character": "Selvig",
+            "profile_path": "/x78BtYHElirO7Iw8bL4m8CnzRDc.jpg",
+            "order": 9
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-01-02",
+      "day": 16,
       "movie": {
         "id": 569094,
         "title": "Örümcek-Adam: Örümcek-Evrenine Geçiş",
@@ -203,6 +1412,12 @@
         "popularity": 30.8464,
         "original_language": "en",
         "overview": "Spider-Man: Across the Spider-Verse, radyoaktif bir örümcek tarafından ısırılmasıyla bambaşka bir dünyaya adım atıp özel yeteneklerle donanan Miles Morales'in maceralarını konu ediyor.",
+        "genre_ids": [
+          16,
+          28,
+          12,
+          878
+        ],
         "cast": [
           {
             "id": 587506,
@@ -278,542 +1493,291 @@
       }
     },
     {
-      "date": "2025-12-21",
-      "day": 4,
+      "date": "2026-01-03",
+      "day": 17,
       "movie": {
-        "id": 14160,
-        "title": "Yukarı Bak",
-        "original_title": "Up",
-        "year": 2009,
-        "poster_path": "/c9QLSX3qEW8FO7UgT2pyfC1LDzb.jpg",
-        "backdrop_path": "/hGGC9gKo7CFE3fW07RA587e5kol.jpg",
-        "vote_average": 7.96,
-        "vote_count": 21138,
-        "popularity": 24.2974,
+        "id": 601,
+        "title": "E.T.",
+        "original_title": "E.T. the Extra-Terrestrial",
+        "year": 1982,
+        "poster_path": "/zC6tKwa9O3lTFtngCBHqGOkxWk.jpg",
+        "backdrop_path": "/mXLVA0YL6tcXi6SJSuAh9ONXFj5.jpg",
+        "vote_average": 7.5,
+        "vote_count": 11677,
+        "popularity": 56.3582,
         "original_language": "en",
-        "overview": "Hayatı boyunca yaşamak istediği macera hayalini gerçekleştirmek için evine binlerce balon bağlayıp Güney Amerika'nın vahşi doğasına doğru yolculuğa çıkan 78 yaşındaki baloncu Carl Fredricksen'ın hikayesinin anlatıldığı yeni bir komedi. Ancak Carl, yolculuğa başladıktan sonra en büyük kabusunu da yanında götürmekte olduğunu fark eder: fazlasıyla iyimser, doğa kaşifi 8 yaşındaki Russel'ı.",
+        "overview": "Bir grup uzaylı dünyayı ziyaret eder ve aralarından birini bu yabancı gezegende unuturlar. Bu uzaylı yaratık 10 yaşında bir çocuk olan Elliot tarafından bulunur. Kısa bir süre sonra aralarında iletişim kurmaya başladıklarında ikisi arasında farklı bir arkadaşlık doğar. E.T. dünyadaki yaşam hakkında bilgi edinirken Elliot da arkadaşlığın gerçek anlamını öğrenmeye başlar. E.T. belirli bir zaman sonra evine dönmek ister ama bunun için Elliot'un yardımı gereklidir. Elliot, E.T.ye yardım etmek istemekte ama yardım ederse arkadaşını kaybedeceği düşüncesi de onu üzmektedir. E.T. ve Elliot, E.T.nin eve dönmesi için çalışmalara başlarlar ancak E.T.nin farkına varan devlet görevlilerinin E.T.yi evine yollamak gibi bir niyetleri yoktur.",
+        "genre_ids": [
+          878,
+          12,
+          10751,
+          14
+        ],
         "cast": [
           {
-            "id": 68812,
-            "name": "Ed Asner",
-            "character": "Carl Fredricksen (voice)",
-            "profile_path": "/AeVizz1AfAB2TbsfyzgBvqeSR3G.jpg",
+            "id": 9976,
+            "name": "Henry Thomas",
+            "character": "Elliott",
+            "profile_path": "/l5OZ4qrrRGnEPeNhZ8PcL5vhwOI.jpg",
             "order": 0
           },
           {
-            "id": 290,
-            "name": "Christopher Plummer",
-            "character": "Charles F. Muntz (voice)",
-            "profile_path": "/iZh3s9Vy9vYD4DYnAda6C1kdeco.jpg",
+            "id": 69597,
+            "name": "Drew Barrymore",
+            "character": "Gertie",
+            "profile_path": "/9xMu2GLC5otUcC11sEWC5aEAERQ.jpg",
             "order": 1
           },
           {
-            "id": 80676,
-            "name": "Jordan Nagai",
-            "character": "Russell (voice)",
-            "profile_path": "/j1kVS2sI3wWIHCCzzYD1buXAP9e.jpg",
+            "id": 9978,
+            "name": "Robert MacNaughton",
+            "character": "Michael",
+            "profile_path": "/fYsyr42druY9iPNOiH7QsCob2TU.jpg",
             "order": 2
           },
           {
-            "id": 10,
-            "name": "Bob Peterson",
-            "character": "Dug / Alpha (voice)",
-            "profile_path": "/dJe3nTCIToebjj1WHFHP7LmZKyk.jpg",
+            "id": 9979,
+            "name": "Peter Coyote",
+            "character": "Keys",
+            "profile_path": "/AglpxXP9wBM567UMGL9DAMbid1V.jpg",
             "order": 3
           },
           {
-            "id": 18792,
-            "name": "Delroy Lindo",
-            "character": "Beta (voice)",
-            "profile_path": "/kLwUBBmEIdchrLqwsYzgLB2B6q5.jpg",
+            "id": 62001,
+            "name": "Dee Wallace",
+            "character": "Mary",
+            "profile_path": "/gVnwovXGgGcny8LJ3w9j3I9xTE7.jpg",
             "order": 4
           },
           {
-            "id": 7960,
-            "name": "Jerome Ranft",
-            "character": "Gamma (voice)",
-            "profile_path": "/76XFeM9FdbGkd0mxkEMstQu6na2.jpg",
+            "id": 23764,
+            "name": "Erika Eleniak",
+            "character": "Pretty Girl",
+            "profile_path": "/lu9RKtMCHRZIzLJzWieiku0LSYU.jpg",
             "order": 5
+          },
+          {
+            "id": 9980,
+            "name": "K.C. Martel",
+            "character": "Greg",
+            "profile_path": "/97MS9dZlwzOQ50O9PHxjykFtAFg.jpg",
+            "order": 6
+          },
+          {
+            "id": 2878,
+            "name": "C. Thomas Howell",
+            "character": "Tyler",
+            "profile_path": "/739YbFWpAYyo9neHvBGThgmT4YH.jpg",
+            "order": 7
+          },
+          {
+            "id": 9981,
+            "name": "Sean Frye",
+            "character": "Steve",
+            "profile_path": "/fK5oztH0aqzB2uj8OaULoxi8CBy.jpg",
+            "order": 8
+          },
+          {
+            "id": 9982,
+            "name": "David M. O'Dell",
+            "character": "Schoolboy",
+            "profile_path": null,
+            "order": 9
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-01-04",
+      "day": 18,
+      "movie": {
+        "id": 10681,
+        "title": "Vol.i",
+        "original_title": "WALL·E",
+        "year": 2008,
+        "poster_path": "/jzCpGwWHUwby14KPJJWla9ybY81.jpg",
+        "backdrop_path": "/ai2FicMUxLCurVkjtYdSvVDWRmS.jpg",
+        "vote_average": 8.104,
+        "vote_count": 19713,
+        "popularity": 30.8457,
+        "original_language": "en",
+        "overview": "Vol.i, günümüzden çok uzak bir gelecekte geçmektedir. Filmde, insanoğlu aşırı kirlenme sebebiyle Dünya’yı terk edip başka bir gezegende yaşamaya başlamıştır. Çöplerle çevrili dünyayı temizleme görevi sevimli bir robota, Vol.i’ye verilir. İnsanoğlunun bıraktığı çöplerden kendine yeni bir dünya yaratan yalnız Vol.i’nin yalnızlığı, başka bir robot olan Eve’nın gelmesiyle son bulur. İki sevimli robotun arasında filizlenen dokunaklı ilişki türlü zorluklara rağmen direnmeye ve ayakta kalmaya çalışır.",
+        "genre_ids": [
+          16,
+          10751,
+          878
+        ],
+        "cast": [
+          {
+            "id": 670,
+            "name": "Ben Burtt",
+            "character": "WALL·E / M-O (voice)",
+            "profile_path": "/7asFDWjls2bYQSfXJf5StjXmlhI.jpg",
+            "order": 0
+          },
+          {
+            "id": 72754,
+            "name": "Elissa Knight",
+            "character": "EVE (voice)",
+            "profile_path": "/exRLyaNaHcgawQA0DoBxo5IvdoI.jpg",
+            "order": 1
+          },
+          {
+            "id": 60074,
+            "name": "Jeff Garlin",
+            "character": "Captain (voice)",
+            "profile_path": "/8shJOwynglerVVxhOKbvDYTThBd.jpg",
+            "order": 2
+          },
+          {
+            "id": 20753,
+            "name": "Fred Willard",
+            "character": "Shelby Forthright, BnL CEO",
+            "profile_path": "/AaHxpkee9nQfBpQeDyJLoPNtYR6.jpg",
+            "order": 3
           },
           {
             "id": 7907,
             "name": "John Ratzenberger",
-            "character": "Construction Foreman Tom (voice)",
+            "character": "John (voice)",
             "profile_path": "/oRtDEOuIO1yDhTz5dORBdxXuLMO.jpg",
+            "order": 4
+          },
+          {
+            "id": 11074,
+            "name": "Kathy Najimy",
+            "character": "Mary (voice)",
+            "profile_path": "/pwzkG00mjA6meR4uyZL0oaT5kbO.jpg",
+            "order": 5
+          },
+          {
+            "id": 10205,
+            "name": "Sigourney Weaver",
+            "character": "Ship's Computer (voice)",
+            "profile_path": "/wTSnfktNBLd6kwQxgvkqYw6vEon.jpg",
             "order": 6
           },
           {
-            "id": 84490,
-            "name": "David Kaye",
-            "character": "Newsreel Announcer (voice)",
-            "profile_path": "/izxtFSio5twcVA1oJWPvobxpcZj.jpg",
+            "id": 24358,
+            "name": "Lori Alan",
+            "character": "Additional Voices (voice)",
+            "profile_path": "/cavATg4fX0zAl2MHwlt1IZei7EI.jpg",
             "order": 7
           },
           {
-            "id": 84491,
-            "name": "Elie Docter",
-            "character": "Young Ellie (voice)",
-            "profile_path": "/zTOUIqYx0ip4XaYcbTaxCxVY2Xf.jpg",
+            "id": 78317,
+            "name": "Bob Bergen",
+            "character": "Additional Voices (voice)",
+            "profile_path": "/soDD1xiV3zVQWOJzVdJwfgIqzfe.jpg",
             "order": 8
           },
           {
-            "id": 84492,
-            "name": "Jeremy Leary",
-            "character": "Young Carl (voice)",
-            "profile_path": "/yYBprLIwXLt1stCGmrPTYLaiZyW.jpg",
+            "id": 167295,
+            "name": "John Cygan",
+            "character": "Additional Voices (voice)",
+            "profile_path": "/sIcRLzUyeOL9ayYOUye3LFWkfuA.jpg",
             "order": 9
           }
         ]
       }
     },
     {
-      "date": "2025-12-22",
-      "day": 5,
+      "date": "2026-01-05",
+      "day": 19,
       "movie": {
-        "id": 360920,
-        "title": "Grinç",
-        "original_title": "The Grinch",
-        "year": 2018,
-        "poster_path": "/fQBYcV2h4szXwcSbhEsB4UpP6TI.jpg",
-        "backdrop_path": "/5lWIYxYEqWi8j3ZloxXntw3ImBo.jpg",
-        "vote_average": 6.873,
-        "vote_count": 4299,
-        "popularity": 30.6283,
+        "id": 882569,
+        "title": "Antlaşma",
+        "original_title": "Guy Ritchie's The Covenant",
+        "year": 2023,
+        "poster_path": "/90MAsvYlceo9WIppDcAr76r0qDq.jpg",
+        "backdrop_path": "/eTvN54pd83TrSEOz6wbsXEJktCV.jpg",
+        "vote_average": 7.728,
+        "vote_count": 2976,
+        "popularity": 23.8254,
         "original_language": "en",
-        "overview": "Who köyünden ayrılarak dağın başında, kimsenin yaklaşmaya cesaret edemediği mağarasında yaşayan Grinch'e yalnızca sadık köpeği Max eşlik etmektedir. Günlük yaşamın sükunetinden memnun olan Grinch'in kabusu ise, yılbaşı kutlamalarına aşırı düşkün olan Who halkının yıl sonu başlayan coşkusudur. Bu yıl kutlamaların daha da coşkulu olacağının ilan edilmesi sonucu, Grinch bu coşkuyu yok etmek adına, Noel Baba kılığına girerek yılbaşını çalmaya karar verir. O sırada köyde yaşamakta olan küçük Cindy-Lou ise arkadaşlarıyla birlikte yılbaşında Noel Baba'yı yakalayıp, annesine yaptığı yardımlar için teşekkür etme planı yapmaktadır. İkilinin yılbaşı planları birbirlerini nasıl etkileyecektir?",
+        "overview": "Çavuş John Kinley'in son görev turunda, yolu yerel tercüman Ahmed ile kesişir. Bu görevde ekibine yapılan saldırıdan Ahmed sayesinde kurtulan John, hayatta kalmayı başarır. Evine döndükten sonra, Ahmed'i ve ailesini geride bırakamayacağını anlar. Tüm risklere karşı John da kendi hayatını tehlikeye atarak bölgeye geri döner.",
+        "genre_ids": [
+          10752,
+          28,
+          53
+        ],
         "cast": [
           {
-            "id": 71580,
-            "name": "Benedict Cumberbatch",
-            "character": "Grinch (voice)",
-            "profile_path": "/wz3MRiMmoz6b5X3oSzMRC9nLxY1.jpg",
+            "id": 131,
+            "name": "Jake Gyllenhaal",
+            "character": "Master Sergeant John Kinley",
+            "profile_path": "/btORQRDyGCF0KNweGGYpmQXZK3P.jpg",
             "order": 0
           },
           {
-            "id": 80591,
-            "name": "Rashida Jones",
-            "character": "Donna Lou Who (voice)",
-            "profile_path": "/cgWGm9eYCretBWeljPVtpRV7n6V.jpg",
+            "id": 234907,
+            "name": "Dar Salim",
+            "character": "Ahmed",
+            "profile_path": "/mqIH4exzdXXU47ykPohDTAkZ8tN.jpg",
             "order": 1
           },
           {
-            "id": 77330,
-            "name": "Kenan Thompson",
-            "character": "Bricklebaum (voice)",
-            "profile_path": "/vHPhDGc1om91TzoIQ4zMscpNmxF.jpg",
+            "id": 2380399,
+            "name": "Sean Sagar",
+            "character": "Charlie 'Jizzy' Crow",
+            "profile_path": "/6Q2tNfe4T8SgEcF4r2h69UFi2DF.jpg",
             "order": 2
           },
           {
-            "id": 1952744,
-            "name": "Cameron Seely",
-            "character": "Cindy Lou Who (voice)",
-            "profile_path": "/btT8UCFUlhDR1NE4bFc2kj9gYWF.jpg",
+            "id": 1033691,
+            "name": "Jason Wong",
+            "character": "Joshua 'JJ' Jung",
+            "profile_path": "/tt3D1PAoB8Yf4jPCovnhlP4pvL3.jpg",
             "order": 3
           },
           {
-            "id": 14730,
-            "name": "Angela Lansbury",
-            "character": "Mayor McGerkle (voice)",
-            "profile_path": "/gGAWbfMqhJnXzC8dRLeOSXOo9vO.jpg",
+            "id": 1896053,
+            "name": "Rhys Yates",
+            "character": "Tom 'Tom Cat' Hancock",
+            "profile_path": "/9Uq5TopRLZlmcdcUFIIT1VxKsXW.jpg",
             "order": 4
           },
           {
-            "id": 558267,
-            "name": "Pharrell Williams",
-            "character": "Narrator (voice)",
-            "profile_path": "/3VdAd4rnxWFvcnBL7aEUVWxEH6V.jpg",
+            "id": 1583358,
+            "name": "Christian Ochoa",
+            "character": "Eduardo 'Chow Chow' Lopez",
+            "profile_path": "/cHcw4HlHgHOmzVs4hxUV3J8CNIq.jpg",
             "order": 5
           },
           {
-            "id": 1379104,
-            "name": "Ramone Hamilton",
-            "character": "Axl (voice)",
-            "profile_path": "/lmys7pUzYvdX1IsHRpr9OjH1U5A.jpg",
+            "id": 1523242,
+            "name": "Bobby Schofield",
+            "character": "Steve Kersher",
+            "profile_path": "/3DY3MQGMcX9LjMcy9Ei4uxiBGTy.jpg",
             "order": 6
           },
           {
-            "id": 1328978,
-            "name": "Sam Lavagnino",
-            "character": "Ozzy (voice)",
-            "profile_path": "/tfzwa6S8h8GYeNts1x5wQz66eTs.jpg",
+            "id": 130414,
+            "name": "Emily Beecham",
+            "character": "Caroline Kinley",
+            "profile_path": "/12zgj8SvKEUML1kRC0CUlyxpJ6r.jpg",
             "order": 7
           },
           {
-            "id": 1512021,
-            "name": "Scarlett Estevez",
-            "character": "Izzy (voice)",
-            "profile_path": "/ptV6Ksq5jdzZ6gARJDhkItPxVQi.jpg",
+            "id": 9012,
+            "name": "Jonny Lee Miller",
+            "character": "Colonel Vokes",
+            "profile_path": "/otCQdDtnrMvZ5tPC62zLx0SaXeR.jpg",
             "order": 8
           },
           {
-            "id": 73476,
-            "name": "Michael Beattie",
-            "character": "Store Clerk (voice)",
-            "profile_path": "/gDuLXdt6xXMjGOmdqoLymyra55n.jpg",
+            "id": 23498,
+            "name": "Alexander Ludwig",
+            "character": "Sergeant Declan O'Brady",
+            "profile_path": "/jXixkOwQ62hpsCr8xhWS9rik8SE.jpg",
             "order": 9
           }
         ]
       }
     },
     {
-      "date": "2025-12-23",
-      "day": 6,
-      "movie": {
-        "id": 27205,
-        "title": "Başlangıç",
-        "original_title": "Inception",
-        "year": 2010,
-        "poster_path": "/xn0Kcg4e6p0mLxVS3nAWhNmW2Ni.jpg",
-        "backdrop_path": "/ii8QGacT3MXESqBckQlyrATY0lT.jpg",
-        "vote_average": 8.371,
-        "vote_count": 38356,
-        "popularity": 31.3277,
-        "original_language": "en",
-        "overview": "Leonardo DiCaprio bu yapımda, çok yetenekli bir hırsız olan Dom Cobb ile karşımızda. Uzmanlık alanı, zihnin en karanlık ve savunmasız olduğu rüya anında, bilinçaltının derinliklerindeki değerli sırları çekip çıkarmak ve onları çalmaktır. Cobb'un insanlarda nadiren görülebilecek bu yeteneği onu kurumsal casusluğun tehlikeli yeni dünyasında aranan bir oyuncu yapmıştır. Aynı zamanda bu durum onu uluslararası bir kaçak yapmış ve sevdiği her şeye malolmuştur. Cobb'a içinde bulunduğu durumdan kurtulmasını sağlayacak bir fırsat sunulur. Ona hayatını geri verebilecek son bir iş; tabii eğer imkansız 'Başlangıç'ı tamamlayabilirse.",
-        "cast": [
-          {
-            "id": 6193,
-            "name": "Leonardo DiCaprio",
-            "character": "Dom Cobb",
-            "profile_path": "/wo2hJpn04vbtmh0B9utCFdsQhxM.jpg",
-            "order": 0
-          },
-          {
-            "id": 24045,
-            "name": "Joseph Gordon-Levitt",
-            "character": "Arthur",
-            "profile_path": "/z2FA8js799xqtfiFjBTicFYdfk.jpg",
-            "order": 1
-          },
-          {
-            "id": 3899,
-            "name": "渡辺謙",
-            "character": "Saito",
-            "profile_path": "/w2t30L5Cmr34myAaUobLoSgsLfS.jpg",
-            "order": 2
-          },
-          {
-            "id": 2524,
-            "name": "Tom Hardy",
-            "character": "Eames",
-            "profile_path": "/d81K0RH8UX7tZj49tZaQhZ9ewH.jpg",
-            "order": 3
-          },
-          {
-            "id": 27578,
-            "name": "Elliot Page",
-            "character": "Ariadne",
-            "profile_path": "/nXO8DE4biVXY4UDYP0NdIY1zvXS.jpg",
-            "order": 4
-          },
-          {
-            "id": 95697,
-            "name": "Dileep Rao",
-            "character": "Yusuf",
-            "profile_path": "/jRNn8SZqFXuI5wOOlHwYsWh0hXs.jpg",
-            "order": 5
-          },
-          {
-            "id": 2037,
-            "name": "Cillian Murphy",
-            "character": "Robert Fischer, Jr.",
-            "profile_path": "/llkbyWKwpfowZ6C8peBjIV9jj99.jpg",
-            "order": 6
-          },
-          {
-            "id": 13022,
-            "name": "Tom Berenger",
-            "character": "Peter Browning",
-            "profile_path": "/zLxzAdAfu7y02yEx29JSLDgXJZ4.jpg",
-            "order": 7
-          },
-          {
-            "id": 8293,
-            "name": "Marion Cotillard",
-            "character": "Mal Cobb",
-            "profile_path": "/biitzOF0GffIqFYLyOPkoiaOngQ.jpg",
-            "order": 8
-          },
-          {
-            "id": 4935,
-            "name": "Pete Postlethwaite",
-            "character": "Maurice Fischer",
-            "profile_path": "/4RxwgdF1WXKjXaaAXIWeFqtMWfD.jpg",
-            "order": 9
-          }
-        ]
-      }
-    },
-    {
-      "date": "2025-12-24",
-      "day": 7,
-      "movie": {
-        "id": 929590,
-        "title": "İç Savaş",
-        "original_title": "Civil War",
-        "year": 2024,
-        "poster_path": "/6MhvqGiiylncH61BfiX4GwwKDaN.jpg",
-        "backdrop_path": "/en3GU5uGkKaYmSyetHV4csHHiH3.jpg",
-        "vote_average": 6.854,
-        "vote_count": 3974,
-        "popularity": 23.7036,
-        "original_language": "en",
-        "overview": "İç Savaş, Amerika Birleşik Devletleri'nin çöküşün eşiğinde olduğu ve yerleşik gazetecilerin hayatlarının en büyük hikayesini anlatmak için yarıştığı yakın bir gelecekte geçiyor. Federal hükûmete karşı ayaklanan eyaletler tarafından oluşturulan silahlı ittifak Batı Güçleri, başkente saldırmak üzeredir. Bu süreçte dünyanın dört bir yanında vahşeti görüntüleyen savaş fotoğrafçısı Lee, içlerinde akıl hocalığını üstlendiği Jessie adında hevesli genç bir fotoğrafçının da bulunduğu küçük bir gazeteci grubu ile birlikte başkanla son bir röportaj yapma umuduyla Beyaz Saray’a gider.",
-        "cast": [
-          {
-            "id": 205,
-            "name": "Kirsten Dunst",
-            "character": "Lee",
-            "profile_path": "/yhLKGjuiMMdbGnFrR8AREkCZcVF.jpg",
-            "order": 0
-          },
-          {
-            "id": 52583,
-            "name": "Wagner Moura",
-            "character": "Joel",
-            "profile_path": "/yJjV1ZCQbCSSgRy05FncCKjyaY4.jpg",
-            "order": 1
-          },
-          {
-            "id": 1683343,
-            "name": "Cailee Spaeny",
-            "character": "Jessie",
-            "profile_path": "/qFqXdfZMtsWKyErnIC6dLEvvDKk.jpg",
-            "order": 2
-          },
-          {
-            "id": 196179,
-            "name": "Stephen McKinley Henderson",
-            "character": "Sammy",
-            "profile_path": "/z2weSPo4sdMNj47tP5o0me41r2z.jpg",
-            "order": 3
-          },
-          {
-            "id": 109019,
-            "name": "李志傑",
-            "character": "Tony",
-            "profile_path": "/rkwBH9Sp0bhZCKeoAnoeznMmcXS.jpg",
-            "order": 4
-          },
-          {
-            "id": 17039,
-            "name": "Nick Offerman",
-            "character": "President",
-            "profile_path": "/f6z3mPVtaF40ewfdmZydprAjmYd.jpg",
-            "order": 5
-          },
-          {
-            "id": 1385813,
-            "name": "Jefferson White",
-            "character": "Dave",
-            "profile_path": "/8QSrhrWpqTBGJN3rfijXCvmOcb5.jpg",
-            "order": 6
-          },
-          {
-            "id": 2001956,
-            "name": "Evan Lai",
-            "character": "Bohai",
-            "profile_path": "/rSDVfjEcWdFKztdWIy8hkRAnDoI.jpg",
-            "order": 7
-          },
-          {
-            "id": 1431398,
-            "name": "Vince Pisani",
-            "character": "Concierge",
-            "profile_path": "/auCC2e7IKC146MDvO4k8tPXMKaZ.jpg",
-            "order": 8
-          },
-          {
-            "id": 2145383,
-            "name": "Justin James Boykin",
-            "character": "American Soldier (Middle East)",
-            "profile_path": "/uKduJ7UggxShJSu9nsIxd4gxbC8.jpg",
-            "order": 9
-          }
-        ]
-      }
-    },
-    {
-      "date": "2025-12-25",
-      "day": 8,
-      "movie": {
-        "id": 8871,
-        "title": "Grinç",
-        "original_title": "How the Grinch Stole Christmas",
-        "year": 2000,
-        "poster_path": "/6i4h80hwv8rYiFgyDk4SJ5WReDU.jpg",
-        "backdrop_path": "/sy0vo1cmpKqwPRiMUiJ45jyLsX7.jpg",
-        "vote_average": 6.777,
-        "vote_count": 7989,
-        "popularity": 42.9034,
-        "original_language": "en",
-        "overview": "Whoville kasabasında yaklaşan Noel heyecanıyla hazırlıklar sürmektedir. Kasaba halkı birbirine en güzel hediyeleri almak için koşuştururken kasabaya tepeden bakan Crumpit Dağı’nda bir mağarada yaşayan Grinç, her Noel döneminde tekrarlanan bu çılgınca koşuşturmadan rahatsız bir biçimde aşağıdaki insanlara Noel’i nasıl zehir edebileceğinin planlarını yapmaktadır. Bu sırada kasabadan küçük bir kız Grinç’in kapısını çalar.",
-        "cast": [
-          {
-            "id": 206,
-            "name": "Jim Carrey",
-            "character": "Grinch",
-            "profile_path": "/u0AqTz6Y7GHPCHINS01P7gPvDSb.jpg",
-            "order": 0
-          },
-          {
-            "id": 20480,
-            "name": "Taylor Momsen",
-            "character": "Cindy Lou Who",
-            "profile_path": "/xhVLK5W5HvDpjwlVYztxizApNYq.jpg",
-            "order": 1
-          },
-          {
-            "id": 4175,
-            "name": "Jeffrey Tambor",
-            "character": "Mayor Augustus Maywho",
-            "profile_path": "/e4IkxsEo5O4oUWrIpXlEhWa6lqB.jpg",
-            "order": 2
-          },
-          {
-            "id": 11870,
-            "name": "Christine Baranski",
-            "character": "Martha May Whovier",
-            "profile_path": "/q6Zi3BYlmoim1JXXMGgRVS5C87x.jpg",
-            "order": 3
-          },
-          {
-            "id": 58549,
-            "name": "Bill Irwin",
-            "character": "Lou Lou Who",
-            "profile_path": "/bAV5qsljgiHQkn3QluB5clVYC13.jpg",
-            "order": 4
-          },
-          {
-            "id": 28640,
-            "name": "Molly Shannon",
-            "character": "Betty Lou Who",
-            "profile_path": "/5ZTbNpJtDRU4ZCH24nJvFRxaqAD.jpg",
-            "order": 5
-          },
-          {
-            "id": 15661,
-            "name": "Clint Howard",
-            "character": "Whobris",
-            "profile_path": "/qC7AgKmcBFk76ojTYELeirw1viQ.jpg",
-            "order": 6
-          },
-          {
-            "id": 167661,
-            "name": "Josh Ryan Evans",
-            "character": "8-Year-Old Grinch",
-            "profile_path": "/4iBcf1cZlXcTTrFTyaHGdat2BN3.jpg",
-            "order": 7
-          },
-          {
-            "id": 13924,
-            "name": "Mindy Sterling",
-            "character": "Clarnella",
-            "profile_path": "/hX99KTTCFxB4a2rB1SpDbr8imrK.jpg",
-            "order": 8
-          },
-          {
-            "id": 18997,
-            "name": "Bryce Dallas Howard",
-            "character": "Surprised Who",
-            "profile_path": "/fmXhf4rJOrzc3QWwxVbNd7kP8wy.jpg",
-            "order": 9
-          }
-        ]
-      }
-    },
-    {
-      "date": "2025-12-26",
-      "day": 9,
-      "movie": {
-        "id": 13393,
-        "title": "Babam ve Oğlum",
-        "original_title": "Babam ve Oğlum",
-        "year": 2005,
-        "poster_path": "/hPRCaz9PEjUZOknzCdyWGaGUN3.jpg",
-        "backdrop_path": "/ci8NMpK3HvuySQRGPMAPyBSlL7f.jpg",
-        "vote_average": 7.442,
-        "vote_count": 361,
-        "popularity": 4.5956,
-        "original_language": "tr",
-        "overview": "1980 darbesinde annesini kaybeden küçük Deniz (babası o dönemde bir çok erkek çocuğa verilen ismi koymuştur) yedi yıl sonra hiç görmediği dedesinin Ege’deki çiftliğine doğru bir yolculuğa çıkar. Deniz’in dedesini hiç görmemesinin nedeni dedesiyle babasının yıllardır küs oluşudur. Hüseyin Efendi (Çetin Tekindor) okumaya diye gönderdiği oğlunun politik olaylara karıştığını öğrenince onu evlatlıktan silmiştir çünkü. Sadık’ın her şeye rağmen baba evine geri dönüşünün nedeni Deniz’den ayrılmak zorunda oluşudur; küçük oğlunu babasına emanet edecektir. Kelimenin tam anlamıyla Deniz bu çiftlikte hafif tatlı kaçık bir ailenin ortasında bulur kendini.",
-        "cast": [
-          {
-            "id": 93390,
-            "name": "Fikret Kuşkan",
-            "character": "Sadık",
-            "profile_path": "/iqbv4qWrGDCZWwtzxRLWqI7FuLo.jpg",
-            "order": 0
-          },
-          {
-            "id": 1255130,
-            "name": "Ege Tanman",
-            "character": "Deniz",
-            "profile_path": "/xtVbMV5gXDSKyj6qCcE356mpeK.jpg",
-            "order": 1
-          },
-          {
-            "id": 93389,
-            "name": "Çetin Tekindor",
-            "character": "Hüseyin",
-            "profile_path": "/hvX7yQmZhssgf7b6ocgC26eIGYB.jpg",
-            "order": 2
-          },
-          {
-            "id": 145394,
-            "name": "Hümeyra",
-            "character": "Nuran",
-            "profile_path": "/7RBzskdd5iUXARTwZGorzpnukml.jpg",
-            "order": 3
-          },
-          {
-            "id": 142769,
-            "name": "Şerif Sezer",
-            "character": "Gülbeyaz",
-            "profile_path": "/iNCTcx874hP31X1LmA74DuFDzY5.jpg",
-            "order": 4
-          },
-          {
-            "id": 1115598,
-            "name": "Yetkin Dikinciler",
-            "character": "Salim",
-            "profile_path": "/ynjfOFkNFUK1wvfJZqigCoZi3YS.jpg",
-            "order": 5
-          },
-          {
-            "id": 115012,
-            "name": "Binnur Kaya",
-            "character": "Hanife",
-            "profile_path": "/cjdC5OIigUpiLI4q8RvkYjvDMNh.jpg",
-            "order": 6
-          },
-          {
-            "id": 1969660,
-            "name": "Mahmut Gökgöz",
-            "character": "İbrahim",
-            "profile_path": "/tYnmjzMyypRD2GqdzeFnm69IMWe.jpg",
-            "order": 7
-          },
-          {
-            "id": 569894,
-            "name": "Nergis Çorakçı",
-            "character": "Sakine",
-            "profile_path": "/5UvFrPIKi1AtqEEH1tLnJZiv87A.jpg",
-            "order": 8
-          },
-          {
-            "id": 1979380,
-            "name": "Bilge Şen",
-            "character": "Fatma",
-            "profile_path": "/q8ncc2e1YLeNREaeC6xiVMFB6Nm.jpg",
-            "order": 9
-          }
-        ]
-      }
-    },
-    {
-      "date": "2025-12-27",
-      "day": 10,
+      "date": "2026-01-06",
+      "day": 20,
       "movie": {
         "id": 823464,
         "title": "Godzilla ve Kong: Yeni İmparatorluk",
@@ -826,6 +1790,11 @@
         "popularity": 32.3131,
         "original_language": "en",
         "overview": "Kudretli Kong ve korkunç Godzilla bir araya gelerek, insan dünyasında gizlenen ve hem kendi türlerinin hem de insanlığın varoluşunu tehdit eden devasa ölümcül bir tehdide karşı birlikte savaşmak zorundadır.",
+        "genre_ids": [
+          28,
+          12,
+          878
+        ],
         "cast": [
           {
             "id": 15556,
@@ -901,979 +1870,93 @@
       }
     },
     {
-      "date": "2025-12-28",
-      "day": 11,
+      "date": "2026-01-07",
+      "day": 21,
       "movie": {
-        "id": 474350,
-        "title": "O: Bölüm 2",
-        "original_title": "It Chapter Two",
-        "year": 2019,
-        "poster_path": "/kMsi0Op9JJASx7ph0NvQvkM6lrE.jpg",
-        "backdrop_path": "/8moTOzunF7p40oR5XhlDvJckOSW.jpg",
-        "vote_average": 6.838,
-        "vote_count": 9308,
-        "popularity": 53.4608,
+        "id": 675,
+        "title": "Harry Potter ve Zümrüdüanka Yoldaşlığı",
+        "original_title": "Harry Potter and the Order of the Phoenix",
+        "year": 2007,
+        "poster_path": "/s8htpahrRb2lEFa3fYL9yXFORYC.jpg",
+        "backdrop_path": "/jLbpgkxA5PSgzmcszT8yCOyPkgf.jpg",
+        "vote_average": 7.674,
+        "vote_count": 20347,
+        "popularity": 22.9075,
         "original_language": "en",
-        "overview": "Kaybedenler Kulübü tarafından yenilgiye uğratılmasından yirmi yedi yıl sonra, Pennywise, Derry kasabasını yeniden dehşete düşürmek üzere geri döner. Artık birer yetişkin olan Kaybedenler Kulübü üyeleri Derry'i terk etmiş ve kendi yollarını çoktan çizmişlerdir. Derry'de çocukların tekrardan ortadan kaybolmaya başlamasıyla, kulübün kasabada kalmış tek üyesi olan Mike diğerlerini kasabaya geri çağırır. Geçmişin deneyimlerinden dolayı yıpranmış olan kulüp üyelerinin Pennywise’ı bu kez sonsuza dek ortadan kaldırabilmek için kendi en derin korkularıyla yüzleşmeleri gerekecektir.",
+        "overview": "5. öğretim yılı için Hogwarts’a dönen Harry, büyücü camiasının büyük çoğunluğunun onun kötü Lord Voldemort’la karşılaştığını inkar ederek, Lord Voldemort’un döndüğü haberine kulak tıkamayı tercih ettiklerini görür. Sihir Bakanı Cornelius Fudge, Dumbledore ve Hogwarts öğrencilerinin hareketlerinden haberdar olabilmek için okula yeni bir Karanlık Sanatlara Karşı Savunma öğretmeni atar. Ama Profesör Dolores Umbridge’in Bakanlıktan onaylı savunma büyüsü dersi onları ve tüm büyücü camiasını kendilerini tehdit eden karanlık güçlere karşı ne yazık ki savunmasız bırakır; bu yüzden, arkadaşları Hermione ve Ron’un teşviki üzerine, Harry konuya el atar. Kendilerine “Dumbledore’un Ordusu” adını veren küçük grupla buluşan Harry, onlara Karanlık Güçlere karşı nasıl savunacaklarını öğreterek, bu genç ve cesur büyücüleri kendilerini bekleyen olağanüstü savaşa hazırlar.",
+        "genre_ids": [
+          12,
+          14
+        ],
         "cast": [
           {
-            "id": 83002,
-            "name": "Jessica Chastain",
-            "character": "Beverly Marsh",
-            "profile_path": "/lodMzLKSdrPcBry6TdoDsMN3Vge.jpg",
+            "id": 10980,
+            "name": "Daniel Radcliffe",
+            "character": "Harry Potter",
+            "profile_path": "/e64VeB4Mybwm2tOhyLY1h7XQQ8N.jpg",
             "order": 0
           },
           {
-            "id": 5530,
-            "name": "James McAvoy",
-            "character": "Bill Denbrough",
-            "profile_path": "/u4REKbm3zhFI2J5tVyqRovGRYUJ.jpg",
+            "id": 10989,
+            "name": "Rupert Grint",
+            "character": "Ron Weasley",
+            "profile_path": "/q2KZZ0ltTEl7Sf8volNFV1JDEP4.jpg",
             "order": 1
           },
           {
-            "id": 19278,
-            "name": "Bill Hader",
-            "character": "Richie Tozier",
-            "profile_path": "/qyT50vQ9PQIEctE1IxDTEsBKstU.jpg",
+            "id": 10990,
+            "name": "Emma Watson",
+            "character": "Hermione Granger",
+            "profile_path": "/A14lLCZYDhfYdBa0fFRpwMDiwRN.jpg",
             "order": 2
           },
           {
-            "id": 1237603,
-            "name": "Isaiah Mustafa",
-            "character": "Mike Hanlon",
-            "profile_path": "/tnwz9bf0bplixzyaqyu4iAI9lLj.jpg",
+            "id": 11356,
+            "name": "Imelda Staunton",
+            "character": "Dolores Umbridge",
+            "profile_path": "/96LYLMnUOWZ4DFXEeQPItNsxzEP.jpg",
             "order": 3
           },
           {
-            "id": 223901,
-            "name": "Jay Ryan",
-            "character": "Ben Hanscom",
-            "profile_path": "/oN7Fix6XhwLGrWFN0lmGbsAe5Rp.jpg",
+            "id": 1283,
+            "name": "Helena Bonham Carter",
+            "character": "Bellatrix Lestrange",
+            "profile_path": "/hJMbNSPJ2PCahsP3rNEU39C8GWU.jpg",
             "order": 4
           },
           {
-            "id": 5296,
-            "name": "James Ransone",
-            "character": "Eddie Kaspbrak",
-            "profile_path": "/n1O0RnxKPfxvVJUh13Gr0pPGlvd.jpg",
+            "id": 1923,
+            "name": "Robbie Coltrane",
+            "character": "Rubeus Hagrid",
+            "profile_path": "/jOHs3xvlwRiiG2CLtso5zzmGCXg.jpg",
             "order": 5
           },
           {
-            "id": 1330888,
-            "name": "Andy Bean",
-            "character": "Stanley Uris",
-            "profile_path": "/4BiltJsO0KO7E9Mgyj8wMekbEBA.jpg",
+            "id": 64,
+            "name": "Gary Oldman",
+            "character": "Sirius Black",
+            "profile_path": "/2v9FVVBUrrkW2m3QOcYkuhq9A6o.jpg",
             "order": 6
           },
           {
-            "id": 137905,
-            "name": "Bill Skarsgård",
-            "character": "Pennywise",
-            "profile_path": "/xBXLx1m0uzhXIbY3wN8lmPGeUHl.jpg",
+            "id": 5469,
+            "name": "Ralph Fiennes",
+            "character": "Lord Voldemort",
+            "profile_path": "/yOkUvQ7mPwLSqK6lTpg1PpVfOW9.jpg",
             "order": 7
           },
           {
-            "id": 1274508,
-            "name": "Jaeden Martell",
-            "character": "Young Bill Denbrough",
-            "profile_path": "/oR7ZJsOHMNFzM1HeugV4a4qCMSF.jpg",
+            "id": 5658,
+            "name": "Michael Gambon",
+            "character": "Albus Dumbledore",
+            "profile_path": "/3jdWkDKf4IODbG4JKTeaC7AzxZH.jpg",
             "order": 8
-          },
-          {
-            "id": 1148455,
-            "name": "Wyatt Oleff",
-            "character": "Young Stanley Uris",
-            "profile_path": "/gDnNsX6haa6Dx7yDCwFxIbJfQlj.jpg",
-            "order": 9
-          }
-        ]
-      }
-    },
-    {
-      "date": "2025-12-29",
-      "day": 12,
-      "movie": {
-        "id": 236041,
-        "title": "En Büyük Şaban",
-        "original_title": "En Büyük Şaban",
-        "year": 1983,
-        "poster_path": "/lWuG9STXfqoqVQTrjkkYNROhe8r.jpg",
-        "backdrop_path": "/esVaU8LiHjBFUtWzAfzVPrdMV3s.jpg",
-        "vote_average": 6.3,
-        "vote_count": 43,
-        "popularity": 8.8901,
-        "original_language": "tr",
-        "overview": "Köyden İstanbul'a zengin olma hayalleriyle gelen Şaban, dolandırılarak bütün parasını kaybeder. Çaresiz bir şekilde gezerken karısı tarafından terk edilmiş zengin iş adamı Faik Bey ile tanışır. Sarhoş olduğu zamanlarda Şaban ile çok yakın arkadaş olan Faik Bey, kendine gelince Şaban’ı tanımaz. Şaban, bir gün çiçek satıcısı Hülya ile karşılaşır. Gözleri görmemesine rağmen çiçek satarak ailesinin geçimini sağlayan Hülya'ya âşık olur. Hülya’nın durumu gören Şaban, ona yardım etmeye çalışacaktır.",
-        "cast": [
-          {
-            "id": 97272,
-            "name": "Kemal Sunal",
-            "character": "Şaban",
-            "profile_path": "/nT6zfupn0Q3oyCWHXCvyKS7CcLE.jpg",
-            "order": 0
-          },
-          {
-            "id": 1271295,
-            "name": "Nilgün Bubikoğlu",
-            "character": "Hülya",
-            "profile_path": "/6O6G5co1NTfXmrvleVJZu5TSveo.jpg",
-            "order": 1
-          },
-          {
-            "id": 571429,
-            "name": "Dinçer Çekmez",
-            "character": "Boksör",
-            "profile_path": "/2aEz3R2Ynrxg07i9JyLGnyZa3Gg.jpg",
-            "order": 2
-          },
-          {
-            "id": 571439,
-            "name": "Reha Yurdakul",
-            "character": "Kamil",
-            "profile_path": "/zU2Hl33cNpFx1yrC0GEp1sJozUg.jpg",
-            "order": 3
-          },
-          {
-            "id": 1271734,
-            "name": "Ayten Erman",
-            "character": "Ayten",
-            "profile_path": "/A4e97JJqddxYFg0jQbRd6mwTWJ2.jpg",
-            "order": 4
-          },
-          {
-            "id": 1136675,
-            "name": "Kamran Usluer",
-            "character": "",
-            "profile_path": "/pcwIYN7kvB7UqaIXGsg9xVprhJR.jpg",
-            "order": 5
-          },
-          {
-            "id": 2171046,
-            "name": "Cevdet Arıkan",
-            "character": "",
-            "profile_path": "/frC2pntstQfNjTEIbf0Fm6skWrM.jpg",
-            "order": 6
-          },
-          {
-            "id": 1452512,
-            "name": "Celal Yonat",
-            "character": "",
-            "profile_path": "/ok7UKq6AZxgsXtSGKQ3x2meCMSp.jpg",
-            "order": 7
-          },
-          {
-            "id": 1353777,
-            "name": "Turgut Demirağ",
-            "character": "",
-            "profile_path": "/8cJx7wxZNZHTYowjIkD0MePVFJf.jpg",
-            "order": 8
-          },
-          {
-            "id": 1202115,
-            "name": "Ekrem Dümer",
-            "character": "",
-            "profile_path": "/2Xyb05zxPZExqyr5sYlDAKTc3ir.jpg",
-            "order": 9
-          }
-        ]
-      }
-    },
-    {
-      "date": "2025-12-30",
-      "day": 13,
-      "movie": {
-        "id": 1726,
-        "title": "Iron Man",
-        "original_title": "Iron Man",
-        "year": 2008,
-        "poster_path": "/3o2TSP446Scw0d0m6qXlR8MYFO9.jpg",
-        "backdrop_path": "/cKvDv2LpwVEqbdXWoQl4XgGN6le.jpg",
-        "vote_average": 7.654,
-        "vote_count": 27525,
-        "popularity": 30.9231,
-        "original_language": "en",
-        "overview": "Milyarder bir sanayici ve dâhi bir mucit olan Tony Stark kaçırılır ve yıkıcı bir silah inşa etmeye zorlanır. Zekâsını ve yaratıcılığını kullanarak bunun yerine ileri teknoloji bir zırh inşa eder ve esaretten kaçar. Küresel sonuçları olacak alçak bir plan olduğunu keşfettiğinde güçlü zırhını kuşanır ve Demir Adam olarak dünyayı korumaya yemin eder.",
-        "cast": [
-          {
-            "id": 3223,
-            "name": "Robert Downey Jr.",
-            "character": "Tony Stark",
-            "profile_path": "/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg",
-            "order": 0
-          },
-          {
-            "id": 18288,
-            "name": "Terrence Howard",
-            "character": "Rhodey",
-            "profile_path": "/eZ6uRZOYWZAyjNmWpDKGdLL6WUC.jpg",
-            "order": 1
-          },
-          {
-            "id": 1229,
-            "name": "Jeff Bridges",
-            "character": "Obadiah Stane",
-            "profile_path": "/xms1RAY6q7Lzp7wNeRCB0kzhucn.jpg",
-            "order": 2
-          },
-          {
-            "id": 12052,
-            "name": "Gwyneth Paltrow",
-            "character": "Pepper Potts",
-            "profile_path": "/mLarlXA8G02AdIMKptZmUzQluqF.jpg",
-            "order": 3
-          },
-          {
-            "id": 57451,
-            "name": "Leslie Bibb",
-            "character": "Christine Everhart",
-            "profile_path": "/g3a1O9lOTZvrwQupUtg4Fc3CdTd.jpg",
-            "order": 4
-          },
-          {
-            "id": 17857,
-            "name": "Shaun Toub",
-            "character": "Yinsen",
-            "profile_path": "/6fuJ9D50bYuMAhrlEgVqzgqF0LU.jpg",
-            "order": 5
-          },
-          {
-            "id": 57452,
-            "name": "Faran Tahir",
-            "character": "Raza",
-            "profile_path": "/dMsD7h6KiZ5dM0f9MegXUOKnqb0.jpg",
-            "order": 6
-          },
-          {
-            "id": 9048,
-            "name": "Clark Gregg",
-            "character": "Agent Coulson",
-            "profile_path": "/mq686D91XoZpqkzELn0888NOiZW.jpg",
-            "order": 7
-          },
-          {
-            "id": 17200,
-            "name": "Bill Smitrovich",
-            "character": "General Gabriel",
-            "profile_path": "/yzZUYnAdX0MMA8eZMTVsXufRCfU.jpg",
-            "order": 8
-          },
-          {
-            "id": 173810,
-            "name": "Sayed Badreya",
-            "character": "Abu Bakaar",
-            "profile_path": "/sVvwmMsjXd5YqyZEfWcWQEkBScu.jpg",
-            "order": 9
-          }
-        ]
-      }
-    },
-    {
-      "date": "2025-12-31",
-      "day": 14,
-      "movie": {
-        "id": 562,
-        "title": "Zor Ölüm",
-        "original_title": "Die Hard",
-        "year": 1988,
-        "poster_path": "/sORxMyv9odFNY97T9XMsS465293.jpg",
-        "backdrop_path": "/oIwfoUFfWfESn0Y8u8jv9lc8li1.jpg",
-        "vote_average": 7.802,
-        "vote_count": 11830,
-        "popularity": 23.1795,
-        "original_language": "en",
-        "overview": "Bruce Willis, Los Angeles'a Noel tatilini ayrı olduğu karısıyla geçirmeye gelen New York şehri polisi dedektif John McClane'i oynuyor. Fakat McClane, karısının düzenlediği ofisteki partinin başlamasını beklerken teröristler, binanın kontrolünü ele geçirir. Teröristlerin lideri Hans Gruber ve onun zalim yardakçısı, rehineleri bir araya toplarken McClane kimseye görünmeden kaçar. Yanında yanlızca bir silahı ve cesareti olan McClane, tek kişilik savaşını başlatır.",
-        "cast": [
-          {
-            "id": 62,
-            "name": "Bruce Willis",
-            "character": "John McClane",
-            "profile_path": "/w3aXr1e7gQCn8MSp1vW4sXHn99P.jpg",
-            "order": 0
           },
           {
             "id": 4566,
             "name": "Alan Rickman",
-            "character": "Hans Gruber",
+            "character": "Severus Snape",
             "profile_path": "/1EearzPgXkmYFKvECfWNrctIFT9.jpg",
-            "order": 1
-          },
-          {
-            "id": 7674,
-            "name": "Александр Годунов",
-            "character": "Karl",
-            "profile_path": "/4oBCz83Pjxe66PlTmA9ph7m5O0e.jpg",
-            "order": 2
-          },
-          {
-            "id": 7673,
-            "name": "Bonnie Bedelia",
-            "character": "Holly Gennaro McClane",
-            "profile_path": "/2dCd7HGOfmn4x7v97EcNIwy12io.jpg",
-            "order": 3
-          },
-          {
-            "id": 7672,
-            "name": "Reginald VelJohnson",
-            "character": "Al Powell",
-            "profile_path": "/r0F5y1PAQEDM08MBj3oI1IIX4gi.jpg",
-            "order": 4
-          },
-          {
-            "id": 7675,
-            "name": "Paul Gleason",
-            "character": "Dwayne Robinson",
-            "profile_path": "/a7PJofFcVpDxw2wAak1d56J7L4k.jpg",
-            "order": 5
-          },
-          {
-            "id": 7677,
-            "name": "De'voreaux White",
-            "character": "Argyle",
-            "profile_path": "/g6B4hHY69xN3mpAORwVi307vfR0.jpg",
-            "order": 6
-          },
-          {
-            "id": 7676,
-            "name": "William Atherton",
-            "character": "Richard Thornburg",
-            "profile_path": "/S9W4deKuEa2K12ZiXwlvrC6J4U.jpg",
-            "order": 7
-          },
-          {
-            "id": 7678,
-            "name": "Hart Bochner",
-            "character": "Harry Ellis",
-            "profile_path": "/nfC2ByTNS3xoygwYVbUYsx2Zae6.jpg",
-            "order": 8
-          },
-          {
-            "id": 4995,
-            "name": "James Shigeta",
-            "character": "Joseph Yoshinobu Takagi",
-            "profile_path": "/HtXVBHBPPHaNpQ8FVefB3AB9Rn.jpg",
-            "order": 9
-          }
-        ]
-      }
-    },
-    {
-      "date": "2026-01-01",
-      "day": 15,
-      "movie": {
-        "id": 1422227,
-        "title": "Aşk Sadece Bir An",
-        "original_title": "Aşk Sadece Bir An",
-        "year": 2025,
-        "poster_path": "/rwiMs8Lr6FAjvXEiQzTJyxLqZee.jpg",
-        "backdrop_path": "/oz4HTAYTtT0p8kdruZOAKV20nh9.jpg",
-        "vote_average": 6.6,
-        "vote_count": 10,
-        "popularity": 8.9786,
-        "original_language": "tr",
-        "overview": "Bir barda çalışan Rüzgar, bir gün arkadaşına yardım etmek için onun yerine taksiye çıkar. Bu yolculukta hayatının aşkı Hayal ile tanışır. İkilisinin arasındaki aşk, Rüzgar'ın geçmişi ve Hayal'in ailesi sebebiyle bir çıkmaza girer.",
-        "cast": [
-          {
-            "id": 5214195,
-            "name": "Emirhan Çakal",
-            "character": "",
-            "profile_path": "/eil534XNd3ouAImFb1IZt4R4Uq9.jpg",
-            "order": 0
-          },
-          {
-            "id": 3135562,
-            "name": "Nilsu Berfin Aktaş",
-            "character": "",
-            "profile_path": "/11Qg7MlcE0cP8oEHiFFwZplE5Om.jpg",
-            "order": 1
-          },
-          {
-            "id": 2342736,
-            "name": "Tuana Naz Tiryaki",
-            "character": "",
-            "profile_path": "/3mr4yjjF3D20fuXi6VUWdQr4eAi.jpg",
-            "order": 2
-          },
-          {
-            "id": 236656,
-            "name": "Emre Kınay",
-            "character": "",
-            "profile_path": "/r6mCsMjh8qx5J18PRXGlYHO0Txi.jpg",
-            "order": 3
-          },
-          {
-            "id": 120881,
-            "name": "Burcu Kara",
-            "character": "",
-            "profile_path": "/pbGWvkh8nsfjgVAXtytRlsj2RMn.jpg",
-            "order": 4
-          },
-          {
-            "id": 1258448,
-            "name": "Gonca Vuslateri",
-            "character": "",
-            "profile_path": "/wu2gvPyKKAGEVn1VX5WmHJ5szYI.jpg",
-            "order": 5
-          },
-          {
-            "id": 238845,
-            "name": "Tuba Ünsal",
-            "character": "",
-            "profile_path": "/9jL2ViJKtMQe9uOLeVjn5AC5EQf.jpg",
-            "order": 6
-          },
-          {
-            "id": 1274126,
-            "name": "Teoman",
-            "character": "",
-            "profile_path": "/87yjzkm8GgfWSFaHi1U7lw38yLo.jpg",
-            "order": 7
-          },
-          {
-            "id": 5177452,
-            "name": "Nazlı Yağcı",
-            "character": "",
-            "profile_path": "/nqiXFjkJxnqv5VF8OlMcdZEr5Rb.jpg",
-            "order": 8
-          },
-          {
-            "id": 4446959,
-            "name": "Rızacan Durmuş",
-            "character": "",
-            "profile_path": "/lLcqRFFqLwSErXvcm2dbIIgVhRY.jpg",
-            "order": 9
-          }
-        ]
-      }
-    },
-    {
-      "date": "2026-01-02",
-      "day": 16,
-      "movie": {
-        "id": 1425617,
-        "title": "Başka Bir Sen",
-        "original_title": "Başka Bir Sen",
-        "year": 2025,
-        "poster_path": "/s2f1VLaVuWSq6nYELqQhnqiKHKh.jpg",
-        "backdrop_path": "/j4oYX4LgNnoRYHnkafGYeyVLULi.jpg",
-        "vote_average": 6.621,
-        "vote_count": 33,
-        "popularity": 3.9059,
-        "original_language": "tr",
-        "overview": "Mümtaz’ın hayatında hiçbir şey yolunda gitmemektedir. Yine böyle bir günde onun yolu Derya ile kesişir. Dahil oldukları büyük bir kaza, Derya ile Mümtaz’ın hayatını geri dönüşü olmayacak bir şekilde değiştirir. Mümtaz ile Derya aile olabilmenin zorlukları ve sonsuz aşkın sınırlarıyla mücadele etmek zorunda kalır",
-        "cast": [
-          {
-            "id": 1954674,
-            "name": "Giray Altınok",
-            "character": "Erdem / Mümtaz",
-            "profile_path": "/dqKoWs7L2C5FxyXXBkSdMj7rCv8.jpg",
-            "order": 0
-          },
-          {
-            "id": 1255742,
-            "name": "Ezgi Mola",
-            "character": "Derya",
-            "profile_path": "/dXZJOJr8bpUaCyUEBpNKs8e1Utx.jpg",
-            "order": 1
-          },
-          {
-            "id": 3615920,
-            "name": "Kerem Özdoğan",
-            "character": "Oktay",
-            "profile_path": "/9kbvvUP23yzqLvEHmXblYBgo5Kr.jpg",
-            "order": 2
-          },
-          {
-            "id": 145726,
-            "name": "Nevra Serezli",
-            "character": "Lütfiye",
-            "profile_path": "/f0vWxC7tQJUn6CUzm4xOkgbyrTQ.jpg",
-            "order": 3
-          },
-          {
-            "id": 545841,
-            "name": "Hüseyin Avni Danyal",
-            "character": "Zafer",
-            "profile_path": "/pbi3qvL9wtFphQe3guH8ZL5b39m.jpg",
-            "order": 4
-          },
-          {
-            "id": 1911767,
-            "name": "Deniz Cengiz",
-            "character": "Elif",
-            "profile_path": "/ujnkKsHSO8VkcqbmP13kuc9KxDE.jpg",
-            "order": 5
-          },
-          {
-            "id": 1110448,
-            "name": "Cihat Tamer",
-            "character": "Mustafa",
-            "profile_path": "/l2B1nlEbLKqIiaghEAqmnBQdzQ9.jpg",
-            "order": 6
-          },
-          {
-            "id": 1938016,
-            "name": "Osman Alkaş",
-            "character": "Erkin'nin Babası",
-            "profile_path": "/erOmgT5tF54qJ6Fx9a6o4dd4c0r.jpg",
-            "order": 7
-          },
-          {
-            "id": 1042721,
-            "name": "Şükran Ovalı",
-            "character": "Erkin'in Annesi",
-            "profile_path": "/2mq5fq3GEoqGWjSvNjTl7nZ7eL3.jpg",
-            "order": 8
-          },
-          {
-            "id": 569894,
-            "name": "Nergis Çorakçı",
-            "character": "Melahat",
-            "profile_path": "/5UvFrPIKi1AtqEEH1tLnJZiv87A.jpg",
-            "order": 9
-          }
-        ]
-      }
-    },
-    {
-      "date": "2026-01-03",
-      "day": 17,
-      "movie": {
-        "id": 10191,
-        "title": "Ejderhanı Nasıl Eğitirsin",
-        "original_title": "How to Train Your Dragon",
-        "year": 2010,
-        "poster_path": "/vurfC4fEqOw2lp6AESkbkIRcz9m.jpg",
-        "backdrop_path": "/59vDC1BuEQvti24OMr0ZvtAK6R1.jpg",
-        "vote_average": 7.854,
-        "vote_count": 13930,
-        "popularity": 29.5403,
-        "original_language": "en",
-        "overview": "Ejderhalar Berk Adası'nı kendilerine mesken seçmişlerdir. Senelerce acımasız mahlukat tarafından yağmalanan talihsiz adanın biçare yerlileri için hayvanlarını çalıp evlerini yakan bu ejderhaları tepelemek bir nevi namus borcudur. Yetişkinlik çağına erişen genç erkeklerin yapması gereken tek şey bir ejderhayı öldürmektir. Zamanı geldiğinde köyün şefinin tuhaf oğlu Hiccup, icat ettiği tuhaf mekanizmalı silahı bir yaratığa doğrultarak onu öldürmeye yeltenir. Nadir bir türe ait olan bu ejderhayı bir türlü öldüremeyen Hiccup, hayvanı ormana götürerek serbest bırakır. Sonrasında ise aralarında sadakat ve içtenlik barındıran bir arkadaşlık gelişir.",
-        "cast": [
-          {
-            "id": 449,
-            "name": "Jay Baruchel",
-            "character": "Hiccup (voice)",
-            "profile_path": "/1GYJeQzPcY9Pfmc3FFsBwClkCv7.jpg",
-            "order": 0
-          },
-          {
-            "id": 17276,
-            "name": "Gerard Butler",
-            "character": "Stoick (voice)",
-            "profile_path": "/rTO5opVC3Gs6hPYAxWSP9eEjogi.jpg",
-            "order": 1
-          },
-          {
-            "id": 24264,
-            "name": "Craig Ferguson",
-            "character": "Gobber (voice)",
-            "profile_path": "/mBxNrOxdQeM7bVBveE47Syj9ES6.jpg",
-            "order": 2
-          },
-          {
-            "id": 59174,
-            "name": "America Ferrera",
-            "character": "Astrid (voice)",
-            "profile_path": "/7F84Lh2lKpvkM3EiOvqqvlOmw93.jpg",
-            "order": 3
-          },
-          {
-            "id": 21007,
-            "name": "Jonah Hill",
-            "character": "Snotlout (voice)",
-            "profile_path": "/5aE4GgJADHzN1QsS6zkzElZSEYq.jpg",
-            "order": 4
-          },
-          {
-            "id": 54691,
-            "name": "Christopher Mintz-Plasse",
-            "character": "Fishlegs (voice)",
-            "profile_path": "/dnj2qyxmPt5JF5uurbXQLegppAx.jpg",
-            "order": 5
-          },
-          {
-            "id": 51990,
-            "name": "T.J. Miller",
-            "character": "Tuffnut (voice)",
-            "profile_path": "/rRrVvBxOkyYM5XdLXimShHR1Itn.jpg",
-            "order": 6
-          },
-          {
-            "id": 41091,
-            "name": "Kristen Wiig",
-            "character": "Ruffnut (voice)",
-            "profile_path": "/oddvykQHx71hEZlvKinCzB3Vcfh.jpg",
-            "order": 7
-          },
-          {
-            "id": 130081,
-            "name": "Robin Atkin Downes",
-            "character": "Ack (voice)",
-            "profile_path": "/qb4xPIJGiKyiQ2MhSDQzFWxN0jS.jpg",
-            "order": 8
-          },
-          {
-            "id": 138619,
-            "name": "Philip McGrade",
-            "character": "Starkard (voice)",
-            "profile_path": "/lyKBxfuog706oJCu86PTAc5PFAD.jpg",
-            "order": 9
-          }
-        ]
-      }
-    },
-    {
-      "date": "2026-01-04",
-      "day": 18,
-      "movie": {
-        "id": 11324,
-        "title": "Zindan Adası",
-        "original_title": "Shutter Island",
-        "year": 2010,
-        "poster_path": "/epp8lnSQEWe9cYQACEhBDZTY18L.jpg",
-        "backdrop_path": "/rbZvGN1A1QyZuoKzhCw8QPmf2q0.jpg",
-        "vote_average": 8.201,
-        "vote_count": 25141,
-        "popularity": 25.1718,
-        "original_language": "en",
-        "overview": "Amerikan Marşal'ı Teddy Daniels, (DiCaprio) Shutter Island’daki cani delilerin bulunduğu akıl hastanesine geldiğinde, rutin bir soruşturma şeytani bir nitelik kazanır. Soruşturma ilerledikçe, Teddy adaya dair çok daha şaşırtıcı ve çok daha korkutucu gerçeklerle karşılaşır ve bazı yerlerin insanın peşini hiç bırakmadığını öğrenir.",
-        "cast": [
-          {
-            "id": 6193,
-            "name": "Leonardo DiCaprio",
-            "character": "Teddy Daniels",
-            "profile_path": "/wo2hJpn04vbtmh0B9utCFdsQhxM.jpg",
-            "order": 0
-          },
-          {
-            "id": 103,
-            "name": "Mark Ruffalo",
-            "character": "Chuck Aule",
-            "profile_path": "/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg",
-            "order": 1
-          },
-          {
-            "id": 2282,
-            "name": "Ben Kingsley",
-            "character": "Dr. Cawley",
-            "profile_path": "/vQtBqpF2HDdzbfXHDzR4u37i1Ac.jpg",
-            "order": 2
-          },
-          {
-            "id": 2201,
-            "name": "Max von Sydow",
-            "character": "Dr. Naehring",
-            "profile_path": "/fOzSDFqMx84NR7PSv36P7j0Qf1q.jpg",
-            "order": 3
-          },
-          {
-            "id": 1812,
-            "name": "Michelle Williams",
-            "character": "Dolores",
-            "profile_path": "/jn3BVMVbIptz2gc6Fhxo1qwJVvW.jpg",
-            "order": 4
-          },
-          {
-            "id": 1246,
-            "name": "Emily Mortimer",
-            "character": "Rachel 1",
-            "profile_path": "/oZ4CZW2eW8lL2alD1mwZrFkfACI.jpg",
-            "order": 5
-          },
-          {
-            "id": 1276,
-            "name": "Patricia Clarkson",
-            "character": "Rachel 2",
-            "profile_path": "/rHHM9G83fpBAcFathbSyV4Tot5j.jpg",
-            "order": 6
-          },
-          {
-            "id": 17183,
-            "name": "Jackie Earle Haley",
-            "character": "George Noyce",
-            "profile_path": "/xDPeiyklN8f9Ilowsti4lGVbioj.jpg",
-            "order": 7
-          },
-          {
-            "id": 15854,
-            "name": "Ted Levine",
-            "character": "Warden",
-            "profile_path": "/451KSkowLW6M2Au0wBKZZcidgGm.jpg",
-            "order": 8
-          },
-          {
-            "id": 3911,
-            "name": "John Carroll Lynch",
-            "character": "Deputy Warden McPherson",
-            "profile_path": "/i6xsWIgo3kW5Dc4A6VhQ17G9nuy.jpg",
-            "order": 9
-          }
-        ]
-      }
-    },
-    {
-      "date": "2026-01-05",
-      "day": 19,
-      "movie": {
-        "id": 385687,
-        "title": "Hızlı ve Öfkeli 10",
-        "original_title": "Fast X",
-        "year": 2023,
-        "poster_path": "/Am1mIWClibXSNcDudFRV9F9RdBm.jpg",
-        "backdrop_path": "/4XM8DUTQb3lhLemJC51Jx4a2EuA.jpg",
-        "vote_average": 7.013,
-        "vote_count": 6126,
-        "popularity": 27.9643,
-        "original_language": "en",
-        "overview": "Birçok görevde ve imkansız şartlar altında, Dom Toretto ve ailesi yolundaki her düşmanı kurnazlıkla, cesaretle ve sürüş becerileriyle alt ettiler. Şimdiyse, geçmişin gölgelerinden çıkan kan intikamıyla güçlenmiş ve Dom'un sevdiği her şeyi ve herkesi sonsuza dek yok etmeye kararlı dehşet verici bir tehditle karşı karşıyalar - hayatlarının en ölümcül düşmanıyla.",
-        "cast": [
-          {
-            "id": 12835,
-            "name": "Vin Diesel",
-            "character": "Dominic Toretto",
-            "profile_path": "/nZdVry7lnUkE24PnXakok9okvL4.jpg",
-            "order": 0
-          },
-          {
-            "id": 17647,
-            "name": "Michelle Rodriguez",
-            "character": "Letty",
-            "profile_path": "/wVcbrae4eRqGMFZz8Eh52Dl1biP.jpg",
-            "order": 1
-          },
-          {
-            "id": 8169,
-            "name": "Tyrese Gibson",
-            "character": "Roman",
-            "profile_path": "/jxoy4fbXNKFQtBdK73cLXEz3ufS.jpg",
-            "order": 2
-          },
-          {
-            "id": 8171,
-            "name": "Ludacris",
-            "character": "Tej",
-            "profile_path": "/erkJijujhe48vhJ8iCEtVpNEeVn.jpg",
-            "order": 3
-          },
-          {
-            "id": 56446,
-            "name": "John Cena",
-            "character": "Jakob",
-            "profile_path": "/rgB2eIOt7WyQjdgJCOuESdDlrjg.jpg",
-            "order": 4
-          },
-          {
-            "id": 1251069,
-            "name": "Nathalie Emmanuel",
-            "character": "Ramsey",
-            "profile_path": "/uh8EIhxKJxK7xsJlWcIgBkqyAKq.jpg",
-            "order": 5
-          },
-          {
-            "id": 22123,
-            "name": "Jordana Brewster",
-            "character": "Mia",
-            "profile_path": "/ceL0zxeVbWfCfhoIDZIE1NYqBWb.jpg",
-            "order": 6
-          },
-          {
-            "id": 61697,
-            "name": "Sung Kang",
-            "character": "Han",
-            "profile_path": "/ox4ti0WmpJoN19n3iYJ2T2vHP5f.jpg",
-            "order": 7
-          },
-          {
-            "id": 117642,
-            "name": "Jason Momoa",
-            "character": "Dante",
-            "profile_path": "/3troAR6QbSb6nUFMDu61YCCWLKa.jpg",
-            "order": 8
-          },
-          {
-            "id": 928572,
-            "name": "Scott Eastwood",
-            "character": "Little Nobody",
-            "profile_path": "/tKJEy1bFNxvIj7sivsB7Us2ThmY.jpg",
-            "order": 9
-          }
-        ]
-      }
-    },
-    {
-      "date": "2026-01-06",
-      "day": 20,
-      "movie": {
-        "id": 75656,
-        "title": "Sihirbazlar Çetesi",
-        "original_title": "Now You See Me",
-        "year": 2013,
-        "poster_path": "/oNbhs8OQQ5I9aoYD4eBusazBKSc.jpg",
-        "backdrop_path": "/xEY0MV2jSQBz9iOJfCFvLTiPGMA.jpg",
-        "vote_average": 7.333,
-        "vote_count": 16286,
-        "popularity": 22.7381,
-        "original_language": "en",
-        "overview": "Bir FBI ajanı ve bir Interpol dedektifi, yaptıkları gösteriler sırasında büyük soygunlar gerçekleştiren ve izleyicilerini parayla ödüllendiren bir illüzyonist ekibinin izini sürer.",
-        "cast": [
-          {
-            "id": 44735,
-            "name": "Jesse Eisenberg",
-            "character": "J. Daniel Atlas",
-            "profile_path": "/yYhwWRcxDHTn63gSEF1vnDAD7cD.jpg",
-            "order": 0
-          },
-          {
-            "id": 57755,
-            "name": "Woody Harrelson",
-            "character": "Merritt McKinney",
-            "profile_path": "/igxYDQBbTEdAqaJxaW6ffqswmUU.jpg",
-            "order": 1
-          },
-          {
-            "id": 52848,
-            "name": "Isla Fisher",
-            "character": "Henley Reeves",
-            "profile_path": "/zNKTzzuyMYaCGEZKhwhqV1K8ffo.jpg",
-            "order": 2
-          },
-          {
-            "id": 54697,
-            "name": "Dave Franco",
-            "character": "Jack Wilder",
-            "profile_path": "/2diSplvpzCE5CrIKvTaplCKvwPq.jpg",
-            "order": 3
-          },
-          {
-            "id": 103,
-            "name": "Mark Ruffalo",
-            "character": "Dylan Rhodes",
-            "profile_path": "/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg",
-            "order": 4
-          },
-          {
-            "id": 19119,
-            "name": "Mélanie Laurent",
-            "character": "Alma Dray",
-            "profile_path": "/i99ogEo4gQyanCmHWYYoS6hsUqL.jpg",
-            "order": 5
-          },
-          {
-            "id": 192,
-            "name": "Morgan Freeman",
-            "character": "Thaddeus Bradley",
-            "profile_path": "/jPsLqiYGSofU4s6BjrxnefMfabb.jpg",
-            "order": 6
-          },
-          {
-            "id": 3895,
-            "name": "Michael Caine",
-            "character": "Arthur Tressler",
-            "profile_path": "/bVZRMlpjTAO2pJK6v90buFgVbSW.jpg",
-            "order": 7
-          },
-          {
-            "id": 50217,
-            "name": "Michael Kelly",
-            "character": "Agent Fuller",
-            "profile_path": "/6MI8HhX1GWbcrWG8DiHffzmqaVm.jpg",
-            "order": 8
-          },
-          {
-            "id": 4238,
-            "name": "Common",
-            "character": "Evans",
-            "profile_path": "/eggJAnJxpn8wYraX7ea5svETB54.jpg",
-            "order": 9
-          }
-        ]
-      }
-    },
-    {
-      "date": "2026-01-07",
-      "day": 21,
-      "movie": {
-        "id": 808,
-        "title": "Şrek",
-        "original_title": "Shrek",
-        "year": 2001,
-        "poster_path": "/cVeJ2kQ9qZmpud57iSKsANyAsNp.jpg",
-        "backdrop_path": "/40Wtp7kMG6mZ4d5T1jfrd8qrvD4.jpg",
-        "vote_average": 7.754,
-        "vote_count": 18179,
-        "popularity": 28.9706,
-        "original_language": "en",
-        "overview": "Şrek, oldukça korkutucu bir görünüme sahip, devasa, yeşil bir troldür. Yalnızlığın getirisiyle, hayatının geri kalanını beraber geçirebileceği, en az kendisi kadar çirkin bir yaratık bulmanın hevesindedir. Bir kahin, kehanetini açıklar. Şrek ile güzeller güzeli bir prenses olan Fiona arasında duygusal bir ilişki cereyan edecektir. Ancak Şrek ne kadar çirkinse Fiona bir o kadar güzeldir. Oldukça garip durumlar ve vaziyetler peyda olmak üzeredir.",
-        "cast": [
-          {
-            "id": 12073,
-            "name": "Mike Myers",
-            "character": "Shrek / Blind Mouse (voice)",
-            "profile_path": "/gjfDl52Kk02MPgUYFjs9bOy33OY.jpg",
-            "order": 0
-          },
-          {
-            "id": 776,
-            "name": "Eddie Murphy",
-            "character": "Donkey (voice)",
-            "profile_path": "/qgjMfefsKwSYsyCaIX46uyOXIpy.jpg",
-            "order": 1
-          },
-          {
-            "id": 6941,
-            "name": "Cameron Diaz",
-            "character": "Princess Fiona (voice)",
-            "profile_path": "/d4f4cQ9EiYuvNMjT1IB2h06KoRx.jpg",
-            "order": 2
-          },
-          {
-            "id": 12074,
-            "name": "John Lithgow",
-            "character": "Lord Farquaad (voice)",
-            "profile_path": "/8Y1sjBdnVR483S8PrnAQzlESwhx.jpg",
-            "order": 3
-          },
-          {
-            "id": 1925,
-            "name": "Vincent Cassel",
-            "character": "Monsieur Hood (voice)",
-            "profile_path": "/KxzpJXyzVnqfouInWLypAND0gL.jpg",
-            "order": 4
-          },
-          {
-            "id": 12075,
-            "name": "Peter Dennis",
-            "character": "Ogre Hunter (voice)",
-            "profile_path": "/A2lPsbLYrhXcKL82byfU8FAfaMY.jpg",
-            "order": 5
-          },
-          {
-            "id": 12076,
-            "name": "Clive Pearse",
-            "character": "Ogre Hunter (voice)",
-            "profile_path": "/aRwEqA2YmmymjuJ0lheFKLE6gwU.jpg",
-            "order": 6
-          },
-          {
-            "id": 12077,
-            "name": "Jim Cummings",
-            "character": "Captain of the Guards (voice)",
-            "profile_path": "/c0sQPRCM5Ri3F4gVyxPr4AcPmIq.jpg",
-            "order": 7
-          },
-          {
-            "id": 12078,
-            "name": "Bobby Block",
-            "character": "Baby Bear (voice)",
-            "profile_path": "/l4ktDZmixDQIhXfDsyLvTGANXiy.jpg",
-            "order": 8
-          },
-          {
-            "id": 12098,
-            "name": "Chris Miller",
-            "character": "Geppetto / Magic Mirror (voice)",
-            "profile_path": "/qKdbhP9amIRlydcoivWlTx3szuS.jpg",
             "order": 9
           }
         ]
@@ -1882,273 +1965,6 @@
     {
       "date": "2026-01-08",
       "day": 22,
-      "movie": {
-        "id": 299534,
-        "title": "Avengers: Endgame",
-        "original_title": "Avengers: Endgame",
-        "year": 2019,
-        "poster_path": "/bR8ISy1O9XQxqiy0fQFw2BX72RQ.jpg",
-        "backdrop_path": "/9wXPKruA6bWYk2co5ix6fH59Qr8.jpg",
-        "vote_average": 8.237,
-        "vote_count": 27005,
-        "popularity": 22.6383,
-        "original_language": "en",
-        "overview": "Marvel Sinematik Evreni'nin dördüncü aşamasının zirve noktası olarak kabul edilen bu epik filmde, \"Yenilmezler: Sonsuzluk Savaşı\" (2018) olaylarının hemen ardından başlar ve Thanos'un sonsuz taşları kullanarak evrenin yarısını yok etmesinin sonuçlarına odaklanır. Yenilmezler ekibinin hayatta kalan üyelerinin, kaybettikleri arkadaşlarını geri getirmek ve evreni kurtarmak için bir plan hazırlarlar. Tony Stark (Iron Man), Steve Rogers (Captain America), Natasha Romanoff (Black Widow), Bruce Banner (Hulk), Thor ve diğer karakterler, geçmişe dönerek Sonsuz Taşları toplamak için zaman yolculuğu yaparlar. Bu süreçte, eski anılarla yüzleşirler ve birbirleriyle olan bağlarını güçlendirirler. Zaman yolculuğu teması, filmde önemli bir rol oynar ve izleyicilere önceki Marvel filmlerine göndermeler yapılır. Filmin doruk noktası, Yenilmezler'in Thanos ile büyük bir savaşta karşılaşmasıdır. Tüm kahramanlar, kayıplarını telafi etmek ve dünyayı kurtarmak için bir araya gelirler.",
-        "cast": [
-          {
-            "id": 3223,
-            "name": "Robert Downey Jr.",
-            "character": "Tony Stark / Iron Man",
-            "profile_path": "/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg",
-            "order": 0
-          },
-          {
-            "id": 16828,
-            "name": "Chris Evans",
-            "character": "Steve Rogers / Captain America",
-            "profile_path": "/3bOGNsHlrswhyW79uvIHH1V43JI.jpg",
-            "order": 1
-          },
-          {
-            "id": 103,
-            "name": "Mark Ruffalo",
-            "character": "Bruce Banner / Hulk",
-            "profile_path": "/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg",
-            "order": 2
-          },
-          {
-            "id": 74568,
-            "name": "Chris Hemsworth",
-            "character": "Thor",
-            "profile_path": "/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg",
-            "order": 3
-          },
-          {
-            "id": 1245,
-            "name": "Scarlett Johansson",
-            "character": "Natasha Romanoff / Black Widow",
-            "profile_path": "/mjReG6rR7NPMEIWb1T4YWtV11ty.jpg",
-            "order": 4
-          },
-          {
-            "id": 17604,
-            "name": "Jeremy Renner",
-            "character": "Clint Barton / Hawkeye",
-            "profile_path": "/yB84D1neTYXfWBaV0QOE9RF2VCu.jpg",
-            "order": 5
-          },
-          {
-            "id": 16851,
-            "name": "Josh Brolin",
-            "character": "Thanos",
-            "profile_path": "/sX2etBbIkxRaCsATyw5ZpOVMPTD.jpg",
-            "order": 6
-          },
-          {
-            "id": 1896,
-            "name": "Don Cheadle",
-            "character": "James Rhodes / War Machine",
-            "profile_path": "/2SjWNlcBMHBGC5Io0F2vzElCaiO.jpg",
-            "order": 7
-          },
-          {
-            "id": 22226,
-            "name": "Paul Rudd",
-            "character": "Scott Lang / Ant-Man",
-            "profile_path": "/6jtwNOLKy0LdsRAKwZqgYMAfd5n.jpg",
-            "order": 8
-          },
-          {
-            "id": 71580,
-            "name": "Benedict Cumberbatch",
-            "character": "Doctor Strange",
-            "profile_path": "/wz3MRiMmoz6b5X3oSzMRC9nLxY1.jpg",
-            "order": 9
-          }
-        ]
-      }
-    },
-    {
-      "date": "2026-01-09",
-      "day": 23,
-      "movie": {
-        "id": 141216,
-        "title": "Adı Vasfiye",
-        "original_title": "Adı Vasfiye",
-        "year": 1985,
-        "poster_path": "/wB4aLywUQ0ZnGS0tivB9h338xrI.jpg",
-        "backdrop_path": "/f0WVpizXWAkkHnn28DFqtD975QZ.jpg",
-        "vote_average": 7.0,
-        "vote_count": 20,
-        "popularity": 3.8554,
-        "original_language": "tr",
-        "overview": "Ege kasabalarında el değiştirerek, erkekler arasında sürüklenerek geçen Vasfiye isimli taşralı bir kadının hikayesi farklı anlatıcılar tarafından anlatılıyor. Anlatıcı her değiştiğinde hikaye değişir. Ancak hangi hikayenin gerçek olduğu bilinmemektedir.",
-        "cast": [
-          {
-            "id": 90283,
-            "name": "Müjde Ar",
-            "character": "Vasfiye",
-            "profile_path": "/vym88KW8Ebdc2efILMXSUD93ryE.jpg",
-            "order": 0
-          },
-          {
-            "id": 1171792,
-            "name": "Yılmaz Zafer",
-            "character": "Fuat",
-            "profile_path": "/eZuUjh8VZcgTQRLvnUGi5jQmAwq.jpg",
-            "order": 1
-          },
-          {
-            "id": 1058958,
-            "name": "Aytaç Arman",
-            "character": "Emin",
-            "profile_path": "/8GNptBDWGkJoLjWAMkdJ1z1IUAy.jpg",
-            "order": 2
-          },
-          {
-            "id": 1171793,
-            "name": "Macit Koper",
-            "character": "Rüstem",
-            "profile_path": "/1H8dNmgRbvUQ4E0epsiQFRQC67x.jpg",
-            "order": 3
-          },
-          {
-            "id": 3536809,
-            "name": "Erol Durak",
-            "character": "Writer",
-            "profile_path": "/ePfAwqillkPVI73k00iLcZPdXUL.jpg",
-            "order": 4
-          },
-          {
-            "id": 1965053,
-            "name": "Levend Yılmaz",
-            "character": "Hamza",
-            "profile_path": "/wMCOgswB7ZYTy6IST8KixrSC1dn.jpg",
-            "order": 5
-          },
-          {
-            "id": 550373,
-            "name": "Şahika Tekand",
-            "character": "",
-            "profile_path": "/4h7crkqNEldSSBRzGPQiagjda80.jpg",
-            "order": 6
-          },
-          {
-            "id": 3454703,
-            "name": "Ali Rıza Özbilgiç",
-            "character": "Tahsin",
-            "profile_path": "/swwtP3uYCysfAdX1C7MuyIpZsDm.jpg",
-            "order": 7
-          },
-          {
-            "id": 3091984,
-            "name": "Server Mutlu",
-            "character": "",
-            "profile_path": "/4OcGOsxhAeBLSyosbvKxKmIN6b8.jpg",
-            "order": 8
-          },
-          {
-            "id": 2470819,
-            "name": "Ayşen Tekin",
-            "character": "",
-            "profile_path": null,
-            "order": 9
-          }
-        ]
-      }
-    },
-    {
-      "date": "2026-01-10",
-      "day": 24,
-      "movie": {
-        "id": 333339,
-        "title": "Başlat: Ready Player One",
-        "original_title": "Ready Player One",
-        "year": 2018,
-        "poster_path": "/mzJTcyCXXVTaF6lgkfXMXQUaWZh.jpg",
-        "backdrop_path": "/5a7lMDn3nAj2ByO0X1fg6BhUphR.jpg",
-        "vote_average": 7.585,
-        "vote_count": 16419,
-        "popularity": 27.4099,
-        "original_language": "en",
-        "overview": "Ailesini küçük yaşta kaybeden Wade Watts (Tye Sheridan), gerçek dünyanın sıkıntılarından kaçmak için zamanını The Oasis adlı bir oyun evreninde geçirir. Oyunun milyoner kurucusu oyun evreninin içine bir anahtar saklamıştır ve öldüğünde tüm servetini ve oyunun kontrolünü bu anahtarı bulana vaad etmektedir. Wade de bu macera dolu hazine avının peşine düşmüştür. Bir süre sonra her şey bir oyun olmaktan çıkıp acımasız bir rekabete dönüşür. Zira şirket hissedarları ve paragöz oyuncular hazineye herkesten önce ulaşabilmek ve diğer yarışmacıları saf dışı bırakabilmek için her şeyi yapmaya hazırdır.",
-        "cast": [
-          {
-            "id": 1034681,
-            "name": "Tye Sheridan",
-            "character": "Parzival / Wade",
-            "profile_path": "/d5ZS2fjqC98cIGkhEGX0fRYhku4.jpg",
-            "order": 0
-          },
-          {
-            "id": 1173984,
-            "name": "Olivia Cooke",
-            "character": "Art3mis / Samantha",
-            "profile_path": "/7LYm4jGDq8IxAe4D6TTPkWwU0Ft.jpg",
-            "order": 1
-          },
-          {
-            "id": 77335,
-            "name": "Ben Mendelsohn",
-            "character": "Sorrento",
-            "profile_path": "/pA9mu9D2IolVA0v2Yo0tJm6uUyI.jpg",
-            "order": 2
-          },
-          {
-            "id": 1059572,
-            "name": "Lena Waithe",
-            "character": "Aech / Helen",
-            "profile_path": "/yidK25mjpxTTYCICmZnxgks6utx.jpg",
-            "order": 3
-          },
-          {
-            "id": 51990,
-            "name": "T.J. Miller",
-            "character": "I-R0k (voice)",
-            "profile_path": "/rRrVvBxOkyYM5XdLXimShHR1Itn.jpg",
-            "order": 4
-          },
-          {
-            "id": 11108,
-            "name": "Simon Pegg",
-            "character": "Curator / Ogden Morrow",
-            "profile_path": "/jw8bEEoTOithyNf0qxu4Zt1yaKp.jpg",
-            "order": 5
-          },
-          {
-            "id": 40900,
-            "name": "Mark Rylance",
-            "character": "Anorak / Halliday",
-            "profile_path": "/bztEZRyXrvW3Pg1fexNASXlZrq7.jpg",
-            "order": 6
-          },
-          {
-            "id": 1721235,
-            "name": "Philip Zhao",
-            "character": "Sho",
-            "profile_path": "/e7ZKuxGfyeKjvFMXXeGBMjUvWkS.jpg",
-            "order": 7
-          },
-          {
-            "id": 1561997,
-            "name": "森崎ウィン",
-            "character": "Daito",
-            "profile_path": "/im1ZzQdfjd5NL9wjFwZj4zh6rOC.jpg",
-            "order": 8
-          },
-          {
-            "id": 1408809,
-            "name": "Hannah John-Kamen",
-            "character": "F'Nale Zandor",
-            "profile_path": "/V8P9EVelewGVXbuyEylqrzF6iG.jpg",
-            "order": 9
-          }
-        ]
-      }
-    },
-    {
-      "date": "2026-01-11",
-      "day": 25,
       "movie": {
         "id": 49051,
         "title": "Hobbit: Beklenmedik Yolculuk",
@@ -2161,6 +1977,11 @@
         "popularity": 28.2673,
         "original_language": "en",
         "overview": "Macera, Erebor’u Gandalf ve efsanevi savaşçı Thorin Oakenshield’in önderliğindeki 13 Cüce’nin yardımıyla geri almak için destansı bir arayışa sürüklenen Bilbo Baggins’in peşini bırakmaz. Yolculukları onları alıştıkları yerlerden uzaklara götürür. Cinler, Orklar ve ölümcül Wargs’larla dolu ve Necromancer olarak tanınan gizemli ve kötü birisinin bulunduğu tehlikeli yerlerden geçerler. Hedefleri Doğu’ya ve Yalnız Dağ’ın çorak yerlerine gitmek olduğu halde, ilk önce Bilbo’nun hayatını sonsuza dek değiştirecek bir yaratık olan Gollum’la karşılaştığı Goblin tünellerinden kaçmaları gerekmektedir. Burada, bir yeraltı gölünün kıyısında Gollum’la yalnız kalan mütevazı Bilbo sadece kendisini bile şaşırtan yaratıcılık ve cesaretin derinliklerini keşfetmekle kalmaz, aynı zamanda beklenmedik ve yararlı niteliklere sahip olan Gollum’un “değerli” yüzüğüne de sahip olur. Bu, Bilbo’nun anlamaya bile başlayamayacağı bir şekilde bütün Orta Dünya’nın kaderine bağlı olan basit bir altın yüzüktür.",
+        "genre_ids": [
+          12,
+          14,
+          28
+        ],
         "cast": [
           {
             "id": 7060,
@@ -2236,350 +2057,289 @@
       }
     },
     {
+      "date": "2026-01-09",
+      "day": 23,
+      "movie": {
+        "id": 817889,
+        "title": "Aşkın Kıyameti",
+        "original_title": "Aşkın Kıyameti",
+        "year": 2022,
+        "poster_path": "/sdv1uv8UgvgeFKW6n7SxbopWtA4.jpg",
+        "backdrop_path": "/zgmbWPzRcq5vwqBmONzvkdNDtnD.jpg",
+        "vote_average": 6.478,
+        "vote_count": 23,
+        "popularity": 7.9814,
+        "original_language": "tr",
+        "overview": "Genç bir adam olan Fırat, reklam şirketinin batmasıyla borç içinde kalır. Bu sırada bir yoga etkinliğine katılan Fırat, burada şarkıcı bir kadına gönlünü kaptırır. Birlikte, kim olduklarını keşfedecekleri bir yolculuğa çıkan çift, kendilerini bilinmezliklerin içerisinde bulur.",
+        "genre_ids": [
+          10749,
+          18
+        ],
+        "cast": [
+          {
+            "id": 1935646,
+            "name": "Pınar Deniz",
+            "character": "Lydia / Banu",
+            "profile_path": "/zZj5nq9dP3otwFBmEgvSHiBaNqO.jpg",
+            "order": 0
+          },
+          {
+            "id": 1884900,
+            "name": "Boran Kuzum",
+            "character": "Euphrates",
+            "profile_path": "/fglvct2Iwq7evJJvOHHEidJcdXV.jpg",
+            "order": 1
+          },
+          {
+            "id": 1533990,
+            "name": "Yiğit Kirazcı",
+            "character": "Yusuf",
+            "profile_path": "/nkbWgOrzPNeGh8CnryRr8wZfwJ0.jpg",
+            "order": 2
+          },
+          {
+            "id": 1930209,
+            "name": "Seda Türkmen",
+            "character": "Melda",
+            "profile_path": "/eKaEva40NaMOcmbAFAZMvaqntPS.jpg",
+            "order": 3
+          },
+          {
+            "id": 145427,
+            "name": "Musa Uzunlar",
+            "character": "Behcet",
+            "profile_path": "/xJf8trMjLYTCDp5hFyGnrM3rbSa.jpg",
+            "order": 4
+          },
+          {
+            "id": 145403,
+            "name": "Zeynep Tokuş",
+            "character": "Yoga teacher",
+            "profile_path": "/mn1tRCRxD9Azli0PdlA3paFyKJk.jpg",
+            "order": 5
+          },
+          {
+            "id": 2470909,
+            "name": "Kubilay Karslıoğlu",
+            "character": "Sami",
+            "profile_path": "/bkSMNhkIYvtSTyfmHZAjJ9U6a16.jpg",
+            "order": 6
+          },
+          {
+            "id": 3146636,
+            "name": "Gürhan Altundaşar",
+            "character": "Serhat",
+            "profile_path": "/3evszNBvhPxAeQzHa88vLy12uOK.jpg",
+            "order": 7
+          },
+          {
+            "id": 1728812,
+            "name": "Orçun İynemli",
+            "character": "İrfan",
+            "profile_path": "/7ZL9Y7dmj9kUSkS0mW2DZr6cHiY.jpg",
+            "order": 8
+          },
+          {
+            "id": 2237920,
+            "name": "Burcu Almeman",
+            "character": "İklim",
+            "profile_path": "/t9UxRvtVrWAAUDOsfr3MFOxffYL.jpg",
+            "order": 9
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-01-10",
+      "day": 24,
+      "movie": {
+        "id": 786892,
+        "title": "Furiosa: Bir Mad Max Destanı",
+        "original_title": "Furiosa: A Mad Max Saga",
+        "year": 2024,
+        "poster_path": "/n1AkCpSi2KylD97xf1PUur3YJRk.jpg",
+        "backdrop_path": "/wNAhuOZ3Zf84jCIlrcI6JhgmY5q.jpg",
+        "vote_average": 7.46,
+        "vote_count": 4541,
+        "popularity": 32.6885,
+        "original_language": "en",
+        "overview": "Genç Furiosa, dünya çökerken Nice Annelerin Yeşil Diyarı’ndan kaçırılır ve Savaş Lordu Dementus liderliğindeki büyük bir Motorcu Sürüsü'nün eline düşer. Çorak Topraklar'da ilerlerken Ölümsüz Joe'nun başkanlık ettiği Kale'ye gelirler. İki diktatör egemenlik için savaşır. Bu sırada Furiosa, eve dönüş yolunu bulmaya çalışırken birçok zorluğu aşmak zorunda kalır.",
+        "genre_ids": [
+          28,
+          878,
+          12
+        ],
+        "cast": [
+          {
+            "id": 1397778,
+            "name": "Anya Taylor-Joy",
+            "character": "Furiosa",
+            "profile_path": "/jxAbDJWvz4p1hoFpJYG5vY2dQmq.jpg",
+            "order": 0
+          },
+          {
+            "id": 74568,
+            "name": "Chris Hemsworth",
+            "character": "Dementus",
+            "profile_path": "/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg",
+            "order": 1
+          },
+          {
+            "id": 52891,
+            "name": "Tom Burke",
+            "character": "Praetorian Jack",
+            "profile_path": "/4IHlAZ9bJ82VAd6HUOWFgo81SDq.jpg",
+            "order": 2
+          },
+          {
+            "id": 2431565,
+            "name": "Alyla Browne",
+            "character": "Young Furiosa",
+            "profile_path": "/hHT2lFKNAT913IDj714jJ6BPl78.jpg",
+            "order": 3
+          },
+          {
+            "id": 148899,
+            "name": "George Shevtsov",
+            "character": "The History Man",
+            "profile_path": "/cuOoCZShfvNrOvrWqH2dPyBfrZS.jpg",
+            "order": 4
+          },
+          {
+            "id": 75122,
+            "name": "Lachy Hulme",
+            "character": "Immortan Joe / Rizzdale Pell",
+            "profile_path": "/z6ZEqpIkh1LYQXgSNMcc8akW3ZR.jpg",
+            "order": 5
+          },
+          {
+            "id": 102603,
+            "name": "John Howard",
+            "character": "The People Eater",
+            "profile_path": "/2XwZDmoeoSiLKDjmmXxQK4m5kHM.jpg",
+            "order": 6
+          },
+          {
+            "id": 59117,
+            "name": "Angus Sampson",
+            "character": "Organic Mechanic",
+            "profile_path": "/aFmRmydMoTDwR3l1Re1T5XtQE3s.jpg",
+            "order": 7
+          },
+          {
+            "id": 4441956,
+            "name": "Charlee Fraser",
+            "character": "Mary Jabassa",
+            "profile_path": "/lFxpl1F961ORKoNX6F62iEa419m.jpg",
+            "order": 8
+          },
+          {
+            "id": 73269,
+            "name": "Elsa Pataky",
+            "character": "Vuvalini General / Mr Norton",
+            "profile_path": "/fsA7hxz70SVvCm8dZuAGvBHtVDF.jpg",
+            "order": 9
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-01-11",
+      "day": 25,
+      "movie": {
+        "id": 76600,
+        "title": "Avatar: Suyun Yolu",
+        "original_title": "Avatar: The Way of Water",
+        "year": 2022,
+        "poster_path": "/iQwKMufugDioM94P6Qt7S6lKYY.jpg",
+        "backdrop_path": "/cd8YDn7M0lfaHhZdU6MvCDxPalP.jpg",
+        "vote_average": 7.608,
+        "vote_count": 13167,
+        "popularity": 62.6713,
+        "original_language": "en",
+        "overview": "James Cameron'ın Pandora dünyasına geri döndüğü duygu yüklü aksiyon ve macera filmi \"Avatar: Suyun Yolu\" yeni zirvelere ulaşıyor ve saklı kalmış derinlikleri keşfediyor. İlk filmdeki olayların yaklaşık on yıl sonrasında geçen \"Avatar: Suyun Yolu\"nda Sully ailesinin hikayesi, peşlerini bırakmayan sorunlar, birbirlerini korumak için yaptıkları, hayatta kalmak için verdikleri mücadeleler ve katlandıkları trajediler anlatılıyor. Tüm hikaye, izleyicilerin yeni Na'vi kültürleri ve egzotik deniz canlılarıyla tanıştıkları Pandora'nın nefes kesici atmosferinde geçiyor.",
+        "genre_ids": [
+          28,
+          12,
+          878
+        ],
+        "cast": [
+          {
+            "id": 65731,
+            "name": "Sam Worthington",
+            "character": "Jake Sully",
+            "profile_path": "/mflBcox36s9ZPbsZPVOuhf6axaJ.jpg",
+            "order": 0
+          },
+          {
+            "id": 8691,
+            "name": "Zoe Saldaña",
+            "character": "Neytiri",
+            "profile_path": "/fCJuIn1PMUQtYdRRSnnoZeMJVWs.jpg",
+            "order": 1
+          },
+          {
+            "id": 10205,
+            "name": "Sigourney Weaver",
+            "character": "Kiri",
+            "profile_path": "/wTSnfktNBLd6kwQxgvkqYw6vEon.jpg",
+            "order": 2
+          },
+          {
+            "id": 32747,
+            "name": "Stephen Lang",
+            "character": "Colonel Miles Quaritch",
+            "profile_path": "/hdRiM73H2mpJws559TWHCAia7qJ.jpg",
+            "order": 3
+          },
+          {
+            "id": 204,
+            "name": "Kate Winslet",
+            "character": "Ronal",
+            "profile_path": "/e3tdop3WhseRnn8KwMVLAV25Ybv.jpg",
+            "order": 4
+          },
+          {
+            "id": 7248,
+            "name": "Cliff Curtis",
+            "character": "Tonowari",
+            "profile_path": "/3D6qz8vL6DWHAO3HeXeaSuwxq3s.jpg",
+            "order": 5
+          },
+          {
+            "id": 59231,
+            "name": "Joel David Moore",
+            "character": "Norm Spellman",
+            "profile_path": "/mMVhVglj6BZFuvqAXnEibce08k7.jpg",
+            "order": 6
+          },
+          {
+            "id": 30485,
+            "name": "CCH Pounder",
+            "character": "Mo'at",
+            "profile_path": "/mr6BLDN75T8DJl9dNK3hN4YwqJa.jpg",
+            "order": 7
+          },
+          {
+            "id": 36190,
+            "name": "Edie Falco",
+            "character": "General Frances Ardmore",
+            "profile_path": "/jS2Hnr5OmntpX0J7EpH70zAG0mz.jpg",
+            "order": 8
+          },
+          {
+            "id": 55936,
+            "name": "Jemaine Clement",
+            "character": "Dr. Ian Garvin",
+            "profile_path": "/6eiNbeurpHb2fxIeT0RrJ0wRI25.jpg",
+            "order": 9
+          }
+        ]
+      }
+    },
+    {
       "date": "2026-01-12",
       "day": 26,
-      "movie": {
-        "id": 76341,
-        "title": "Mad Max: Fury Road",
-        "original_title": "Mad Max: Fury Road",
-        "year": 2015,
-        "poster_path": "/mnKUoJFdNbQVs4f7nEGW6p7CgsA.jpg",
-        "backdrop_path": "/uT895WNwm0aIJRtGizcQhrejWUo.jpg",
-        "vote_average": 7.628,
-        "vote_count": 23573,
-        "popularity": 26.5682,
-        "original_language": "en",
-        "overview": "Çalkantılı geçmişi Mad Max’i hayatta kalmak için en iyi yolun yalnız olmak gerektiğine inandırmıştır. Yine de, Furiosa adlı liderlerinin peşinde çorak topraklardaki savaş ortamından sürekli kaçarak hayatta kalmaya çalışan bir grubun arasına sürüklenir. Yaşadıkları ortamı zalimce yöneten Immortan Joe’dan kaçmaktadırlar. Joe ise kendisinden çalınan ve yeri doldurulamayacak derecede önemli kaybının peşindedir.",
-        "cast": [
-          {
-            "id": 2524,
-            "name": "Tom Hardy",
-            "character": "Max Rockatansky",
-            "profile_path": "/d81K0RH8UX7tZj49tZaQhZ9ewH.jpg",
-            "order": 0
-          },
-          {
-            "id": 6885,
-            "name": "Charlize Theron",
-            "character": "Imperator Furiosa",
-            "profile_path": "/ie1KbeYFG5E0GVr1QP7tDNuXvga.jpg",
-            "order": 1
-          },
-          {
-            "id": 3292,
-            "name": "Nicholas Hoult",
-            "character": "Nux",
-            "profile_path": "/laeAYQVBV9U3DkJ1B4Cn1XhpT8P.jpg",
-            "order": 2
-          },
-          {
-            "id": 26060,
-            "name": "Hugh Keays-Byrne",
-            "character": "Immortan Joe",
-            "profile_path": "/7XSPjKNwmyEPMnmoVSQ42ykMz6M.jpg",
-            "order": 3
-          },
-          {
-            "id": 1056053,
-            "name": "Josh Helman",
-            "character": "Slit",
-            "profile_path": "/1thwLjrgvFv7ifjyVtTKQh23OCh.jpg",
-            "order": 4
-          },
-          {
-            "id": 24898,
-            "name": "Nathan Jones",
-            "character": "Rictus Erectus",
-            "profile_path": "/hlu4qYy9JGPxGn0wT8Ea6mTWR8R.jpg",
-            "order": 5
-          },
-          {
-            "id": 37153,
-            "name": "Zoë Kravitz",
-            "character": "Toast the Knowing",
-            "profile_path": "/zx74kkI931iiQATJybvRKWYnOe9.jpg",
-            "order": 6
-          },
-          {
-            "id": 236048,
-            "name": "Rosie Huntington-Whiteley",
-            "character": "The Splendid Angharad",
-            "profile_path": "/oq5iX2VoLGF41P5DmNDNJcczESR.jpg",
-            "order": 7
-          },
-          {
-            "id": 98522,
-            "name": "Riley Keough",
-            "character": "Capable",
-            "profile_path": "/eg1PAXJMgmwTO4UeW7p7oBPKMbU.jpg",
-            "order": 8
-          },
-          {
-            "id": 1036288,
-            "name": "Abbey Lee",
-            "character": "The Dag",
-            "profile_path": "/y4ZIuFjtglTjSLxhGTkzsCPFMQZ.jpg",
-            "order": 9
-          }
-        ]
-      }
-    },
-    {
-      "date": "2026-01-13",
-      "day": 27,
-      "movie": {
-        "id": 106,
-        "title": "Av",
-        "original_title": "Predator",
-        "year": 1987,
-        "poster_path": "/dbBVAWpMFZtckP4pmEVU22ifpNi.jpg",
-        "backdrop_path": "/70cezTFUmtijJLqnZw02gQlKVKJ.jpg",
-        "vote_average": 7.541,
-        "vote_count": 8700,
-        "popularity": 24.8105,
-        "original_language": "en",
-        "overview": "Dutch ve komandoları CIA tarafından Güney Amerika ormanlarında esir tutulan havacıyı bulup getirmekle görevlendirilirler. Görev başarılı olur ama dönüş yolunda gizemli bir yaratığın onları izlediğini fark ederler. Ölüm artık onlara çok yakındır.",
-        "cast": [
-          {
-            "id": 1100,
-            "name": "Arnold Schwarzenegger",
-            "character": "Major Alan \"Dutch\" Schaefer",
-            "profile_path": "/2marNcjIfCUE5Z2HyrcEiJHPbsA.jpg",
-            "order": 0
-          },
-          {
-            "id": 1101,
-            "name": "Carl Weathers",
-            "character": "Al Dillon",
-            "profile_path": "/9Tot1ywxTQA3vFCcAjyK6h9Dao3.jpg",
-            "order": 1
-          },
-          {
-            "id": 1109,
-            "name": "Kevin Peter Hall",
-            "character": "The Predator / Helicopter Pilot",
-            "profile_path": "/wdW2sUAQPonZcQo8oDY1j60h7DP.jpg",
-            "order": 2
-          },
-          {
-            "id": 1102,
-            "name": "Elpidia Carrillo",
-            "character": "Anna Gonsalves",
-            "profile_path": "/u8ZEUAUdVjUE8DTddv81rE1Qer7.jpg",
-            "order": 3
-          },
-          {
-            "id": 1103,
-            "name": "Bill Duke",
-            "character": "Mac Eliot",
-            "profile_path": "/hZrYPwer5PeK77OEILkNWHVb3ss.jpg",
-            "order": 4
-          },
-          {
-            "id": 1104,
-            "name": "Jesse Ventura",
-            "character": "Blain Cooper",
-            "profile_path": "/j1OaAOYJbelxGrFMzlwz6wfGaXA.jpg",
-            "order": 5
-          },
-          {
-            "id": 1105,
-            "name": "Sonny Landham",
-            "character": "Billy Sole",
-            "profile_path": "/873kBnyYgm8xYyeb26EXdCGDgnv.jpg",
-            "order": 6
-          },
-          {
-            "id": 1106,
-            "name": "Richard Chaves",
-            "character": "Jorge \"Poncho\" Ramirez",
-            "profile_path": "/leJa0My0VtHINCpmose619KXupp.jpg",
-            "order": 7
-          },
-          {
-            "id": 1107,
-            "name": "R.G. Armstrong",
-            "character": "Major General Homer Phillips",
-            "profile_path": "/wDsIQBOtNZotwMEi2QJLSNrLEXc.jpg",
-            "order": 8
-          },
-          {
-            "id": 1108,
-            "name": "Shane Black",
-            "character": "Rick Hawkins",
-            "profile_path": "/ovkKj7ihEdExdQuFtoKZKsZwciW.jpg",
-            "order": 9
-          }
-        ]
-      }
-    },
-    {
-      "date": "2026-01-14",
-      "day": 28,
-      "movie": {
-        "id": 671,
-        "title": "Harry Potter ve Felsefe Taşı",
-        "original_title": "Harry Potter and the Philosopher's Stone",
-        "year": 2001,
-        "poster_path": "/3mDokw9KewPQMpY1pB912Y9SVYB.jpg",
-        "backdrop_path": "/bfh9Z3Ghz4FOJAfLOAhmc3ccnHU.jpg",
-        "vote_average": 7.9,
-        "vote_count": 28898,
-        "popularity": 38.9805,
-        "original_language": "en",
-        "overview": "Harry Potter, muggle (büyücü yada cadı olmayan insanlar) amcası ve halasıyla sıradan ve zorluklarla dolu bir hayatı yaşarken, yılanlarla konuşabildiğinin, kızgınlık öfkesi sırasında eşyaları hareket ettirebildiğinin farkına varacaktır. Hogwarts Büyücülük ve Cadılık Okulu'ndan kabul edildiğini belirten mektup ise hayatının sıradanlığını değiştirecektir. Artık o bir büyücü adayıdır.",
-        "cast": [
-          {
-            "id": 10980,
-            "name": "Daniel Radcliffe",
-            "character": "Harry Potter",
-            "profile_path": "/e64VeB4Mybwm2tOhyLY1h7XQQ8N.jpg",
-            "order": 0
-          },
-          {
-            "id": 10989,
-            "name": "Rupert Grint",
-            "character": "Ron Weasley",
-            "profile_path": "/q2KZZ0ltTEl7Sf8volNFV1JDEP4.jpg",
-            "order": 1
-          },
-          {
-            "id": 10990,
-            "name": "Emma Watson",
-            "character": "Hermione Granger",
-            "profile_path": "/A14lLCZYDhfYdBa0fFRpwMDiwRN.jpg",
-            "order": 2
-          },
-          {
-            "id": 194,
-            "name": "Richard Harris",
-            "character": "Albus Dumbledore",
-            "profile_path": "/lCvcVMuxrg1f5A8OMqY9AqkkcZR.jpg",
-            "order": 3
-          },
-          {
-            "id": 10993,
-            "name": "Tom Felton",
-            "character": "Draco Malfoy",
-            "profile_path": "/etmtUBzJ1i1XJTLS6MkotJFE1se.jpg",
-            "order": 4
-          },
-          {
-            "id": 4566,
-            "name": "Alan Rickman",
-            "character": "Severus Snape",
-            "profile_path": "/1EearzPgXkmYFKvECfWNrctIFT9.jpg",
-            "order": 5
-          },
-          {
-            "id": 1923,
-            "name": "Robbie Coltrane",
-            "character": "Rubeus Hagrid",
-            "profile_path": "/jOHs3xvlwRiiG2CLtso5zzmGCXg.jpg",
-            "order": 6
-          },
-          {
-            "id": 10978,
-            "name": "Maggie Smith",
-            "character": "Minerva McGonagall",
-            "profile_path": "/i7vcF4KzJTgH6kO0TqURuEEfoU3.jpg",
-            "order": 7
-          },
-          {
-            "id": 10983,
-            "name": "Richard Griffiths",
-            "character": "Vernon Dursley",
-            "profile_path": "/4H4uQfMzvgs11RCLaoSMQsyElw8.jpg",
-            "order": 8
-          },
-          {
-            "id": 10985,
-            "name": "Ian Hart",
-            "character": "Quirinus Quirrell",
-            "profile_path": "/xMC8aPDwhEZcjRHEFcgytSr3BzM.jpg",
-            "order": 9
-          }
-        ]
-      }
-    },
-    {
-      "date": "2026-01-15",
-      "day": 29,
-      "movie": {
-        "id": 263547,
-        "title": "Hakkâri'de Bir Mevsim",
-        "original_title": "Hakkâri'de Bir Mevsim",
-        "year": 1983,
-        "poster_path": "/AqkC1e9Jl7YGKkN1Lxwb4cVPiZ4.jpg",
-        "backdrop_path": "/8VGu9r2HCT9f9oHM54v2PvTEQN3.jpg",
-        "vote_average": 6.7,
-        "vote_count": 12,
-        "popularity": 4.1345,
-        "original_language": "tr",
-        "overview": "Sürgün olarak Hakkari'ye giden bir öğretmenin, orada güçlükler içinde geçirdiği bir kış mevsimi anlatılmaktadır. Film Ferit Edgü'nün \"O\" adlı romanından uyarlanmıştır.",
-        "cast": [
-          {
-            "id": 72169,
-            "name": "Genco Erkal",
-            "character": "The Teacher",
-            "profile_path": "/4tQ3wnXkSG38gsT8CkM713F8trM.jpg",
-            "order": 0
-          },
-          {
-            "id": 1356011,
-            "name": "Erkan Yücel",
-            "character": "Halit",
-            "profile_path": "/5AUq4SiuY8KQ7arkANRzIfM0HxP.jpg",
-            "order": 1
-          },
-          {
-            "id": 142769,
-            "name": "Şerif Sezer",
-            "character": "Zazi",
-            "profile_path": "/iNCTcx874hP31X1LmA74DuFDzY5.jpg",
-            "order": 2
-          },
-          {
-            "id": 1246609,
-            "name": "Rana Cabbar",
-            "character": "Village head",
-            "profile_path": "/2VXVfuPexjlB9MfZrh3D50eg9gQ.jpg",
-            "order": 3
-          },
-          {
-            "id": 1119553,
-            "name": "Erol Demiröz",
-            "character": "Ramazan",
-            "profile_path": "/wvGZiGQ5LapH7y8uEsFjXQypuUg.jpg",
-            "order": 4
-          },
-          {
-            "id": 1888603,
-            "name": "Berrin Koper",
-            "character": "Zazi's daughter",
-            "profile_path": "/f9rD48MCY2y6lKweQahtSmo0p6K.jpg",
-            "order": 5
-          },
-          {
-            "id": 1171793,
-            "name": "Macit Koper",
-            "character": "Schools inspector",
-            "profile_path": "/1H8dNmgRbvUQ4E0epsiQFRQC67x.jpg",
-            "order": 6
-          },
-          {
-            "id": 1888605,
-            "name": "Zeynep Irgat",
-            "character": "Halit's wife",
-            "profile_path": "/fUOuQ44Od8xs0jtB4JdYuz3SpKb.jpg",
-            "order": 7
-          }
-        ]
-      }
-    },
-    {
-      "date": "2026-01-16",
-      "day": 30,
       "movie": {
         "id": 1241982,
         "title": "Moana 2",
@@ -2592,6 +2352,13 @@
         "popularity": 39.0189,
         "original_language": "en",
         "overview": "Moana ve Maui'yi üç yıl sonra alışılmadık denizcilerden oluşan bir ekiple birlikte geniş kapsamlı yeni bir yolculuk için yeniden bir araya getiriyor. Yol gösterici atalarından beklenmedik bir çağrı alan Moana, daha önce karşılaşmadığı bir macera için Okyanusya'nın uzak denizlerine, tehlikeli ve uzun süredir bilinmeyen sularına yolculuk etmek zorunda.",
+        "genre_ids": [
+          10751,
+          35,
+          12,
+          16,
+          14
+        ],
         "cast": [
           {
             "id": 1564846,
@@ -2661,6 +2428,379 @@
             "name": "Rachel House",
             "character": "Gramma Tala (voice)",
             "profile_path": "/2LCQF7Bn0I91o17GGkox0ZhhbE7.jpg",
+            "order": 9
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-01-13",
+      "day": 27,
+      "movie": {
+        "id": 474350,
+        "title": "O: Bölüm 2",
+        "original_title": "It Chapter Two",
+        "year": 2019,
+        "poster_path": "/kMsi0Op9JJASx7ph0NvQvkM6lrE.jpg",
+        "backdrop_path": "/8moTOzunF7p40oR5XhlDvJckOSW.jpg",
+        "vote_average": 6.838,
+        "vote_count": 9308,
+        "popularity": 53.4608,
+        "original_language": "en",
+        "overview": "Kaybedenler Kulübü tarafından yenilgiye uğratılmasından yirmi yedi yıl sonra, Pennywise, Derry kasabasını yeniden dehşete düşürmek üzere geri döner. Artık birer yetişkin olan Kaybedenler Kulübü üyeleri Derry'i terk etmiş ve kendi yollarını çoktan çizmişlerdir. Derry'de çocukların tekrardan ortadan kaybolmaya başlamasıyla, kulübün kasabada kalmış tek üyesi olan Mike diğerlerini kasabaya geri çağırır. Geçmişin deneyimlerinden dolayı yıpranmış olan kulüp üyelerinin Pennywise’ı bu kez sonsuza dek ortadan kaldırabilmek için kendi en derin korkularıyla yüzleşmeleri gerekecektir.",
+        "genre_ids": [
+          27,
+          53
+        ],
+        "cast": [
+          {
+            "id": 83002,
+            "name": "Jessica Chastain",
+            "character": "Beverly Marsh",
+            "profile_path": "/lodMzLKSdrPcBry6TdoDsMN3Vge.jpg",
+            "order": 0
+          },
+          {
+            "id": 5530,
+            "name": "James McAvoy",
+            "character": "Bill Denbrough",
+            "profile_path": "/u4REKbm3zhFI2J5tVyqRovGRYUJ.jpg",
+            "order": 1
+          },
+          {
+            "id": 19278,
+            "name": "Bill Hader",
+            "character": "Richie Tozier",
+            "profile_path": "/qyT50vQ9PQIEctE1IxDTEsBKstU.jpg",
+            "order": 2
+          },
+          {
+            "id": 1237603,
+            "name": "Isaiah Mustafa",
+            "character": "Mike Hanlon",
+            "profile_path": "/tnwz9bf0bplixzyaqyu4iAI9lLj.jpg",
+            "order": 3
+          },
+          {
+            "id": 223901,
+            "name": "Jay Ryan",
+            "character": "Ben Hanscom",
+            "profile_path": "/oN7Fix6XhwLGrWFN0lmGbsAe5Rp.jpg",
+            "order": 4
+          },
+          {
+            "id": 5296,
+            "name": "James Ransone",
+            "character": "Eddie Kaspbrak",
+            "profile_path": "/n1O0RnxKPfxvVJUh13Gr0pPGlvd.jpg",
+            "order": 5
+          },
+          {
+            "id": 1330888,
+            "name": "Andy Bean",
+            "character": "Stanley Uris",
+            "profile_path": "/4BiltJsO0KO7E9Mgyj8wMekbEBA.jpg",
+            "order": 6
+          },
+          {
+            "id": 137905,
+            "name": "Bill Skarsgård",
+            "character": "Pennywise",
+            "profile_path": "/xBXLx1m0uzhXIbY3wN8lmPGeUHl.jpg",
+            "order": 7
+          },
+          {
+            "id": 1274508,
+            "name": "Jaeden Martell",
+            "character": "Young Bill Denbrough",
+            "profile_path": "/oR7ZJsOHMNFzM1HeugV4a4qCMSF.jpg",
+            "order": 8
+          },
+          {
+            "id": 1148455,
+            "name": "Wyatt Oleff",
+            "character": "Young Stanley Uris",
+            "profile_path": "/gDnNsX6haa6Dx7yDCwFxIbJfQlj.jpg",
+            "order": 9
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-01-14",
+      "day": 28,
+      "movie": {
+        "id": 597,
+        "title": "Titanik",
+        "original_title": "Titanic",
+        "year": 1997,
+        "poster_path": "/hEntfzxB8yUXIxqZY929dELjLsi.jpg",
+        "backdrop_path": "/xnHVX37XZEp33hhCbYlQFq7ux1J.jpg",
+        "vote_average": 7.903,
+        "vote_count": 26541,
+        "popularity": 29.238,
+        "original_language": "en",
+        "overview": "Titanik (orijinal adı: Titanic), 1997 yapımı epik bir romantik ve felaket filmidir. Yönetmenliğini James Cameron’ın üstlendiği film, gerçek bir olaydan esinlenerek yazılmıştır. Film, 1912’deki ünlü RMS Titanic’in ilk seferinde geçer ve geminin trajik batışıyla birlikte aşk ve trajediyi işler. Başrollerinde Leonardo DiCaprio (Jack Dawson) ve Kate Winslet (Rose DeWitt Bukater) yer alır.  Titanik, çarpıcı görsel efektleri, etkileyici sinematografisi ve duygusal yoğunluğu ile öne çıkar. Film, dünya çapında büyük bir gişe başarısı elde etmiş ve 11 Oscar ödülü kazanarak sinema tarihinde önemli bir yere sahip olmuştur.",
+        "genre_ids": [
+          18,
+          10749
+        ],
+        "cast": [
+          {
+            "id": 6193,
+            "name": "Leonardo DiCaprio",
+            "character": "Jack Dawson",
+            "profile_path": "/wo2hJpn04vbtmh0B9utCFdsQhxM.jpg",
+            "order": 0
+          },
+          {
+            "id": 204,
+            "name": "Kate Winslet",
+            "character": "Rose DeWitt Bukater",
+            "profile_path": "/e3tdop3WhseRnn8KwMVLAV25Ybv.jpg",
+            "order": 1
+          },
+          {
+            "id": 1954,
+            "name": "Billy Zane",
+            "character": "Cal Hockley",
+            "profile_path": "/7CBwxqE00aZAAEBaRkapylgdi15.jpg",
+            "order": 2
+          },
+          {
+            "id": 8534,
+            "name": "Kathy Bates",
+            "character": "Molly Brown",
+            "profile_path": "/nP7zRmXJyMyj2OohclSSo6JAEbD.jpg",
+            "order": 3
+          },
+          {
+            "id": 3713,
+            "name": "Frances Fisher",
+            "character": "Ruth DeWitt Bukater",
+            "profile_path": "/3iNDgd54IIj8g8hGqhhUjM6TeWd.jpg",
+            "order": 4
+          },
+          {
+            "id": 8535,
+            "name": "Gloria Stuart",
+            "character": "Old Rose",
+            "profile_path": "/9aG7UUX3PWIGGf1KRY5TsBSoNz9.jpg",
+            "order": 5
+          },
+          {
+            "id": 2053,
+            "name": "Bill Paxton",
+            "character": "Brock Lovett",
+            "profile_path": "/aLdNe6mt1cSi2zWlUYRregzfis5.jpg",
+            "order": 6
+          },
+          {
+            "id": 1369,
+            "name": "Bernard Hill",
+            "character": "Captain Smith",
+            "profile_path": "/5i8bj2nsTrFU2ddSynleOjapxor.jpg",
+            "order": 7
+          },
+          {
+            "id": 2076,
+            "name": "David Warner",
+            "character": "Spicer Lovejoy",
+            "profile_path": "/yIi18NhnwFTlbsWvRBdMT2Ido6Y.jpg",
+            "order": 8
+          },
+          {
+            "id": 8536,
+            "name": "Victor Garber",
+            "character": "Thomas Andrews",
+            "profile_path": "/zPkpRPdW7rEm4fjgoJNz8hAZ6av.jpg",
+            "order": 9
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-01-15",
+      "day": 29,
+      "movie": {
+        "id": 680,
+        "title": "Ucuz Roman",
+        "original_title": "Pulp Fiction",
+        "year": 1994,
+        "poster_path": "/AgY33Wtg4737MhYopJSFyKWhKsO.jpg",
+        "backdrop_path": "/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+        "vote_average": 8.487,
+        "vote_count": 29389,
+        "popularity": 37.0904,
+        "original_language": "en",
+        "overview": "Jules Winnfield ve Vincent Vega, mafya babası patronları Marsellus Wallace’tan çalınan bir çantayı geri almaya giden iki profesyonel tetikçidir. Wallace aynı zamanda Vincent’a, kendisi birkaç gün sonra şehir dışındayken karısını dışarı çıkarmasını söyler. Butch Coolidge, bir sonraki maçını kaybetmesi için Wallace’tan para alan yaşlı bir boksördür. Honey Bunny ve Pumpkin, yer değişikliğine ihtiyaçları olduğuna karar veren soyguncu bir çifttir. Görünüşte birbirleriyle alakası olmayan bu insanların hayatları, hem heyecanlı hem de eğlendirici bir sinema filmi macerasında nefes kesici bir şekilde birleşecektir.",
+        "genre_ids": [
+          53,
+          80,
+          35
+        ],
+        "cast": [
+          {
+            "id": 8891,
+            "name": "John Travolta",
+            "character": "Vincent Vega",
+            "profile_path": "/ap8eEYfBKTLixmVVpRlq4NslDD5.jpg",
+            "order": 0
+          },
+          {
+            "id": 2231,
+            "name": "Samuel L. Jackson",
+            "character": "Jules Winnfield",
+            "profile_path": "/AiAYAqwpM5xmiFrAIeQvUXDCVvo.jpg",
+            "order": 1
+          },
+          {
+            "id": 139,
+            "name": "Uma Thurman",
+            "character": "Mia Wallace",
+            "profile_path": "/xuxgPXyv6KjUHIM8cZaxx4ry25L.jpg",
+            "order": 2
+          },
+          {
+            "id": 62,
+            "name": "Bruce Willis",
+            "character": "Butch Coolidge",
+            "profile_path": "/w3aXr1e7gQCn8MSp1vW4sXHn99P.jpg",
+            "order": 3
+          },
+          {
+            "id": 10182,
+            "name": "Ving Rhames",
+            "character": "Marsellus Wallace",
+            "profile_path": "/rqPdVVIdt45wNDsXuREu2M6PApU.jpg",
+            "order": 4
+          },
+          {
+            "id": 1037,
+            "name": "Harvey Keitel",
+            "character": "The Wolf",
+            "profile_path": "/7P30hza1neYWW3r7rSQOC736K2Z.jpg",
+            "order": 5
+          },
+          {
+            "id": 7036,
+            "name": "Eric Stoltz",
+            "character": "Lance",
+            "profile_path": "/idFuM00MeVmwGAiqvDaJcBiLAmD.jpg",
+            "order": 6
+          },
+          {
+            "id": 3129,
+            "name": "Tim Roth",
+            "character": "Pumpkin",
+            "profile_path": "/qSizF2i9gz6c6DbAC5RoIq8sVqX.jpg",
+            "order": 7
+          },
+          {
+            "id": 99,
+            "name": "Amanda Plummer",
+            "character": "Honey Bunny",
+            "profile_path": "/wEwyajjePFVVn2wFdH1NH7z9Qn5.jpg",
+            "order": 8
+          },
+          {
+            "id": 2319,
+            "name": "Maria de Medeiros",
+            "character": "Fabienne",
+            "profile_path": "/coLcUZeavLvAZxHZTq7hzwUsKOx.jpg",
+            "order": 9
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-01-16",
+      "day": 30,
+      "movie": {
+        "id": 236041,
+        "title": "En Büyük Şaban",
+        "original_title": "En Büyük Şaban",
+        "year": 1983,
+        "poster_path": "/lWuG9STXfqoqVQTrjkkYNROhe8r.jpg",
+        "backdrop_path": "/esVaU8LiHjBFUtWzAfzVPrdMV3s.jpg",
+        "vote_average": 6.3,
+        "vote_count": 43,
+        "popularity": 8.8901,
+        "original_language": "tr",
+        "overview": "Köyden İstanbul'a zengin olma hayalleriyle gelen Şaban, dolandırılarak bütün parasını kaybeder. Çaresiz bir şekilde gezerken karısı tarafından terk edilmiş zengin iş adamı Faik Bey ile tanışır. Sarhoş olduğu zamanlarda Şaban ile çok yakın arkadaş olan Faik Bey, kendine gelince Şaban’ı tanımaz. Şaban, bir gün çiçek satıcısı Hülya ile karşılaşır. Gözleri görmemesine rağmen çiçek satarak ailesinin geçimini sağlayan Hülya'ya âşık olur. Hülya’nın durumu gören Şaban, ona yardım etmeye çalışacaktır.",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "cast": [
+          {
+            "id": 97272,
+            "name": "Kemal Sunal",
+            "character": "Şaban",
+            "profile_path": "/nT6zfupn0Q3oyCWHXCvyKS7CcLE.jpg",
+            "order": 0
+          },
+          {
+            "id": 1271295,
+            "name": "Nilgün Bubikoğlu",
+            "character": "Hülya",
+            "profile_path": "/6O6G5co1NTfXmrvleVJZu5TSveo.jpg",
+            "order": 1
+          },
+          {
+            "id": 571429,
+            "name": "Dinçer Çekmez",
+            "character": "Boksör",
+            "profile_path": "/2aEz3R2Ynrxg07i9JyLGnyZa3Gg.jpg",
+            "order": 2
+          },
+          {
+            "id": 571439,
+            "name": "Reha Yurdakul",
+            "character": "Kamil",
+            "profile_path": "/zU2Hl33cNpFx1yrC0GEp1sJozUg.jpg",
+            "order": 3
+          },
+          {
+            "id": 1271734,
+            "name": "Ayten Erman",
+            "character": "Ayten",
+            "profile_path": "/A4e97JJqddxYFg0jQbRd6mwTWJ2.jpg",
+            "order": 4
+          },
+          {
+            "id": 1136675,
+            "name": "Kamran Usluer",
+            "character": "",
+            "profile_path": "/pcwIYN7kvB7UqaIXGsg9xVprhJR.jpg",
+            "order": 5
+          },
+          {
+            "id": 2171046,
+            "name": "Cevdet Arıkan",
+            "character": "",
+            "profile_path": "/frC2pntstQfNjTEIbf0Fm6skWrM.jpg",
+            "order": 6
+          },
+          {
+            "id": 1452512,
+            "name": "Celal Yonat",
+            "character": "",
+            "profile_path": "/ok7UKq6AZxgsXtSGKQ3x2meCMSp.jpg",
+            "order": 7
+          },
+          {
+            "id": 1353777,
+            "name": "Turgut Demirağ",
+            "character": "",
+            "profile_path": "/8cJx7wxZNZHTYowjIkD0MePVFJf.jpg",
+            "order": 8
+          },
+          {
+            "id": 1202115,
+            "name": "Ekrem Dümer",
+            "character": "",
+            "profile_path": "/2Xyb05zxPZExqyr5sYlDAKTc3ir.jpg",
             "order": 9
           }
         ]
